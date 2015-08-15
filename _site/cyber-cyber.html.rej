@@ -1,0 +1,10 @@
+***************
+*** 18,22
+-     	color: #B29946;
+-     	background-color: #38062C }
+-   a, a:visited, a:active {
+-     	color: #B29946;
+- 	}
+--- 18,19 -----
++     color: #B29946;
++     background-color: #38062C }
