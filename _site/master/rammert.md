@@ -290,3 +290,91 @@ Folgt den generalisierten Medien der gesellschaftlichen Problemlösung: Wahrheit
 
 3. Technologische Rationalität
 
+Technologie offenbar nur Bereitstellung von Wissen, das in den Orientierungskomplexen als relevant gilt - hat technische Entwicklung damit keine Autonomie? Um diesen Dualismus zu umgehen, führt Rammert "technologische Rationalität" ein. 
+
+These: Funktionalität und Autonomie der Technologie folgen aus einer spezifischen Rationalität der technologischen Forschung. Technologieentwicklung hat Beschleunigungseffekte, die Orientierungskomplexe zur Anpassung zwingen. Woher kommen diese Handlungsvorteile?
+
+Unterschied zwischen Wissenschaft und Technologie: Heterogene Wurzeln, trotzdem kann nur noch kontextuell unterschieden werden (Rekurs auf Orientierungskomplexe). Gemeinsamkeit: Beide sind über die Kategorie der Forschung an denselben operativen Wahrheitsbegriff gebunden.
+Unterschied: Jede wissenschaftliche Erkenntnis entwickelt ein Potential zur Konstruktion von Realität auf theoretischer Grundlage (das heißt zur Technologie) und jede Entwicklung von Technik zieht ein wissenschaftliches Interesse nach Rekonstruktion des Funktionierens nach sich. 
+
+Wissenschaft: analytisch und reduktionistisch, findet finite Erklärungen
+Technologie: ist synthetisch und holistisch, ist offen und ziellos, stellt ein Potential dar, hat kein immanentes Erkenntnisinteresse
+-> Angewiesenheit der Technologie auf Orientierungskomplexe
+
+Forschung führt zur Synthese, ist eine Art Schleuse. Jede Wissenschaft kann zu Technologie werden, jede Technologie verwissenschaftlicht 
+
+[Nicht weiter spannend für meine Themensetzung]
+
+4. Stufen der Interdependenz von Industrie und Forschung
+
+Gesellschaftliche Orientierung der Technologieentwicklung - Beschränkung auf ökonomischen Orientierungskomplex der auf industrielle Entwicklung im Kapitalismus und Verhältnis zur Forschung einwirkt. 
+- Verhältnis von Industrie und Forschung wird oft einseitig, unter Subsumtion unter eine Logik, bspw. Verwissenschaftlichung oder Kapital gesehen
+- es wird übersehen, dass es auch Eigenlogiken der Industrie gibt 
+
+Ein modernes Unternehmen ist nicht nur Realisation der Kapitalverwertung, es ist auch Ort der Forschung und Politik. 
+
+Akteure wenden reflexive Strategien an, um unterschiedliche, z.T. inkonsistente Rationalitätsmuster zu kombinieren 
+
+Geschichtlicher Rekurs: 
+- Ende des 18. Jhd. kaum Berührungen zwischen Wissenschaft und Industrie, lediglich über neue Maschinen, die entwickelt wurde. 
+- Ende des 19. Jhd. stärkeres Interesse an fortlaufender Innovation führt zu dauerhaften Kontakten zwischen Forschung und Industrie. 
+- Ende des 19. Jhd. verlagert sich das Interesse auf Monopolisierung von Marktchancen durch Systemerfindung und Forschungsvorsprünge. Forschungs- und Entwicklungsprozess werden Bestandteil des Großunternehmens. 
+- Seit Mitte 20. Jhd: Wissenschaftlich-industrielle Komplexe entstehen aus staatlich koordinierten Großprojekten, industrielle Entwicklung ist zunehmend von Forschung abhängig, diese wird durch industrielle Prioritäten geprägt - Reflexion der wechselseitigen Potential wird bestandteil der industriellen und wissenschaftlichen Produktionsstrategie 
+
+
+5. Kritik reduktionistischer Vergesellschaftungskonzepte 
+
+Oft wird nur eine vorherrschende Logik herangezogen, um die Vergesellschaftung zu erklären
+
+Logik der wissenschaftlich-technischen Entwicklung: Abhängigkeit von industrieller Produktion von technologischer Invention, von Logik der Technologieentwicklung beherrschte Gesellschaft - moderne Technik (nach Ellul) ist ein Automatismus von Technikwahlen, die sich am "one best way" und dem Kalkül der Effizienzsteigerung orientieren
+
+Logik der ökonomischen Entwicklung: Statt Verwissenschaftlichung sehen diese Theoretiker eine Subsumtion der Wissenschaft unter das Kapital, allerdings gibt es Innovationen die nich-ökonomischer Forschung entstammen und es mehren sich Techniken die kostenvermehrend sind (bspw. Umweltschutztechnologien)
+These ist stimmig für die Bernesserungen und Erneuerungen, aber nicht, wenn die reele Subsumtion der Forschung unter das Kapital gemeint ist. 
+Weiterhin wird eine Unterwerfung unter eine abstrakte technologische und ökonomische Rationalität angenommen, oder unter eine Logik der Beherrschung. Technologie wird hierbei als verselbstständigte Form von Klassenherrschaft aufgefasst (Marcuse) 
+
+
+6. Der Wandel vom industriellen zum wissenschaftlich-reflexiven Strategietyp 
+
+- Gehen von der Existenz mehrerer Logiken nebeneinander aus, die das Ergebnis funktionaler Ausdifferenzierung von Rationalitätsmustern und entsprechender Subsysteme sind. Organistaionen sind durch die Verknüpfung verschiedener Rationalitätsmuster charakterisiert und reflexive Strategien der Akteure vermitteln zwischen ihnen. 
+
+Beispielsweise wird die Autonomie der Forschung als Widerstand vernachlässigt, und die rasante Innovation bedrohte auch die Sicherstellung des ökonomischen Erfolgs. Gründung eigener Industrieforschungslabors war auch Ausdruck der strategischen Interdependenz. Gleichzeitig können Forschungsstrukturen nicht komplett dem ökonomischen Rationalitätsmuster unterstellt werden, es würde Produktivität und Kreativität eingeschränkt. Offenere und reflexivere Formen der Verknüpfung zwischen den beiden Rationalitätsmustern mussten entwickelt werden. 
+
+Soziale Instanzen und Akteure wurden durch den grenzüberschreitenden Charakter moderner Technologieentwicklung so sehr vermehrt, dass die Steuerung urch eine Logik immer unwahrscheinlicher wird und durch reflexive Selbststeuerung abgelöst wird. 
+
+Durch gegenseitige Interdependenz wird eine gemeinsame Leistungssteigerung möglich, die der ökonomischen Effiziez und der wissenschaftlichen Innovativität 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 5: Akteure und Technologieentwicklung - wie ließe sich Touraines Aussage von der Rückkehr des Akteurs für die techniksoziologische Forschung nutzen?
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+1. Das Problem. Der mangelnde Akteurbezug bei der Erklärung von Technologieentwicklung 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+

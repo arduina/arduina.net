@@ -290,3 +290,310 @@ Folgt den generalisierten Medien der gesellschaftlichen Problemlösung: Wahrheit
 
 3. Technologische Rationalität
 
+Technologie offenbar nur Bereitstellung von Wissen, das in den Orientierungskomplexen als relevant gilt - hat technische Entwicklung damit keine Autonomie? Um diesen Dualismus zu umgehen, führt Rammert "technologische Rationalität" ein. 
+
+These: Funktionalität und Autonomie der Technologie folgen aus einer spezifischen Rationalität der technologischen Forschung. Technologieentwicklung hat Beschleunigungseffekte, die Orientierungskomplexe zur Anpassung zwingen. Woher kommen diese Handlungsvorteile?
+
+Unterschied zwischen Wissenschaft und Technologie: Heterogene Wurzeln, trotzdem kann nur noch kontextuell unterschieden werden (Rekurs auf Orientierungskomplexe). Gemeinsamkeit: Beide sind über die Kategorie der Forschung an denselben operativen Wahrheitsbegriff gebunden.
+Unterschied: Jede wissenschaftliche Erkenntnis entwickelt ein Potential zur Konstruktion von Realität auf theoretischer Grundlage (das heißt zur Technologie) und jede Entwicklung von Technik zieht ein wissenschaftliches Interesse nach Rekonstruktion des Funktionierens nach sich. 
+
+Wissenschaft: analytisch und reduktionistisch, findet finite Erklärungen
+Technologie: ist synthetisch und holistisch, ist offen und ziellos, stellt ein Potential dar, hat kein immanentes Erkenntnisinteresse
+-> Angewiesenheit der Technologie auf Orientierungskomplexe
+
+Forschung führt zur Synthese, ist eine Art Schleuse. Jede Wissenschaft kann zu Technologie werden, jede Technologie verwissenschaftlicht 
+
+[Nicht weiter spannend für meine Themensetzung]
+
+4. Stufen der Interdependenz von Industrie und Forschung
+
+Gesellschaftliche Orientierung der Technologieentwicklung - Beschränkung auf ökonomischen Orientierungskomplex der auf industrielle Entwicklung im Kapitalismus und Verhältnis zur Forschung einwirkt. 
+- Verhältnis von Industrie und Forschung wird oft einseitig, unter Subsumtion unter eine Logik, bspw. Verwissenschaftlichung oder Kapital gesehen
+- es wird übersehen, dass es auch Eigenlogiken der Industrie gibt 
+
+Ein modernes Unternehmen ist nicht nur Realisation der Kapitalverwertung, es ist auch Ort der Forschung und Politik. 
+
+Akteure wenden reflexive Strategien an, um unterschiedliche, z.T. inkonsistente Rationalitätsmuster zu kombinieren 
+
+Geschichtlicher Rekurs: 
+- Ende des 18. Jhd. kaum Berührungen zwischen Wissenschaft und Industrie, lediglich über neue Maschinen, die entwickelt wurde. 
+- Ende des 19. Jhd. stärkeres Interesse an fortlaufender Innovation führt zu dauerhaften Kontakten zwischen Forschung und Industrie. 
+- Ende des 19. Jhd. verlagert sich das Interesse auf Monopolisierung von Marktchancen durch Systemerfindung und Forschungsvorsprünge. Forschungs- und Entwicklungsprozess werden Bestandteil des Großunternehmens. 
+- Seit Mitte 20. Jhd: Wissenschaftlich-industrielle Komplexe entstehen aus staatlich koordinierten Großprojekten, industrielle Entwicklung ist zunehmend von Forschung abhängig, diese wird durch industrielle Prioritäten geprägt - Reflexion der wechselseitigen Potential wird bestandteil der industriellen und wissenschaftlichen Produktionsstrategie 
+
+
+5. Kritik reduktionistischer Vergesellschaftungskonzepte 
+
+Oft wird nur eine vorherrschende Logik herangezogen, um die Vergesellschaftung zu erklären
+
+Logik der wissenschaftlich-technischen Entwicklung: Abhängigkeit von industrieller Produktion von technologischer Invention, von Logik der Technologieentwicklung beherrschte Gesellschaft - moderne Technik (nach Ellul) ist ein Automatismus von Technikwahlen, die sich am "one best way" und dem Kalkül der Effizienzsteigerung orientieren
+
+Logik der ökonomischen Entwicklung: Statt Verwissenschaftlichung sehen diese Theoretiker eine Subsumtion der Wissenschaft unter das Kapital, allerdings gibt es Innovationen die nich-ökonomischer Forschung entstammen und es mehren sich Techniken die kostenvermehrend sind (bspw. Umweltschutztechnologien)
+These ist stimmig für die Bernesserungen und Erneuerungen, aber nicht, wenn die reele Subsumtion der Forschung unter das Kapital gemeint ist. 
+Weiterhin wird eine Unterwerfung unter eine abstrakte technologische und ökonomische Rationalität angenommen, oder unter eine Logik der Beherrschung. Technologie wird hierbei als verselbstständigte Form von Klassenherrschaft aufgefasst (Marcuse) 
+
+
+6. Der Wandel vom industriellen zum wissenschaftlich-reflexiven Strategietyp 
+
+- Gehen von der Existenz mehrerer Logiken nebeneinander aus, die das Ergebnis funktionaler Ausdifferenzierung von Rationalitätsmustern und entsprechender Subsysteme sind. Organistaionen sind durch die Verknüpfung verschiedener Rationalitätsmuster charakterisiert und reflexive Strategien der Akteure vermitteln zwischen ihnen. 
+
+Beispielsweise wird die Autonomie der Forschung als Widerstand vernachlässigt, und die rasante Innovation bedrohte auch die Sicherstellung des ökonomischen Erfolgs. Gründung eigener Industrieforschungslabors war auch Ausdruck der strategischen Interdependenz. Gleichzeitig können Forschungsstrukturen nicht komplett dem ökonomischen Rationalitätsmuster unterstellt werden, es würde Produktivität und Kreativität eingeschränkt. Offenere und reflexivere Formen der Verknüpfung zwischen den beiden Rationalitätsmustern mussten entwickelt werden. 
+
+Soziale Instanzen und Akteure wurden durch den grenzüberschreitenden Charakter moderner Technologieentwicklung so sehr vermehrt, dass die Steuerung urch eine Logik immer unwahrscheinlicher wird und durch reflexive Selbststeuerung abgelöst wird. 
+
+Durch gegenseitige Interdependenz wird eine gemeinsame Leistungssteigerung möglich, die der ökonomischen Effizienz und der wissenschaftlichen Innovativität 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 5: Akteure und Technologieentwicklung - wie ließe sich Touraines Aussage von der Rückkehr des Akteurs für die techniksoziologische Forschung nutzen?
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+1. Das Problem: Der mangelnde Akteurbezug bei der Erklärung von Technologieentwicklung 
+
+
+Zentrale Frage: Wodurch werden technologische Entwicklungspfade bestimmt? Ansätze beziehen sich auf strukturelle Tendenzen und sehen Entwicklungen als Resultate von Strukturlogiken, während Prozesse nicht definiert werden können. 
+Es bedarf einer Theorie kollektiver Akteure, die situative Interdependenz-strukturen und strategische Orientierungskonzepte zu ihrem Gegensatz macht 
+
+Merkmale gegenwärtiger Technologieentwicklung: 
+- Konfiguration des technischen Ensembles einer Gesellschaft wird durch Prioritäten und Konzepte verschiedener sozialer Instanzen geprägt 
+- Entwicklungszusammenhang schließt Forschungshandeln in Erzeugunskontexten und das Entscheidungshandeln in Verwendungskontexten mit ein 
+- Technoligien werden nicht nur über Verbesserung, sondern auch über die Durchsetzung neuer Konzepte und Modelle ihrer Integration (und der Organisierung der System/Mensch-Schnittstellen) in soziotechnischen Systemen
+
+Das impliziert Ansprüche an Erklärungsansätze:
+- Unterscheiden sie und gehen sie explizit auf die Zusammenhänge zwischen Strukturen und Akteurdynamik ein, zB zwischen ungleichen Interdependenzverhältnissen auf dem Arbeitsmarkt?
+- Gehen sie auf unterschiedlich institutionalisierte Kontexte ein von Erzeugung und Verwendung (Universität und Großkonzern über Haushalt)
+- Machen sie Angaben zum Handlungspotential des einzelnen, das in Zusammenhang mit anderen Akteuren steht?
+
+Grenzen bisheriger Ansätze: Handlungspotential von Akteuren wird nur als Resultat ihrer Stellung in ökonomischen Strukturen gesehen. Der Blick auf soziale Bewegungen und die Remoralisierung bislang technsicher Fragen beispielsweise oder die Politisierung industrieller Produktion baut ein handlungspotential auf, das zur Reorganisation existierender Strukturen führen kann. Lösung nach Touraine: Rückkehr des Akteurs und die Dimensionierung seines handlungspotentials.
+
+
+2. Die Kritik: Grenzen der Erklärung durch einsinnige Strukturlogiken 
+
+Versuche, Technologieentwicklung anhand einer einzigen Strukturlogik zu erklären sind der sachlichen, zeitlichen und sozialen Differenziertheit nicht mehr angemessen:
+
+Sachlich: Es müssten unterschiedliche Rationalitätsstandards berücksichtigt werden
+Zeitlich: Es kann nicht die gleiche Strukturlogik für die Invention und Phase der Innovation wirken, dazwischen liegen 10-50 Jahre
+Sozial: Es sind unterschiedliche Akteure beteiligt mit eigenen Orientieurungsvorstellungen und sie ihre Präferenzen sind Ergebnis einer Strategie, dich Interdependenzen zu anderen Akteuren berücksichtigt 
+
+-> Vervielfältigung von Interdependenzbeziehungen führt zu einem neuen Strukturtypus - fügt sich nicht mehr einer einzigen Strukturlogik, sondern erfodert ein Konzept der wechselseitigen Begrenzung von Strukturen. Strukurlogiken haben Geltung für jeweils ein handlungssystem, aber die Struktur der Wechselbeziehung ist nicht durch die Dominanz einer Strukturlogik bestimmt, sondern durch die gegenseitiges Beeinflussen -> Gegenstand historisch-empirischer Forschung. Dafür ist die Akteurperspektive in Kombination mit der Strukturtheorie erforderlich. 
+
+Handlungstheorie notwendig, um die Umsetzung der Strukturlogik in die Akteurdynamik 
+
+Akteure werden oft lediglich als Platzhalter einer Kapitallogik reduziert betrachtet, bspw. Unternehmer. Auch die Logik der Beherrschung verallgemeinert die strukturelle Machtstellung von Unternehmen gegenüber Arbeitern und politischen Organisationen, so dass sie eher als Opfer von ungleich großen Handlungspotentialen, denn als Akteure gesehen werden. Aber nicht alle Unterfangen führten zum intendierten Resultat, auch Arbeiter haben sich durchsetzen können. 
+
+Handlungsdynamik der Akteure ist mit Strukturannahmen nicht zu fassen - Akteure sind selbst an der Reproduktion und Variationen von Strukturen beteiligt - durch begrenzung der Handlungschancen und Steigerung des eigenen Handlungspotentials. 
+
+
+
+3. Das Lösungsangebot: Die historische Handlungssystemtheorie Alain Touraines
+
+Erklärungstheorie zwischen methodologischem Stukturalismus und methodologischem Individualismus? Differenz von Akteur- und Systemperspektive 
+
+Touraine ersetzt die Trennung zwischen Akteur und System durch eine Interdependenzbeziehung:
+- Beziehungen zwischen Akteuren bestimmen ihr Handeln (hinsichtlich Konfliktpotential und kulturelle Orientierung) 
+- Während der Akteur durch soziale Situation bestimmt wird, ist er an ihrer Produktion und Reproduktion gleichzeitig beteiligt
+- soziale Akteure werden aufgewertet ohne Illusion hinsichtlich der vorhandenen Machtstrukturen zu produzieren
+
+Was ist ein Akteur? 
+- weder voluntaristisch handelndes Subjekt noch seine historische Mission erfüllend 
+- Akteure sind kollektive Handlungseinheiten, die unterhalb der gesellschaftlichen Strukturen und oberhalb einzelner Handlungen konzeptuell anzusiedeln sind 
+- haben eigene Handlungsfähigkeit, die sie duch Koordinierung von Einzelhandlungen ihrer Mitglieder erreichen  
+- Kollektive Handlungseinheiten werden aufgrund ihrer Organisiertheit einem kollektiven Akteur zugerechnet 
+- Sozialer Akteur: 
+	- koordinierte Handlungsfähigkeit, egal ob durch formale Organisationsstrukturen oder gerichtete Mobilisierungsbereitschaften
+	- sichtbarer Interdependenz mit anderen Akteuren, die sich in Form von Anerkennung, Allianzen, Konkurrenzen oder Gegenerschaften äußern, 
+	- ein kulturelles Modell, in dem gemeinsam geteilte Interpretationen der Wirkklichkeit und programmatische Zielorientierung aufeinander bezogen sind
+
+-> Unternehmen, soziale Bewegungen, Verbände... 
+
+--> Diese kollektiven Akteure sind die gesellschaftlichen Instanzen der Wahrnehmung und Abarbeitung von Strukturpoblemen, sie erzeugen Interpretationsmodelle der sozialen Wirklichkeiten und bilden in Lernprozessen Rationalitätsstandards für ihr Handeln heraus
+- sind die Orte wo neue Strategien entworfen und erprobt werden 
+
+
+4. Die Dimension des Handlungspotentials: Ökonomische, organisatorische und kulturelle Macht 
+
+Für den Verlauf der Technikeinführung ist die Machtasymmetrie zwischen Arbeitgeber und Arbeitnehmer nicht ausreichen, es müssen die ausgeschöpften Handlungspotentiale angegeben werden
+
+Handlungspotential: Fähigkeit, Dinge/Sachstrukturen zu erzeugen und Handlungssysteme zu organisieren. Wenn Unternehmer die Struktur von Produktionstechnologien festlegen, können sie als strategisch zentrale Akteure gelten 
+
+Macht: 
+- Strukturen für das Handeln der anderen Akteure schaffen und 
+- vorhandene Strukturen zum eigenen Vorteil umorientieren oder nutzen können
+- kulturelle Bedeutung produzieren können 
+
+Kulturelles Handlungspotential: 
+- Ereignisse und Sachverhalte benennen können - steuern, ob eine Entwicklung überhaupt und wie wahrgenommen wird
+- Fähigkeit, den Phänomenen Bedeutung zu verleihen, bspw. ökologische Verträglichkeit 
+- Interpretationen begründen und legitimieren können 
+
+-> Dieses kulturelle Modell der Handlungsorientierung kann strukturelle Zwänge überwinden und überschreiten - konstitutiver Ort der Neuerung und Veränderung 
+
+Mit dieser akteurorientierten Perspektive lässt sich der gesamte Prozess der Technologieentwicklung differenziert untersuchen:
+
+- da sie Vorstrukturierung nicht aus dem Blick verliert
+- da sie alle beteiligten Gruppen und Organisationen als soziale Akteure (duldend, betreibend, verhindernd) mit bestimmten Interessen und Werten identifiziert
+- da die relative Autonomie der Akteure beachtet wird  - indem sie mit unterschiedlichen Strategien die für ihren Handlungszusammenhang geltenden strukturellen Vorgaben umsetzen 
+
+So lässt sich bspw. die Entwicklung des schnellen Brüters erklären, der weder für Poltitik noch für Ingenieure vorteilhaft ist, die NC Technologie musste auf Druck vertrieben werden, da sie nur dem militärischen Anspruch genügte, aber hohe Kosten verursachte
+
+-> wechselnde Akteurdynamiken in verschiednene Phasen, füllen den von Strukturlogiken offen gelassenen Raum für die Erklärung des Prozessverlaufs
+
+Rammert plädiert für eine Veränderung und Ergänzung strukturtheoretischer Ansätze.
+Veränderung: Struktur der Ausdifferenzierung von Handlungssystemen mit Strukturlogiken und Interdependenzbeziehungen zum Thema machen
+Ergänzung: Öffnung für Akteurperspektive, um Strutkurgenese und -variation besser erklären zu können, und indem Interdependenzstrukturen zwischen kollektiven Akteuren und deren Umsetzung in Strategieformulierungen behandelt werden
+
+-> Akteure nicht mehr nur als strukturierte Struktur auffassen, sondern auch als strukturierende Struktur 
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 6: Neue Technologien im Betrieb: Politiken und Strategien der betrieblichen Akteure 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+1. Problemstellung 
+
+Neue Technologien (computergestützt) bringen einen Strukturwandel mit sich, auf den sich Organisationen und ihre Akteure einstellen müssen
+
+Beitrag: Keine industrie- und betriebssoziologische Perspektive, sondern Alzente aus einer organisationssoziologischen Perspektive, die davon ausgeht, dass der neue Charkater der Informations- und Kommunikationstechnologien (IuK-T) eine veränderte Betrachtung des Wandels im Betrieb erfodert. 
+
+1. Ein maschinenorientierter Begriff von Technik kann nicht mehr die Besonderheiten der Informatisierung behandeln 
+2. Nicht mehr von  Einwirkungen der Technologie auf die Arbeitsorganisation ausgehen, sondern ein Konzept für die Strukturierung der Gesamtorganisation des Betriebs entwickeln 
+3. Aufzeigen, dass betriebliche Entscheidungen nicht mehr durch ökonomische oder technologische Rationalitätsstandards abgesichert werden, sondern zunehmend als politische Probleme der Institutionalisierung behandelt werden (politische Rationalisierung) - Abstimmung zwischen Akteuren 
+
+
+2. Informatisierung und betriebliches Sozialsystem 
+
+Merkmale, die neue Technologien von Maschinentechnik unterscheiden: 
+
+1.
+- Haben von vornherin einen systemischen Charakter, Maschinen können getrennt vom betrieblichen Produktionssystem betrachtet werden, und haben einen spezifischen Zweck - IKT und ihre Elemente sind Teil eines umfassenderen technsichen Systems (Bildschirm, Speicher, etc.)
+- Bei IKT können die einzelnen Elemente lose gekoppelt und miteinander kombinierbar sein 
+
+2. Sie ist in erster Linie symbolisches Artefakt, nicht materielles - es sind zugeschrieben Funktionen, die ihr Verhalten bestimmen 
+- Zentraler Ort ist in der Schematisierung und programmatischen Fixierung von Kommunikationsabläufen
+
+Arbeit wurde bisher als elastischere Potenz gegenüber der Technik gesehen - Betriebe wählten erst die Produktionstechnik aus, dann wurde die Arbeit organisiert 
+- Heute gerät die Sozialdimension der Technik in den Blick, Sach- und Sozialdimensionen sind miteinander verknüpft. 
+
+Option der mechanisierten Massenrproduktion: Arbeitskräfte sind eng mit Maschinen und technischen Anlagen verkoppelt, Maschinen sind fest verbunden, Arbeitslräfte sind elastischer Faktor (linear fest verkoppelt)
+
+Informatisierte just-in-time-Produktion: Mensch und Maschine werden entkoppelt, technische Elemente werden variabel, just-in-time-Produktion je nach Kundenwunsch, Arbeitskraft wird als kritische Größe einbezogen (differenziert lose verkoppelt)
+
+Dilemma: Option 1 (traditionelle Massenproduktionstechnologie) ist kostengünstig und unabhängig von Arbeitskräften, riskieren aber unflexibel zu sein bei Marktveränderungen, Option II kann zwar flexibel reagieren, hat aber erhöhte Investitionskosten, Umstellung, Abhängigkeiten von Arbeitskräften 
+
+
+
+3. Organisationskonzepte zwischen Stabilität und Flexibilität
+
+Neues Problem der Entscheidungsorganisation: Aus vielen Informationen die richtigen heraussuchen. 
+
+1. Option: bürokratisch-hierarchische Organisationsstrukturen - schaffen formale Mechanismen, fixierte Aufgabenteilung, starre Autoritäten... Aufbau und Erhalt von Stabilität 
+2. Option: situativ-reagible Organisationsstrukturen - unter turbulenten Umweltbedingungen werden selbstständig arbeitende Einheiten gebildet, die schnell reagieren können, Ablauf ist an Ereignisse gekoppelt, Aufgaben sind variabel, 
+
+Dilemma: Option III lässt zwar Unsicherheiten intern kontrollieren, aber auf Kosten von Innovatität, Option IV ist besser an Dynamiken angepasst, führt aber zu Kontrolldefiziten
+
+
+Daraus ergeben sich extreme und balancierte Typen, die aus Option I - IV wählen 
+
+Extremtypen haben wenig Entwicklungschancen, es zeichnet sich ab, dass gemischte und balancierte Strategien die Betriebe eher in die Lage versetzen, mit dem Dilemma lernen und langfristig erfolgreich umzugehen
+
+
+4. Entscheidungsprozesse und betriebliche Politiken
+
+[nicht besonders interessant]
+
+These: Die sozialen Beziehungen gewinnen für die Prozessintegration an Relevanz 
+
+Entscheidungsprozesse brauchen eindeutige und einheitliche Entscheidungskriterien, diese sind aber je nach Interessen interpretierbar - bspw. durch lokale Rationalitäten oder opportunistische Einstellungen, bspw. durch das Nicht-reporten von Problem an Vorgesetzte
+
+Interessenoffene Mehrdeutigkeit ist bei der Selektion relevanter Infrmationen und bei der Interpretation und Übernahme von instruktiven Kommunikationen (Vorgeben, Anweidungen) - können interessenorientiert zugeschnitten werden, es bildet sich eine Meta-Eben politischer Spiele heraus
+- Diese haben ihr Zentrum im Problem zwischen Kooperationsbereitschaft und Kopperationsentzug von Akteuren - dieser Spielraum wird versucht, durch Regeln zu begrenzen - Arenen entstehen
+
+- Normalität von Konflikten
+- wie wird dieses Material von einer Organisation artikuliert, nachbehandelt und anerkannt bzw. überformt? 
+- Leistungsfähigkeit einer Organisation hängt davon ab, ob sie über Rückopellungsschleifen verfügt, um interne oder externe Konflikte produktiv zu verarbeiten
+- Organisationen müssen Entscheidungsprozesse konfliktoffen halten, um ihr strategisches Potential zu erweitern 
+- Leistungsfähigktiet ist auch die Fähigkeit zur kulturellen Innovation 
+
+[verkürzt da nicht wichtig]
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 7: Neue Technologien - neue Begriffe? - Lassen sich die Technologien der Informatik mit den traditionellen Konzepten der Arbeits- und Industriesoziologie noch angemessen erfassen?
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+1. Das Problem: Befund und Begriff eines technologischen Umbruchs 
+
+
+Theoretisches Dilemma: Theorien, die radikal das Neue erkennen, werden oft durch die Langsamkeit der Entwicklung oder das Auftreten gegenläufiger Tendenzen korrigiert. Theoretiker, deren Blick durch Treue zu ihrem theoretischen Paradigma geprägt ist, wehren sich gegen vorschnelle Annahmen, werden allerdings auch jeden Umbruch in seinen Anfängen verpassen, da sie mit den alten empirischen Maßstäben das Neue nicht erfassen können. 
+
+Ramert: Wir haben es durchaus mit einem neuen Technologietypus zu tun, der auch einen qualitativen Sprung in der Entwicklung von Arbeit mit sich rbingt
+
+
+2. Signatur und Kern gegenwärtiger Hochtechnologien 
+
+Handelt es sich bei der Hochtechnologie um einen modischen Wechsel der Signatur oder tatsächlich um einen Wandel des technologischen Kerns?
+Drei Indizen:
+- Veränderungen der industriellen Branchenstruktur
+- Verschiebungen in der Charakteristik von Basisinnovationen
+- Auftauchen eines neues Maschinenbegriffs bei Ingenieuren 
+
+
+2.1 Von der Einzelbranche auf Basis einer Technologie zur synthetischen Branche auf der Basis vernetzter Technologien
+
+Industriezweige verschmelzen, Vermischung von Technologien und der Vernetzung von Organisationen 
+
+
+2.2 Von der mechanischen zur informatorischen Kopppelung als Grundlage technischer Neuerungen 
+
+Basisinnovationen passieren nun im Bereich der Computertechnologie, LASER, Offset, ICEs... 
+
+2.3 Vom Maschinenbegriff der Kinematik zum Maschinenbegriff der Informatik 
+
+Maschinenbegriff der Kinematik (Maschine ist eine Verbidnung widerstandsfähiger Körper, welche so eingerichtet sind, dass mittelst ihrer mechanischen Naturkräfte genötigt werden können, unter bestimmten Bedingungen bestimmte Wirkungen auszuüben) - wandelt sich zum Maschinenbegriff der Informatik (eine Einrichtung, die Eingangssignale in Ausgangssignale umwandelt, mit Vielfacheingang und Vielfachausgang. Kybernetischer Informationstheoretiker Norbert Wiener: Maschinen sind gleichzeitig Gerät und Nachricht, gewährleisten das Übertragen von Nachrichten. Der Kern des Neuen ist die technsiche Kommunikation, als vierte Funktion, löst die Regelung von rigider Steuermechanik und menschlichen Führung ab, und bildet einen eigenen Komplex der Regelungstechnik. 
+
+Gegenwärtige technologische Theorien haben scih von Konzepten der Orts- und Formveränderung, energetischen Umwandlung zu Konzepten der Regelung von Prozessen, der Übertragung von Nachrichten und der Verarbeitung von Informationen bewegt, Kybernetik, Informatik und Systemtheorie bilden die Grundlage 
+
+
+3. Perspektivwechsel in der Industriesoziologie I: Von der Arbeit sans phrase zur Arbeit als Interaktion und Kommunikation 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
