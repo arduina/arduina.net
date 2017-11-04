@@ -1046,30 +1046,103 @@ Kapitel 12: Der Anteil der Kultur an der Genese einer Technik: Das Beispiel des 
 1. Kulturelle Orientierung der technischen Entwicklung: Eine unterschätzte Forschungsperspektive
 
 
+Oft werden ökonomische Orientierungskomplexe privilegiert und die kulturelle Perspektive wird vernachlässigt. Laut rammert, da die Technikgenese als Phase kaum beachtet wurde und weil Techniken aus dem Produktionsbereich zu schnell auf Informations- und Kommunikationstechniken übertragen wurden. 
+
+Kulturelle Orientierungskomplexe: religiöse Haltungen, moralische Normen, ästhetische Ideale, paradigmatische Orientierungen
+
+Soziale Dynamik der technischen Entwicklung: Mehrere Orientierungskomplexe existieren nebeneinander in unterschiedlichen Konfigurationen
+
+-> Frage: Ob und in welchen Phasen die kulturelle Orientierung die Führungsrolle übernimmt 
+
+
+Als Beispiel wird das Telefon gewählt, das nicht nur materielles Artefakt (mit einer linearen und bruchlosen Fortschrittsgeschichte) ist sondern auch ein kulturelles Artefakt (dessen technische und materiale Formgebung sich ständig verändert) und Teil eines umfassenderen technischen Komplexes. 
+
+Genese des Telefons geschah nicht in einem einzelnen Schritt, es ist ein mehrstufiger Prozess der Generierung und Selektion von Problemen und Lösungen im Wissenschafts-, Erifindungs-, und Anwendungskontext. 
+
+-> Das Telefon ist keine Materialisierung einer einzelnen Idee, wir fahnden nach den kulturellen Wurzeln und Varianten und kulturellen Konzepten von Kommunikation, die in der Technikgenese zu den onstruktionen des Geräts und des technischen Systems geführt haben. 
+
+
+
+2. Der Technikgenese erster Teil: Die kulturellen Wurzeln des physikalischen Apparats in den Praktiken und Idealen der Naturforscher. 
+
+Die entscheidenden Erfindungsideen wurzelten nicht in einem konkreten Bedürfnis der Wirtschaft, des öffentlichen Lebens oder der Politik, die kulturellen Wurzeln sind in den Idealen und experimentellen Praktiken der Naturforscher zu suchen. Die wechselseitige Bezugnahme der naturwissenschaftlichen Forscherkultur hatte eine beschleunigende Wirkung auf die Technikgenese. 
+
+3. Der Technikgenese zweiter Teil: Die soziokulturelle Innovation der Telefonkommunikation.
+
+Entwicklung des Telefons ist das historische Resultat der Herausbildung verschiedener Kommunikationskonzepte - vor der Selektion und Institutionalisierung gab es ein breites Spektrum von Nutzungskonzepten:
+
+Transportkonzept: Einseitige Nachrichtenübermittlung in Codes (kein Zusammenspiel von Sprechen und Zurücksprechen)
+Radiokonzept: Übermittlung von Sendungen an viele gleichzeitig
+Verständigungskonzept: Direktes Gespräch zwischen Personen bei örtlicher Abwesenheit, Gleichzeitig, Wechselseitigkeit, freie Wahl des Kommunikationspartners
+
+Das Verständigungskonzept leitete die weitere technische Entwicklung in Richtung des Ausbaus von Netzen und Vermittlungsstellen 
+
+-> Mit der Erfindung eines Apparates ist eine Technik noch nicht im Alltag angelangt, unterschiedliche Nutzungsvisionen werden in unterschiedlichen Milieus entworfen und erprobt - die dahinterstehenden kulturellen Konzepte prägen die Konzepte. 
 
 
 
 
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 13: Telefon und Kommunikationskultur - Akzeptanz und Diffusion einer Technik im Vier-Länder-Vergleich
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+1. Das Problem 
+
+Durchsetzung des Telefons verlief sehr unterschiedlich in USA, GB, Deutschland und Frankreich, obwohl die gleichen Ressourcen vorhanden waren. Diffusionstheorien können diesen Verlauf nicht erklären, da es um die soziale Projektierung eines künftigen Technikumgangs und die kulturelle Aneignung einer neuen technischen Praxis geht. Für den Wandel von Werten und Lebensstilen fehlt hier ein theoretisches Sensorium. 
+
+2. Diffusion technischer Neuerungen: Soziologisch betrachtet 
+
+Ökonomische und statistische Blickwinkel betrachten oftmals nur die Phase der Reifung einer Technologie und ihrer Verbreitung. Stärker ökonomisch orientierte Theorien betrachten Angebots- und Nachfragestrukturen, um Diffusion zu erklären: Angebotsorientierte Ansätze setzen bei Gewinnerwartungen der Unternehmer an. Erfolgreiches Investitionsverhalten durch andere Unternehmen beschleunigt die Diffusion. Nachfrageorientierte Ansätze betrachten die Entscheidungen der Verbraucher, Preise und verfügbare Einkommen. 
+
+Problematisch: 
+- Ansätze gehen davon aus, dass es bei der Reifung und Diffusion stets um die gleiche Technik geht, die Techniken entscheiden sich aber teilweise erheblich voneinander (vgl das Telefon). 
+- Reduktion auf physische Produktion und ökonomisch-rationale Bewertung vernachlässgt, dass zuerst Nutzungskonzepte entworfen und durchgesetzt werden müssen und mit den Praktiken und Werten in Einklang gebracht werden (über Kosten-Nutzen-Kalkül hinaus)
+- Es wird oft von einem sachlichen Artefakt ausgegangen, es geht aber um die Ausdehnung eines technischen Systems in einer sozialen Umwelt 
+- Es ist eine Kette von sozialen Projekten verschiedener sozialer Akteure, Abläufe zu technisieren, mit Dingen umzugehen und sie zu institutionalisieren
+- Trennung von Artefakt und Umgangsweise, Diffusion ist die Institutionalisierung eines Mediums und der gemäßen technischen Praxis
+
+Vergesellschaftung der Technik: Unterschidliche Nutzungsvisionen als Projekte unterschiedlicher Akteure - dafür muss eine Arena insitutionalisiert werden, in der diese Akteure ein einheitliches System aushandeln und sich daran orientieren können
+
+Kultivierung einer Technik: Umgangsformen werden in das Wissens- und Verhaltensrepertoire alltäglichen handelns eingebaut und gegenüber gegenwärtigen Techniken durchgesetzt. Der Übergang von Expertentechnik zur Laientechnik muss verschiedene Hürdne nehmen, oft sind Pionierkulturen oder soziale Bewegungen dafür entscheidend. 
+
+
+3. Instituionalisierte Arenen und Diskurse der sozialen Akteure zur Diffusion des Telefons 
+
+Es ist weder anhand der Volumina an Kapital, des Wissens oder der Konzentration politischer Macht allein die Diffusion des Telefons zu erklären. Es bedarf der Abstimmung zwischen den Orientierungen des Systems und die Übersetzung der Nutzungspotentiale für die Nutzungspraktiken von laien in ihren Alltagswelten. In Großbritannien gab es eine mangelnde Akkordierung der Interessen, in Frankreich fehlte es an kultueller Legitimation, in Deutschland wurden nicht alle relevanten Akteure in die Arena miteinbezogen. In den USA gab es eine diskursiv abgestimmte Vision der zukünftigen Nutzung und es gab eine erhöhte soziale Akzeptanz.
+
+
+4. Kulturen der Kommunikation und Technikakzeptanz 
+
+Technikakzeptanz: Bereitschaft von gesellschaftlichen Gruppen, neue technsiche Praktiken in die bestehende Alltagspraxis aufzunehmen und zu erproben. 
+
+Die Verbreitung einer Praxis steht im Konflikt mit anderen Technikkulturen. Es bedarf eines kulturellen Wandels, durch den sich Werte und Handlungsstile ändern. 
+
+In Frankreich lag eine monologische Kommunikationsorientierung vor, Zwei-Weg-Kommunikation widersprach dem gängigen hierharchie- und kontrollorientierten Habutus. In Deutschland herrschte ein autoritäter stil, in Großbritannien wurde viel Wert auf Habitus und feine unterschiede, also das Auftreten der Menschen gelegt. In den USA hingegen gab es offene Grenzen für Einwanderer und eine offene und pragmatische Kommunikationskultur, die viel auf mündlicher Form basierte. Diese Informalität öffnete dem Telefon das Tor zur allgemeinen Verbreitung. 
+
+
+5. Anregungen zur Einschätzung der gegenwärtigen Akzeptanzdebatten 
+
+Entscheidend für die Beurteilung der Akzeptanz ist nicht der technische Körper, sondern seine kulturelle Rahmung und Integration in die alltägliche Praxis. Erst die soziale Innovation des Umgangs mit einer Sache vollendet die kulturelle Aneignung einer technischen Innovation. Im Verlauf ihrer Genese durchläuft Technik unterschiedliche Instanzen, die Nutzungsvisionen entwerfen. Diese abweichenden Interessen müssen in einer Verhandlungsarena miteinander konfrontiert und akkordiert werden, damit der Ausbau eines technischen Systems und die Diffusion glücken kann. 
+
+Damit ist eine Technikdebatte keine Krise, sondern die Chance zur kulturellen Rahmung und sozialen Gestaltung einer Technik.
 
 
 
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 14: Paradoxien der Informatisierung - Broht die Computertechnik die Kommunikation im Alltagsleben?
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 
 
+1. Problemstellung: Computertechnik und sozialer Wandel des Alltagslebens
 
-
-
-
-
-
-
-
-
-
-
-
+Wandel von der Industrie- zur Informationsgesellschaft - was unterscheidet den Computer von anderen Maschinen? 
 
 
 
