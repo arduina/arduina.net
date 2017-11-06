@@ -463,7 +463,7 @@ Kapitel 6: Neue Technologien im Betrieb: Politiken und Strategien der betrieblic
 
 Neue Technologien (computergestützt) bringen einen Strukturwandel mit sich, auf den sich Organisationen und ihre Akteure einstellen müssen
 
-Beitrag: Keine industrie- und betriebssoziologische Perspektive, sondern Alzente aus einer organisationssoziologischen Perspektive, die davon ausgeht, dass der neue Charkater der Informations- und Kommunikationstechnologien (IuK-T) eine veränderte Betrachtung des Wandels im Betrieb erfodert. 
+Beitrag: Keine industrie- und betriebssoziologische Perspektive, sondern Akzente aus einer organisationssoziologischen Perspektive, die davon ausgeht, dass der neue Charkater der Informations- und Kommunikationstechnologien (IuK-T) eine veränderte Betrachtung des Wandels im Betrieb erfodert. 
 
 1. Ein maschinenorientierter Begriff von Technik kann nicht mehr die Besonderheiten der Informatisierung behandeln 
 2. Nicht mehr von  Einwirkungen der Technologie auf die Arbeitsorganisation ausgehen, sondern ein Konzept für die Strukturierung der Gesamtorganisation des Betriebs entwickeln 
@@ -1134,7 +1134,7 @@ Damit ist eine Technikdebatte keine Krise, sondern die Chance zur kulturellen Ra
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-Kapitel 14: Paradoxien der Informatisierung - Broht die Computertechnik die Kommunikation im Alltagsleben?
+Kapitel 14: Paradoxien der Informatisierung - Bedroht die Computertechnik die Kommunikation im Alltagsleben?
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1143,6 +1143,216 @@ Kapitel 14: Paradoxien der Informatisierung - Broht die Computertechnik die Komm
 1. Problemstellung: Computertechnik und sozialer Wandel des Alltagslebens
 
 Wandel von der Industrie- zur Informationsgesellschaft - was unterscheidet den Computer von anderen Maschinen? 
+Die konkrete Maschine verliert an Bedeutung, gegenüber der abstrakten Maschine, die darüber entscheiden, wie die Hardware genutzt wird -> Funktionsoffenheit. Computer ist außerdem ein integrierendes Element in komplexen technischen Systemen.
+
+Wandel des Alltagslebens: 1. Technisierung der sozialen Räume, mit weiteren materiellen Artefakten und der Kopplung an Systeme und 2. die Methodisierung der Kommunikation, durch die Umformung in formale Aussagen, die eindeutig und automatisch verarbeitet werden können. 
+
+Folgen sind umstritten und werden kritisch betrachtet, wie die Volkszählung, auf der anderen Seite entstehen selbstorganisierte Netzwerke und kleine Verlage, etc. - es gibt positive und negative Folgen, die genaue Ausgestaltung der Effekte ist aufgrund der Flexibilität der Verwendungen nur schwer vorherzusehen. Beide Sichtweisen folgen aber zwei Fehlschlüssen, zum Einen wird eine Analogie zur maschinisierung der Industrie und Arbeitsabläufen gezogen, zum Anderen werden Krisentheoreme der Ökonomisierung auf das kulturelle Alltagsleben angewandt. 
+
+Situationen des Alltagslebens sind geprägt durch spontane Interaktion, wechselseitige Einbindung, sie formen die soziale Identität des Einzelnen gegenüber der Gesellschaft, in deutenden Gesprächen wird die Kultur weitergegeben und erneuert. Sozialisation, kulturelle Reproduktion bleiben immer auf verständigungsorientierte Kommunikation angewiesen. Eine Krise der Kommunikation liegt vor, wenn:
+
+- Vielfalt der Kommunikation durch ein Orientierungsmodell monopolisiert wird
+- Wechselrede durch formalisierte Verfahren ersetzt würde
+- wenn Funktionssysteme die bunte Mischung konkreter Lebensformen überlagern (?)
+
+
+2. Visionen der Informatisierung des Alltags 
+
+Positive Blickwinkel prophezeien einen gesteigerten Komfort und die Freisetzung von Ressourcen für das Individuum. Negative Blickwinkel befürchten eine Unterordnung des Privaten und Familären unter industriell-ökonomische Logiken. Rationalisierung des Alltagslebens, Kommunikation wird in vorprogrammierte Bahnen gelenkt und durch Medien vermittelt und erfahren. Bildung wird auf Computer ausgerichtet, Kreativität untergraben. Insgesamt wird prophezeit, dass das Alltagshandeln und -denken den Imperativen der Wirtschaft und zentralstaatlichen Kontrolle unterworfen. Kapitalistische Ökonomie verzehre die kommunikativen und motivationalen Ressourcne, die für das Funktionieren uneigennütziger Tätigkeiten wie Erziehung und Pflege benötigt werden. 
+
+3. Technische Entwicklung, Alltagsleben und die Paradoxie der Rationalisierung
+
+Rammerts Kritik: Entspricht nicht den gegenwärtigen Diskussionen zur technischen Entwicklung und Alltagsleben
+
+
+3.1 Soziale Dynamik der technischen Entwicklung
+
+Oft wird die umgekehrte Wirkungsweise von Gesellschaft auf Technologie nicht berücksichtigt, oder ein technologischer Determinismus wird durch eine ökonomischen Determinismus ersetzt. Rammert plädiert daher für das Konzept einer sozialen Dynamik der technischen Entwicklung, das sowohl die gesellschaftlichen Entstehungsbedinungen als auch die Folgen technischer projekte für die Gesellschaft umfasst. So können wechselnde Einflüsse von Akteuren berücksichtigt werden und unterschiedliche Interessen die sich niederschlagen. Ergebnis ist aber immer auf das Zusammenspiel von Bedingungen genüpft und nie an einen einzelnen Akteur. 
+
+
+3.2 Ein interaktionistisches Konzept des Alltagslebens 
+
+Rammert sieht eine Schwäche im unterdefinierten Begriff des Alltagslebens und plädiert für eine interaktionistische Sichtweise. Alltagsleben bezeichnet die sozialen Situationen, in denen der Anschluss der einen an die andere Handlung eher über Sprache vermittelt wird und weniger präformiert ist. Wo sich Biographien bilden und gemeinschaftliche und öffentliche Lebensformen entwickeln und entfalten. Dafür bleibt die Kommunikation unersetzbare Grundlage. 
+
+[finde ich nicht sehr stichhaltig als Definition des Alltagslebens, wo bleibt die Betonung von kulturellen Muster, gesellschaftlichem kollektiven Wissen, etc.?]
+
+
+3.3 Krisen des Alltagslebens und die Paradoxie der Rationalisierung
+ 
+ Welche Bedeutung hat das interaktionistische Muster für die Krisentheorie des Alltagslebens?
+
+ - Es kann nicht davon ausgegangen werden, dass Handlungen und Kommunikation im Alltagsleben grenzenlos technisiert werden können ohne kritische Folgen
+ - Welches Maß an Technisierung verträgt also die Kommunikation?
+ - Weber: Rationalisierung des Alltagslebens führt dazu, dass die kulturellen Wertsphären von Wissenschaft, Kunst und Moral sich voneinander trennen und verselbstständigen und können so nicht mehr grundlegend Orientierung geben 
+ - Technisierung des Handelns führt dazu, dass es von der Verständigung entlastet wird, es gehe darum, die Berechnbarkeit von handeln sichtzustellen und nach Leistung zu steigern
+ - der technische Fortschritt wird von moralischen Bindungen entfesselt, aber die Gesellschaft wird dadurch beherrschbar... 
+
+[verstehe ich nicht]
+
+- Gleichzeitiger Gewinn und Verlust von Handlungsoptionen 
+- Aber die Entfaltung der Wertsphären (Wahrheit, gerechtigkeit, Geschmack) führt an sich noch nicht zu Krisen, sie können meist noch geregelt werden
+- Krisen entstehen dann, wenn eine Verselbstständigung einer Lebenssphäre auf Kosten aller anderen erfolgt, bspw. verständigungsorientierte Kommunikation wird von der wirtschaftlichen Sphäre überlagert
+
+- neue soziale Bewegungen sprechen nicht mehr in erster Linie ökonomische Widersprüche an, sondern auch kulturelle Paradoxien, bspw. wenn es um genetische Identität des menschen geht 
+
+- Die Computertechnik ist aber nicht alleinig dafür verantwortlich zu machen, im Gegenteil - im Konzept der sozialen Dynamik muss davon ausgegangen werden, dass auch gesellschaftliche Umwelten die technische Entwicklung prägen
+
+-> Es sind die sozialen Organisationsprinzipien eines technischen Systems und die Umgangsstile mit dem Computer in verschiedenen soziokulturellen Mileus, die eine entscheidende Rolle für krisenhafte Folgen der Informatisierung spielen. 
+
+
+4. Informatisierung und Wandel der Kommunikationsformen im Alltagsleben 
+
+Krisen in der Industrie lassen sich durch Störungen beobachten, im Alltagsleben ist das eher schwierig. Störungen lassen sich häufig nur auf der Eben der lebsnformen und ihrer impliziten Normalitätsauffassung feststellen. Kommunikation ist elastisch und innovativ, Normen wandeln sich, es gibt daher keine harten Grenzen und kritischen Punkte.
+
+-> Lösung: Durch die ausgemachte Differenz zwischen sozialer Integration (auf Sprache und wechselseitige Verständigung angewiesen) und Systemintegration (kann auf symbolisch generalisierte oder technische Medien umgestellt werden) können Bedingungen für kritische Tendenzen und Grenzen der Informatisierung benannt werden. 
+
+
+4.1 Krise der Identität? 
+
+Es wird einerseits befürchtet, dass der Computer einen maschinellen und autistischen Charakter fördert oder verstärkt, Menschen würden sich der binären Logik und Denkweise anpassen. Optimisten wenden ein, dass mit jedem neuen Artefakt auch der Raum der Selbsterfahrung erweitert wird. Allerdings abstrahiert das zu sehr von den sozialen Bedingungen, den Strukturen der Vernetzung und den Kulturen der Nutzung. Wenn die medienvermittelte Form der Wahrnehmung gegenüber anderen Formen monopolisiert, dann wäre eine Verarmung der Kultur zu befürchten. 
+
+4.2 Krise der Gesellschaft
+
+Gemeinschaften bilden sich duch geteilte Umgangsweisen mit Dingen, Menschen, Symbolen oder durch eine gemeinsame Anschauung und entstehen aus wechselseitigen Verschränkungen von Perspektiven und verständnis. Sie setzen unmittelbare Kommunikation und Verständigung voraus Das ist eher bei losen Handlungsgeflechten des Alltagslebens zu verorten als in formalen Organisationen. 
+
+Der Computer gefährde laut der Kritiker die soziale Vereinsamung und der Umgang begünstige die Schematisierung der Kommunikation im Alltagsleben auf vorgegebene Muster und es entstehen soziale UNgleichheiten. Computeranalphabeten fänden sich am Rande des sozialen Lebens wieder. Optimisten sehen eine Chance, Kontakte zu intensivieren und zu vereinfachen, überregionale Gemeinschaften werden ermöglicht und marginalisierte Personen können sich leichter eingliedern, da Aussehen, Einkommen etc. keine Rolle spiele. 
+
+Beide Auffassungen verfehlen die Probleme sozialer Gemeinschaftsbildung: Eine Einheit hat es auch vorher nicht gegeben, soziale Integration wird dann gefährdet, wenn die Kommunikation und ihre Vielfals durch generalisierte und technische Medien monopolisiert bzw. wenn die Kreation neuer handlungs- und Wahrnehmungsformen dadurch behindert würde. 
+
+Umgekehrt kann das technische Netz der Kommunikation auch nicht die Lücken sozialer Verflechtungen schließen, er kann zwar das kommunikative Handeln von Gruppen verstärken, aber nicht erschaffen. 
+
+
+
+4.3 Krise der Öffentlichkeit und der politischen Kultur? 
+
+Öffentlichkeit: Sphäre sozialen Lebens, in der sich über Diskurse Meinungen bilden, Parteiungen formieren und kulturelle bewegungen in Gang setzen, wo Kultur nicht nur reproduziert, sondern auch weiterentwickelt und verändert wird. 
+
+Befürchtung der Kritiker: Das Erzeugen und Übertragen von informationen wird immer kunstvoller, aber auch stärker zentral und vertikal organisiert. Modernisierungstheoretisch erlösen uns die elektronischen Medien eher von der Abstraktheit und ermöglichen eine Kommunikation im global village und kritische Geschehen können im Nu weltweit wahrgenommen werden. 
+
+Dabei wird unterschlagen, unter welchen sozialen Bedingungen Informationen transformiert werden. Der Prozess der Erzeugung und Interpretation von Bedeutung kann nicht auf allen Ebenen durch technische Informations- und Kommunikationssysteme ersetzt werden, ohne einen Substanzverlust an politischer Kultur auszulösen. Die Wahrnehmung von BIldern und das Verknüpfen von Daten ist auf Intepretation und gemeinsame Erörterung angewiesen. Diese Kommunikationsformen stellen den Kontext her, der den Daten den Sinn gibt. 
+
+Kritisch wird es, wenn 
+1. Medien so organisiert werden, dass sie die isolierte häusliche Privatssphäre gegenüber öffentlichen Diskussionen privilegieren
+2. der individuelle Aufwand, Daten zu Sammeln, Sichten und zu Verwalten so groß wird, dass die Zeit für das Argumentieren entzogen wird
+3. voranging die technischen, okonomischen und beruflichen Umgangsweisen mit dem Computer erlernt werden (statt kreative und soziale Umgangsformen)
+4. die kulturelle Vielfalt der Kommunikationsformen durch Eindimensionalität des industriellen Paradigmas homogenisiert und monopolisiert würde 
+
+
+5. Paradoxien der Informatisierung der Kommunikation im Alltagsleben: Ein Resümee 
+
+Die Krisen des Alltagslebens sind nicht allein in der Informatisierung oder Zunahme von sachlichen Artefakten zu erklären, die Bedingungen für krisenhafte Entwicklungen sind in den Weisen zu suchen, wie mit den Paradoxien der Informatisierung der Kommunikation umgegangen wird:
+
+1. Paradoxie der Differenz von technischer Datenbewegung und sprachlicher Verständigung: Die Lasten der Interpretation, Gewichtung und Kontrolle der Ergebnisse von technisierter Kommunikation werden verschoben auf vor- und nachgelagerte Bereiche. Es steigt der Aufwand, sich darüber zu verständigen, was informatisiert werden soll, rückzuübersetzen, und die Einsicht in die Funktionsweise zu vermitteln. Es steigt der Bedarf an Kommunikation, wo eigentlich entlastet werden soll. 
+2. Paradoxie der Differenz von Systemintegration und sozialer Integration: Mit der Technisierung von Kommunikationsprozessen steigen die Ansprüche an soziale Bindungskräfte - sozialen Gruppen musst Raum und Autonomie gegeben werden, eigene Erfahrungen zu sammeln und das Ausmaß und Art der informationstechnischen Systemgestaltung nach ihren Interessen zu verhandeln 
+3. Paradoxie der Differenz von formaler und materialer Rationalisierung: je mehr sich technologische Rationalität ausbreitet, desto stärker belastet sie das Alltagsleben mit Nebenkosten und Folgerisiken. Die Remoralisierung technischer Fragen ist Ausdruck einer Krise des Modernitätsparadigmas
+
+-> nicht die technischen Eigenarten des Computers, sondern die sozialen Bedingungen seines Einsatzes erzeugen potentielle Krisen
+-> Weder der Imperialismus der Ökonomie noch Imperialismus technischer Vernungt sind verantwortlich, sonder die Weise des Umgangs mit den Paradoxien
+- Krisenhaftigkeit und Sozialverträglichkeit der Computernutzung im Alltag hängt davon ob, ob der Computer als Instrument oder ob er als Substitut von Kommunikationsprozessen verwendet wird. 
+
+Denn die Kommunikation im Alltagsleben muss notwendigerweise eng mit den normativen und emotionalen Kontexten der Verständigung verbunden bleiben, wenn sie in Prozessen der Sozialisation, sozialen Integration und kulturellen Reproduktion ihre spezifisch bindende und bildende Kraft entfalten soll. 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 15: Materiell - Immateriell - Medial: Die verschlungenen Bande zwischen Technik und Alltagsleben
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+1. Einleitung 
+
+Materialistische Ansätze sehen eine geradlinige Verbindung zwischen materiellen Artefakten und den sozialen Verhaltensweisen. Technik wurde oft als fertiges Produkt angenommen, es ist aber fraglich, ob sich aus der stofflichen Gestalt allein ein sozialer Charakter erschließen lässt. 
+
+Ansatz: Das soziale Wesen der Technik erschließt sich weniger aus dem Produkt, als aus dem Prozess und die immateriellen Schemata der Technisierung. Das Material speichert den Entwurf für eine Technisierung, der technische Entwurf verleiht dem Material seine zweckmäßige und zweckhafte Form. 
+
+Damit wird Technisierung für verschiedenen Materialitäten geöffnet, für Sachen, Handlungen und Symbolde die zu technischen Gebilden verkoppelt werden. Die Beziehung zwischen diesem Technikbegriff und Alltagsleben sind vielfältiger und verschlungener. Im Umgang mit Technik kreuzen sich Sinngebungen, es gibt rivalisierende Technikentwürfe, und einige Techniken haben ihre Wurzeln im Alltagsleben und nicht in den Maschinen. 
+
+Materialistische Auffassungen betonen die Abhängigkeiten, kulturalistische Auffassungen neigen zur Akzentuierung der Aneignungsmöglichkeiten während es keine grenzenlose soziale Gestaltbarkeit gibt. 
+
+Wie kann man dem materiellen Charakter von Technik gerecht werden und gleichzeitig für verschiedene kulturelle Ausdrucksformen offen bleiben?
+
+-> Medientheoretische Technikauffassung
+
+
+2. Technik als sachliches Artefakt: Die materiellen Bande zwischen Technik und Alltagsleben 
+
+beziehung zwischen Technik und Alltagsleben wird analog zum Zusammenhang von Technik und Produktionssystem konzipiert:
+
+1. Alltagsleben wird durch strukturelle Vorgaben der Produktionstechnik berührt
+2. Produktionstechniken verändern Konsum und Subsistenzweise der Haushalte
+3. Massenrpoduktion langelebiger Konsumgüter (Waschmaschine, mikrowelle) wirken sich auf Arbeitsteilung und Eigenproduktion aus
+4. Anschluss an technische Netze schaffen eine Abhängigkeit des Einzelnen von der Infrastruktur 
+
+Daraus wird oft auf eine determiniserende Beziehung von Technik auf das Alltagsleben geschlossen. Oder Technik ist das Vehikel anderer Prinzipien wie der Ökonomisierung. Es werden durch Sachen Zwänge vermittelt. 
+
+Kritik daran: 
+- Der Zwang der von Sachen ausgeht wird überschätzt. Erst durch zusätzliche Symbole oder Anweisungen erfüllen Sachen ihre soziale Funktion. 
+- Es wird auch die Differenz zwischen formal organisiserten Handlungssystemen der Arbeitswelt und den Beziehungsgeflechten der Alltagswelt übersehen. Zwänge im Büro sind viel größer als in den außerberuflichen Lebensbereichen. 
+- Sachzwänge sind oft weniger von Sachen ausgehend, als von Gewohnheiten, mit einer Sache unhinterfragt umzugehen 
+
+-> Der Anteil des Alltagslebens selbst an seiner eigenen Technisierung und an der Kulturivierung der technischen Artefakte sollte nicht vernachlässigt werden.
+
+
+3. Technik als kulturelles Artefakt: Der Geist der Technisierung oder die Entbindung der Technik aus der Kultur. 
+
+Sozialer Charakter einer Technik entbirgt sich hinter den Prozessen des Hervorbringens. Technisierung zielt auf die Konstruktion von funktionierenden Wirkungszusammenhängen ab. Sie bedient sich dabei der Schmeatisierung von natürlichen und sozialen Prozessen und kombiniert die Einheiten zu Sequenzen der Problemabarbeitung. Das Konstruktionsschema - ist der Geist, der die Materie beseelt (Algorithmen, Architektur,...)
+
+Wie verhält sich das zum Alltagsleben? 
+
+Es gibt Ansätze, die eine gegenseitige Verstärkung von Technik und Alltagsleben sehen, so werden bspw. menschliche Beziehungen maschinisiert. Andere sehen eine symbolische Funktion, die auf das Alltagsleben ienwirkt, indem sie Modelle und Metaphern bereitstellt, und die Wirklichkeit in neuer Weise sozial konstruiert: Defining Technologies. 
+
+Das ist fast ein symbolischer Determinismus
+
+Die Leitsemantiken ändern sich jedoch mit den sozio-kulturellen Milieus auf die der Computer trifft, für einige ist es intellektuelle Herausforderunge, für andere Designobjekt, für andere Hobby-Basteln-Objekt...
+
+Erst der Umgang mit der Sache macht Technik zu einem relevanten sozialen Faktor. Weder das materielle Substrat noch die ursprüngliche Idee wirkt sich unmittelbar auf das Alltagsleben aus, es ist eine interaktionistische Verbindune: Geräte und Ideen sind Angebote die von verschiedenen Alltagskulturen aufgegriffen umgedeuteut und im Umgang neu kreiert werden. 
+
+Es entstehen keine fertigen Techniken, die Erzeugung einer Technik ist als als Kette von Technisierungsprojekten und Nutzungsvisionen verschiedener Akteure zu rekonstruieren, die sie ständig neu aushandeln
+
+
+
+4. Technik als Medium: Technik und menschliche Sinne - sozialer Sinn und Technisierung 
+
+
+Anforderung: Auf der einen Seite Unterschiede in Materialität berücksichtigen, auf der anderen Seiten offenheit für die Vielfalt sozio-kultureller Ausdrucksformen. Es geht um die Relationierung von Technik und Sinn. 
+
+Anthropologischer Ansatz: Techniken als verstärkung und Verlängerung menschlicher Sinne, und diese Sinne sind Medien der Wahrnehmung und Kommunikation. Medien haben eine strukturierende Wirkung auf die Sinne des Menschen, auch unabhängig vom Akteur oder Inhalten. 
+Dieser these fehlt aber die Analyse der Überformung der sinnlichen Erfahrungen (Einfluss des Sozialen)
+
+Einer soziologischen Theorien mangelt es an Interesse an der Materialität der Medien, aber stellt die technische Funktionalität von Medien für die soziale Organisation von modernen Gesellschaften heraus. Sie stellen sicher, dass Kommunikation gelint innerhalb der Funktionssysteme, bspw. indem Sprache das Verständnis ermöglicht, Schrift den Adressatenkreis vergrößert, etc. Es geht dabei um die Technisierung der Kommunikation, also die Schematisierung
+Grenze: Verweigert sich derÜberlegung zur differentiellen Wirkung von Materialitäten - Materialität wird in die Umwelt verweisen 
+
+-> Kombination dieser Ansätze: Technik als Ergebnis einer mehrstufigen Selektion: 
+
+1. Stufe: Technisierung wird als ein Schema des Wahrnehmens oder Operierens von anderen Haltungen und Handlungsweisen abgegrenzt. Eine technische Herangehensweise liegt im Gegensatz zur moralischen oder äasthetischen immer dann vor, wess es um das problemlose Funktionieren und Fixieren von Abläufen geht, zum Zwecke einer angestrebten Wirkung. Damit ist Technik immer schon Bestandteil des Alltagslebens gewesen. 
+
+2. Stufe: Selektion zwischen verschiedenen Medien, in denen die Technisierung als Form fixiert wird. Mit Medien werden neue materiale Umwelten und neue Sinneswelten konstituiert. 
+
+3. Stufe - hier wird zwischen verschiedenen Formen der Vergesellschaftung und Kultivierung gewählt, wir haben es mit jeweils instituionalisierten Techniken und den unterschiedlichen Formen des Umgangs 
+
+- so werden Fallstricke des materialistischen und symbolischen Determinismus vermieden
+- Technisierung nicht als einlinig in eine Richtung laufend sehen - Alltagsleben ist ein Lieferant von Technisiserungsschmeata, die in den Pool der technischen Möglichkeiten eingehen 
+- differenzierte Untersuchung komplexer technischer und sozialer Systeme
+
+und kann schlussendlich zum besseren Verständnis der Unterschiede zwischen Diskursen der Technologie, der Soziologie und des Alltags beitragen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
