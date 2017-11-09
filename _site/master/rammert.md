@@ -341,7 +341,7 @@ Beispielsweise wird die Autonomie der Forschung als Widerstand vernachlässigt, 
 
 Soziale Instanzen und Akteure wurden durch den grenzüberschreitenden Charakter moderner Technologieentwicklung so sehr vermehrt, dass die Steuerung urch eine Logik immer unwahrscheinlicher wird und durch reflexive Selbststeuerung abgelöst wird. 
 
-Durch gegenseitige Interdependenz wird eine gemeinsame Leistungssteigerung möglich, die der ökonomischen Effiziez und der wissenschaftlichen Innovativität 
+Durch gegenseitige Interdependenz wird eine gemeinsame Leistungssteigerung möglich, die der ökonomischen Effizienz und der wissenschaftlichen Innovativität 
 
 
 
@@ -353,7 +353,990 @@ Kapitel 5: Akteure und Technologieentwicklung - wie ließe sich Touraines Aussag
 
 
 
-1. Das Problem. Der mangelnde Akteurbezug bei der Erklärung von Technologieentwicklung 
+1. Das Problem: Der mangelnde Akteurbezug bei der Erklärung von Technologieentwicklung 
+
+
+Zentrale Frage: Wodurch werden technologische Entwicklungspfade bestimmt? Ansätze beziehen sich auf strukturelle Tendenzen und sehen Entwicklungen als Resultate von Strukturlogiken, während Prozesse nicht definiert werden können. 
+Es bedarf einer Theorie kollektiver Akteure, die situative Interdependenz-strukturen und strategische Orientierungskonzepte zu ihrem Gegensatz macht 
+
+Merkmale gegenwärtiger Technologieentwicklung: 
+- Konfiguration des technischen Ensembles einer Gesellschaft wird durch Prioritäten und Konzepte verschiedener sozialer Instanzen geprägt 
+- Entwicklungszusammenhang schließt Forschungshandeln in Erzeugunskontexten und das Entscheidungshandeln in Verwendungskontexten mit ein 
+- Technoligien werden nicht nur über Verbesserung, sondern auch über die Durchsetzung neuer Konzepte und Modelle ihrer Integration (und der Organisierung der System/Mensch-Schnittstellen) in soziotechnischen Systemen
+
+Das impliziert Ansprüche an Erklärungsansätze:
+- Unterscheiden sie und gehen sie explizit auf die Zusammenhänge zwischen Strukturen und Akteurdynamik ein, zB zwischen ungleichen Interdependenzverhältnissen auf dem Arbeitsmarkt?
+- Gehen sie auf unterschiedlich institutionalisierte Kontexte ein von Erzeugung und Verwendung (Universität und Großkonzern über Haushalt)
+- Machen sie Angaben zum Handlungspotential des einzelnen, das in Zusammenhang mit anderen Akteuren steht?
+
+Grenzen bisheriger Ansätze: Handlungspotential von Akteuren wird nur als Resultat ihrer Stellung in ökonomischen Strukturen gesehen. Der Blick auf soziale Bewegungen und die Remoralisierung bislang technsicher Fragen beispielsweise oder die Politisierung industrieller Produktion baut ein handlungspotential auf, das zur Reorganisation existierender Strukturen führen kann. Lösung nach Touraine: Rückkehr des Akteurs und die Dimensionierung seines handlungspotentials.
+
+
+2. Die Kritik: Grenzen der Erklärung durch einsinnige Strukturlogiken 
+
+Versuche, Technologieentwicklung anhand einer einzigen Strukturlogik zu erklären sind der sachlichen, zeitlichen und sozialen Differenziertheit nicht mehr angemessen:
+
+Sachlich: Es müssten unterschiedliche Rationalitätsstandards berücksichtigt werden
+Zeitlich: Es kann nicht die gleiche Strukturlogik für die Invention und Phase der Innovation wirken, dazwischen liegen 10-50 Jahre
+Sozial: Es sind unterschiedliche Akteure beteiligt mit eigenen Orientieurungsvorstellungen und sie ihre Präferenzen sind Ergebnis einer Strategie, dich Interdependenzen zu anderen Akteuren berücksichtigt 
+
+-> Vervielfältigung von Interdependenzbeziehungen führt zu einem neuen Strukturtypus - fügt sich nicht mehr einer einzigen Strukturlogik, sondern erfodert ein Konzept der wechselseitigen Begrenzung von Strukturen. Strukurlogiken haben Geltung für jeweils ein handlungssystem, aber die Struktur der Wechselbeziehung ist nicht durch die Dominanz einer Strukturlogik bestimmt, sondern durch die gegenseitiges Beeinflussen -> Gegenstand historisch-empirischer Forschung. Dafür ist die Akteurperspektive in Kombination mit der Strukturtheorie erforderlich. 
+
+Handlungstheorie notwendig, um die Umsetzung der Strukturlogik in die Akteurdynamik 
+
+Akteure werden oft lediglich als Platzhalter einer Kapitallogik reduziert betrachtet, bspw. Unternehmer. Auch die Logik der Beherrschung verallgemeinert die strukturelle Machtstellung von Unternehmen gegenüber Arbeitern und politischen Organisationen, so dass sie eher als Opfer von ungleich großen Handlungspotentialen, denn als Akteure gesehen werden. Aber nicht alle Unterfangen führten zum intendierten Resultat, auch Arbeiter haben sich durchsetzen können. 
+
+Handlungsdynamik der Akteure ist mit Strukturannahmen nicht zu fassen - Akteure sind selbst an der Reproduktion und Variationen von Strukturen beteiligt - durch begrenzung der Handlungschancen und Steigerung des eigenen Handlungspotentials. 
+
+
+
+3. Das Lösungsangebot: Die historische Handlungssystemtheorie Alain Touraines
+
+Erklärungstheorie zwischen methodologischem Stukturalismus und methodologischem Individualismus? Differenz von Akteur- und Systemperspektive 
+
+Touraine ersetzt die Trennung zwischen Akteur und System durch eine Interdependenzbeziehung:
+- Beziehungen zwischen Akteuren bestimmen ihr Handeln (hinsichtlich Konfliktpotential und kulturelle Orientierung) 
+- Während der Akteur durch soziale Situation bestimmt wird, ist er an ihrer Produktion und Reproduktion gleichzeitig beteiligt
+- soziale Akteure werden aufgewertet ohne Illusion hinsichtlich der vorhandenen Machtstrukturen zu produzieren
+
+Was ist ein Akteur? 
+- weder voluntaristisch handelndes Subjekt noch seine historische Mission erfüllend 
+- Akteure sind kollektive Handlungseinheiten, die unterhalb der gesellschaftlichen Strukturen und oberhalb einzelner Handlungen konzeptuell anzusiedeln sind 
+- haben eigene Handlungsfähigkeit, die sie duch Koordinierung von Einzelhandlungen ihrer Mitglieder erreichen  
+- Kollektive Handlungseinheiten werden aufgrund ihrer Organisiertheit einem kollektiven Akteur zugerechnet 
+- Sozialer Akteur: 
+	- koordinierte Handlungsfähigkeit, egal ob durch formale Organisationsstrukturen oder gerichtete Mobilisierungsbereitschaften
+	- sichtbarer Interdependenz mit anderen Akteuren, die sich in Form von Anerkennung, Allianzen, Konkurrenzen oder Gegenerschaften äußern, 
+	- ein kulturelles Modell, in dem gemeinsam geteilte Interpretationen der Wirkklichkeit und programmatische Zielorientierung aufeinander bezogen sind
+
+-> Unternehmen, soziale Bewegungen, Verbände... 
+
+--> Diese kollektiven Akteure sind die gesellschaftlichen Instanzen der Wahrnehmung und Abarbeitung von Strukturpoblemen, sie erzeugen Interpretationsmodelle der sozialen Wirklichkeiten und bilden in Lernprozessen Rationalitätsstandards für ihr Handeln heraus
+- sind die Orte wo neue Strategien entworfen und erprobt werden 
+
+
+4. Die Dimension des Handlungspotentials: Ökonomische, organisatorische und kulturelle Macht 
+
+Für den Verlauf der Technikeinführung ist die Machtasymmetrie zwischen Arbeitgeber und Arbeitnehmer nicht ausreichen, es müssen die ausgeschöpften Handlungspotentiale angegeben werden
+
+Handlungspotential: Fähigkeit, Dinge/Sachstrukturen zu erzeugen und Handlungssysteme zu organisieren. Wenn Unternehmer die Struktur von Produktionstechnologien festlegen, können sie als strategisch zentrale Akteure gelten 
+
+Macht: 
+- Strukturen für das Handeln der anderen Akteure schaffen und 
+- vorhandene Strukturen zum eigenen Vorteil umorientieren oder nutzen können
+- kulturelle Bedeutung produzieren können 
+
+Kulturelles Handlungspotential: 
+- Ereignisse und Sachverhalte benennen können - steuern, ob eine Entwicklung überhaupt und wie wahrgenommen wird
+- Fähigkeit, den Phänomenen Bedeutung zu verleihen, bspw. ökologische Verträglichkeit 
+- Interpretationen begründen und legitimieren können 
+
+-> Dieses kulturelle Modell der Handlungsorientierung kann strukturelle Zwänge überwinden und überschreiten - konstitutiver Ort der Neuerung und Veränderung 
+
+Mit dieser akteurorientierten Perspektive lässt sich der gesamte Prozess der Technologieentwicklung differenziert untersuchen:
+
+- da sie Vorstrukturierung nicht aus dem Blick verliert
+- da sie alle beteiligten Gruppen und Organisationen als soziale Akteure (duldend, betreibend, verhindernd) mit bestimmten Interessen und Werten identifiziert
+- da die relative Autonomie der Akteure beachtet wird  - indem sie mit unterschiedlichen Strategien die für ihren Handlungszusammenhang geltenden strukturellen Vorgaben umsetzen 
+
+So lässt sich bspw. die Entwicklung des schnellen Brüters erklären, der weder für Poltitik noch für Ingenieure vorteilhaft ist, die NC Technologie musste auf Druck vertrieben werden, da sie nur dem militärischen Anspruch genügte, aber hohe Kosten verursachte
+
+-> wechselnde Akteurdynamiken in verschiednene Phasen, füllen den von Strukturlogiken offen gelassenen Raum für die Erklärung des Prozessverlaufs
+
+Rammert plädiert für eine Veränderung und Ergänzung strukturtheoretischer Ansätze.
+Veränderung: Struktur der Ausdifferenzierung von Handlungssystemen mit Strukturlogiken und Interdependenzbeziehungen zum Thema machen
+Ergänzung: Öffnung für Akteurperspektive, um Strutkurgenese und -variation besser erklären zu können, und indem Interdependenzstrukturen zwischen kollektiven Akteuren und deren Umsetzung in Strategieformulierungen behandelt werden
+
+-> Akteure nicht mehr nur als strukturierte Struktur auffassen, sondern auch als strukturierende Struktur 
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 6: Neue Technologien im Betrieb: Politiken und Strategien der betrieblichen Akteure 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+1. Problemstellung 
+
+Neue Technologien (computergestützt) bringen einen Strukturwandel mit sich, auf den sich Organisationen und ihre Akteure einstellen müssen
+
+Beitrag: Keine industrie- und betriebssoziologische Perspektive, sondern Akzente aus einer organisationssoziologischen Perspektive, die davon ausgeht, dass der neue Charkater der Informations- und Kommunikationstechnologien (IuK-T) eine veränderte Betrachtung des Wandels im Betrieb erfodert. 
+
+1. Ein maschinenorientierter Begriff von Technik kann nicht mehr die Besonderheiten der Informatisierung behandeln 
+2. Nicht mehr von  Einwirkungen der Technologie auf die Arbeitsorganisation ausgehen, sondern ein Konzept für die Strukturierung der Gesamtorganisation des Betriebs entwickeln 
+3. Aufzeigen, dass betriebliche Entscheidungen nicht mehr durch ökonomische oder technologische Rationalitätsstandards abgesichert werden, sondern zunehmend als politische Probleme der Institutionalisierung behandelt werden (politische Rationalisierung) - Abstimmung zwischen Akteuren 
+
+
+2. Informatisierung und betriebliches Sozialsystem 
+
+Merkmale, die neue Technologien von Maschinentechnik unterscheiden: 
+
+1.
+- Haben von vornherin einen systemischen Charakter, Maschinen können getrennt vom betrieblichen Produktionssystem betrachtet werden, und haben einen spezifischen Zweck - IKT und ihre Elemente sind Teil eines umfassenderen technsichen Systems (Bildschirm, Speicher, etc.)
+- Bei IKT können die einzelnen Elemente lose gekoppelt und miteinander kombinierbar sein 
+
+2. Sie ist in erster Linie symbolisches Artefakt, nicht materielles - es sind zugeschrieben Funktionen, die ihr Verhalten bestimmen 
+- Zentraler Ort ist in der Schematisierung und programmatischen Fixierung von Kommunikationsabläufen
+
+Arbeit wurde bisher als elastischere Potenz gegenüber der Technik gesehen - Betriebe wählten erst die Produktionstechnik aus, dann wurde die Arbeit organisiert 
+- Heute gerät die Sozialdimension der Technik in den Blick, Sach- und Sozialdimensionen sind miteinander verknüpft. 
+
+Option der mechanisierten Massenrproduktion: Arbeitskräfte sind eng mit Maschinen und technischen Anlagen verkoppelt, Maschinen sind fest verbunden, Arbeitslräfte sind elastischer Faktor (linear fest verkoppelt)
+
+Informatisierte just-in-time-Produktion: Mensch und Maschine werden entkoppelt, technische Elemente werden variabel, just-in-time-Produktion je nach Kundenwunsch, Arbeitskraft wird als kritische Größe einbezogen (differenziert lose verkoppelt)
+
+Dilemma: Option 1 (traditionelle Massenproduktionstechnologie) ist kostengünstig und unabhängig von Arbeitskräften, riskieren aber unflexibel zu sein bei Marktveränderungen, Option II kann zwar flexibel reagieren, hat aber erhöhte Investitionskosten, Umstellung, Abhängigkeiten von Arbeitskräften 
+
+
+
+3. Organisationskonzepte zwischen Stabilität und Flexibilität
+
+Neues Problem der Entscheidungsorganisation: Aus vielen Informationen die richtigen heraussuchen. 
+
+1. Option: bürokratisch-hierarchische Organisationsstrukturen - schaffen formale Mechanismen, fixierte Aufgabenteilung, starre Autoritäten... Aufbau und Erhalt von Stabilität 
+2. Option: situativ-reagible Organisationsstrukturen - unter turbulenten Umweltbedingungen werden selbstständig arbeitende Einheiten gebildet, die schnell reagieren können, Ablauf ist an Ereignisse gekoppelt, Aufgaben sind variabel, 
+
+Dilemma: Option III lässt zwar Unsicherheiten intern kontrollieren, aber auf Kosten von Innovatität, Option IV ist besser an Dynamiken angepasst, führt aber zu Kontrolldefiziten
+
+
+Daraus ergeben sich extreme und balancierte Typen, die aus Option I - IV wählen 
+
+Extremtypen haben wenig Entwicklungschancen, es zeichnet sich ab, dass gemischte und balancierte Strategien die Betriebe eher in die Lage versetzen, mit dem Dilemma lernen und langfristig erfolgreich umzugehen
+
+
+4. Entscheidungsprozesse und betriebliche Politiken
+
+[nicht besonders interessant]
+
+These: Die sozialen Beziehungen gewinnen für die Prozessintegration an Relevanz 
+
+Entscheidungsprozesse brauchen eindeutige und einheitliche Entscheidungskriterien, diese sind aber je nach Interessen interpretierbar - bspw. durch lokale Rationalitäten oder opportunistische Einstellungen, bspw. durch das Nicht-reporten von Problem an Vorgesetzte
+
+Interessenoffene Mehrdeutigkeit ist bei der Selektion relevanter Infrmationen und bei der Interpretation und Übernahme von instruktiven Kommunikationen (Vorgeben, Anweidungen) - können interessenorientiert zugeschnitten werden, es bildet sich eine Meta-Eben politischer Spiele heraus
+- Diese haben ihr Zentrum im Problem zwischen Kooperationsbereitschaft und Kopperationsentzug von Akteuren - dieser Spielraum wird versucht, durch Regeln zu begrenzen - Arenen entstehen
+
+- Normalität von Konflikten
+- wie wird dieses Material von einer Organisation artikuliert, nachbehandelt und anerkannt bzw. überformt? 
+- Leistungsfähigkeit einer Organisation hängt davon ab, ob sie über Rückopellungsschleifen verfügt, um interne oder externe Konflikte produktiv zu verarbeiten
+- Organisationen müssen Entscheidungsprozesse konfliktoffen halten, um ihr strategisches Potential zu erweitern 
+- Leistungsfähigktiet ist auch die Fähigkeit zur kulturellen Innovation 
+
+[verkürzt da nicht wichtig]
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 7: Neue Technologien - neue Begriffe? - Lassen sich die Technologien der Informatik mit den traditionellen Konzepten der Arbeits- und Industriesoziologie noch angemessen erfassen?
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+1. Das Problem: Befund und Begriff eines technologischen Umbruchs 
+
+
+Theoretisches Dilemma: Theorien, die radikal das Neue erkennen, werden oft durch die Langsamkeit der Entwicklung oder das Auftreten gegenläufiger Tendenzen korrigiert. Theoretiker, deren Blick durch Treue zu ihrem theoretischen Paradigma geprägt ist, wehren sich gegen vorschnelle Annahmen, werden allerdings auch jeden Umbruch in seinen Anfängen verpassen, da sie mit den alten empirischen Maßstäben das Neue nicht erfassen können. 
+
+Ramert: Wir haben es durchaus mit einem neuen Technologietypus zu tun, der auch einen qualitativen Sprung in der Entwicklung von Arbeit mit sich rbingt
+
+
+2. Signatur und Kern gegenwärtiger Hochtechnologien 
+
+Handelt es sich bei der Hochtechnologie um einen modischen Wechsel der Signatur oder tatsächlich um einen Wandel des technologischen Kerns?
+Drei Indizen:
+- Veränderungen der industriellen Branchenstruktur
+- Verschiebungen in der Charakteristik von Basisinnovationen
+- Auftauchen eines neues Maschinenbegriffs bei Ingenieuren 
+
+
+2.1 Von der Einzelbranche auf Basis einer Technologie zur synthetischen Branche auf der Basis vernetzter Technologien
+
+Industriezweige verschmelzen, Vermischung von Technologien und der Vernetzung von Organisationen 
+
+
+2.2 Von der mechanischen zur informatorischen Kopppelung als Grundlage technischer Neuerungen 
+
+Basisinnovationen passieren nun im Bereich der Computertechnologie, LASER, Offset, ICEs... 
+
+2.3 Vom Maschinenbegriff der Kinematik zum Maschinenbegriff der Informatik 
+
+Maschinenbegriff der Kinematik (Maschine ist eine Verbidnung widerstandsfähiger Körper, welche so eingerichtet sind, dass mittelst ihrer mechanischen Naturkräfte genötigt werden können, unter bestimmten Bedingungen bestimmte Wirkungen auszuüben) - wandelt sich zum Maschinenbegriff der Informatik (eine Einrichtung, die Eingangssignale in Ausgangssignale umwandelt, mit Vielfacheingang und Vielfachausgang. Kybernetischer Informationstheoretiker Norbert Wiener: Maschinen sind gleichzeitig Gerät und Nachricht, gewährleisten das Übertragen von Nachrichten. Der Kern des Neuen ist die technsiche Kommunikation, als vierte Funktion, löst die Regelung von rigider Steuermechanik und menschlichen Führung ab, und bildet einen eigenen Komplex der Regelungstechnik. 
+
+Gegenwärtige technologische Theorien haben scih von Konzepten der Orts- und Formveränderung, energetischen Umwandlung zu Konzepten der Regelung von Prozessen, der Übertragung von Nachrichten und der Verarbeitung von Informationen bewegt, Kybernetik, Informatik und Systemtheorie bilden die Grundlage 
+
+
+3. Perspektivwechsel in der Industriesoziologie I: Von der Arbeit sans phrase zur Arbeit als Interaktion und Kommunikation 
+
+
+- Wandel der soziologischen Reflektion von Arbeit (Ohne Technikdeterminismus)
+- Perspektive auf Arbeit nun möglich, die Kommunikation und Interaktion in den Mittelpunkt rückt (statt eines industrialistischen Blicks)
+- Aspekte von Arbeit, die durch die Informatisierung in den Fokus rücken:
+	- Tätigkeiten, die substituiert werden: Nicht mehr nur Geschick, sondern Wahrnehmungs, Schlussfolgerungs und Gedächtnisleistung (Künstliche Intelligenz)
+	- Tätigkeiten, vor deren Substituion gewarnt wird und die eine Aufwertung erfahren - Kreativität, Emotionalität, Erfahrung 
+	- Tätigkeiten, welche gewährleisten, dass Arbeit stattfinden kann - steuern, Organisationen verwaltend, Unternehmensentscheidungen 
+
+
+-> Suche nach Indizien für eine Verschiebung oder begriffliche Neufassung 
+
+3.1 Vom instrumentalistischen zum interaktionistischen Arbeitsbegriff 
+
+- Verlagerung vom Umgang mit materiellen Instrumenten hin zur Arbeit mit Informationen 
+- Arbeitsbegriff bisher zu kurz gefasst, oft im Zusammenhang mit stofflichen Instrumenten 
+- erst die Interaktion mit hochtechnisierten Instrumenten rückte Wahrnehmung und Interpretation wieder in den Blick
+- Arbeit als besonderer Fall von Interaktion
+- erst interaktionistische Arbeitskonzepte können bspw. die Situation und Belastung von Krankenschwestern erfassen
+- auch tacit skills im High Tech Bereich sind nur schwer zu erfassen oder zu substituieren 
+
+3.2 Vom industrialistischen Konzept ausführender Fabrikarbeit zum kommunikationstheoretischen Modell organisierter Arbeit
+
+- Geister scheiden sich dabei, ob neue immateriell produktionsprozesse noch mit dem alten Schema von Rationalisierung und Industrialisierung erfasst werden können - Ansätze, Arbeit aus funktionalistischer und organisationstheoretischer Perspektive zu betrachten 
+- Mit Blick auf Dienstleistungen wird die Begrenzung des industrialistischen Paradigmas deutlich 
+- Unbestimmtheit von Umfang etc. überlassen den beschäftigten mehr Interpretationsspielraum,das setzt stärker Wissen der Arbeitenden voraus
+- Klassische Modelle der Befehls- und Gehorsamskette greifen nicht mehr
+
+--> Es braucht einen neuen begriff der Arbeit, um diese erfassen und kritisieren zu können. Mit der Differenzierung von technsicher und sozialer Kommunikation lassen sich kritische Gesichtspunkte gewinnen. Aspekte der Organisierung von Kommunikation und Kotnrolle werden dadurch stärker gesehen 
+
+
+4. Perspektivenwechsel in der Industriesoziologie II: Von Werkzeug und Maschinerie als Produkionsmittel zur Technik als Medium
+
+Mediatisierung der Werkzeuge - informationstechnsiche Tools sind anders als ein Hobel bspw. 
+- In der industriesoziologischen Diskussion herrscht das Bild einer mechanischen Maschine vor
+- das folgt einem Zweck-Mittel-Schema - kann der Computer als Maschine und Mittel der Steigerung gesehen werden?
+- Ja, aber es wird der Blick daruaf verstellt, dass es eine Mischung aus determinierten und nicht-determinierten Abläufen gibt
+
+
+- Rammert plädiert für einen Begriff von neuen Technologien als Medium statt als Werkzeug 
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 8: Wer oder was steuert den technischen Fortschritt? - Technischer Wandel zwischen Steuerung und Evolution
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+1. Technischer Wandel als soziologisches Problem 
+
+- Es wird einerseits Technik außer Kontrolle betrachtet, auf der anderen Seite wird eine stärkere Kontrolle und Steuerung von Technologie gefordert 
+- Diesen Gegensatz führt Rammert auf einen Mangel an soziologischer Theorie des technsichen Wandles zurück 
+- Es wird zu stark vom Einfluss einzelner Strukturlogiken auf Technologie ausgegangen, dabei wird technsicher Fortschritt selber nur schematisch behandelt, techische Entwicklung sei determiniert
+- soziale Akteure werden auf eine passive Rolle der Vollzugsinstanzen gekürzt oder die Steuerungspotenz dominanter Akteure wird herausgestellt 
+
+Kapitel: 
+1. Welche Theorien gibt es 
+2. WER kommt infrage den technischen Fortschritt nach eigenen Interessen zu orientieren?  Bzw. Welche Möglichkeiten haben Akteure, steuernd einzugreifen? 
+3. Konzept wird skizziert zwischen Steuerung und Evolution, und die eindeutige Orientierung entlang von einer Strukturlogik bestritten 
+
+
+2. Was steuert den technischen Fortschritt? 
+
+Alle folgenden Theorien fragen nach der Logik, die technische Entwicklung determiniert:
+
+2.1 Logik der menschlichen Gattungsentwicklung: Technische Entwicklung als Koevolution von Organ- und Symboltechniken und Funktionen des menschlichen Handelns, vom Bewegen der Hände bis zur Krafterzeugung, Wahrnehmung, Regeln durch technische Konstruktionen objektiviert 
+
+Kritik: 
+- Organmängel müssten erst als solche empfunden werden, solche Brennpunkte werden durch kulturelle Filter bestimmt, Prioritäten unterliegen sozialen Auswahlmechanismen. 
+- Neue Techniken entstehen seltener aus einem primären Bedürfnis, sondern aus der Kombination von Techniken, für die eine Nutzungsform dann gesucht wird, damit eine Reaktion auf selbst erzeugte Mängel, bspw. um Umweltunverträglichkeit zu beheben 
+
+2.2. Eigenlogik des technischen Fortschritts: Technokratie, Dominanz technsicher Kategorien, Produktivkrafttheorie (Marx) - die in Produktivkräften eine determinierende Struktur für gesellschaftliche Verhältnisse sieht
+
+Vorteil: Technik wird als gesellschaftlich relevante Größe gesehen und ihre Erscheinungsformen werden untersucht 
+Kritik: 
+- Technsiche Entwicklung ist immer auf äußere Referenzen angewiesen 
+- inntertechnische Größen (wie Kraftersparnis oder Miniaturisierung) haben ihre Herkunft ebenfalls in ökonomischen oder ästhetischen Orientierungskomplexen 
+- Steigerung von Technik ist immer Steigerung von etwas, das ihr vorgegeben wird 
+- Hinter jeder technsichen Norm steckt eine sozial definierte Norm 
+
+
+2.3 Logik ökonomischer Verwertung 
+
+Zählt zu den Theoriefavoriten - Annahme, dass technische Entwicklung den Regeln der Ökonomie folgt. 
+
+Dilemmata:
+- Informations-Entscheidungs-Dilemma: Informationen über neue Technologien zu besorgen, kostet Ressourcen und Kosten sind nicht abzusehen. Oft entscheiden eher Betriebsroutinen und teilweise Vorlieben für Marken über die Einführung von Technologien als ökonomische Gesichtspunkte. Gestaltungsunsicherheiten entstehen in Unsicherheit, daher oftmals "politische" Entscheidungen. 
+
+- Innovations-Kontroll-Dilemma: Unterordnung von Innovationsprozessen unter unternehmerisches Kalkül hemmt Innovation, es entstehen lediglich Ketten von Schein- und Kleininnovationen. Autonomisierung der Forschung verschlingt Kosten, Wagniskapital entzieht sich betriebswirtschaftlicher Kosten-Nutzen-Rechnung. 
+
+
+2.4 Logik der Herrschaft und Kontrolle 
+
+Kritische Abestzung von der Logik ökonomischer Verwertung - betonen die Kraft von Herrschaftsverhältnissen, bspw. hegemonie der herrschenden Klasse, Dominanz des männlichen Geschlechts. Bspw. Zerschlagung von Technologien durch feudale Klasse, Unterwerfung der Frau unter männlich entwickelte Technologien, oder bessere Überwachung der Mitarbeiter, diese stärkt die kapitalistische Herrschaftsstruktur in Betrieben. 
+
+Kritik:
+Die Vorstellung von blockartiger und zeitlich invarianter Herrschaftsstruktur löst sich in der Empririe auf 
+
+Zwar schlagen sich unterschiedliche Machkonstellationen in der Entwicklung und Verwendung nieder, allerdings mit wechselnden Machtpositionen, Strategien und Interessendefinitionen der kollektiven Akteure, die an der Projektierung und Implementierung der Technik beteiligt sind. 
+
+
+2.5 Logik kultureller Leitbilder 
+
+Annahme, dass bspw. Technikentwicklung im Westen durch universlae Rationalisierung geprägt, im Orient eher durch sanfte konvivale Technik. Feminstische Kritik an der am männlichen Leitbild orientierten aggressiven und destruktiven Technikentwicklung. 
+
+Kritik:
+- Leitbilder sind nicht homohen
+- aus ihnen lassen sich keine eindeutigen Zielvorgaben herleiten
+ 
+ Allerdings wäre es aufschlussreich, wenn ihre Leitsemantiken für die Orieniterung in Ingenieursdisziplinen präzisiert werden könnten 
+
+
+ -> Alleinvertretungsanspruch der 5 Logiken wird relativiert. Einsinnige Strukturlogiken als Erklärungen sind der Vielschichtigkeit technischen Wandels nicht angemessen. Rammert plädiert dafür, die theoretischen Konzepte für die Analyse technischen Wandels stärker zu differenzieren:
+
+In Sachlicher Hinsicht: Zwischen Typen der Technisierung unterscheiden - sachliche Artefakte oder Handlungs- und Symboltechniken? Produktionsmaschinen oder Kommunikationsmedien? Zunächst muss das Projekt der Technisierung identifiziert werden (bspw. nachrichten übermitteln) und dann die Variationen analysiert werden. Bedeutung einer Technik entsteht aus dem Zusammenspiel von Eigenheiten der Medien, Formen, Entwürfen, Nutzungskonzepten, Umgangsstilen.
+
+
+In zeitlicher Hinsicht: Für die Aussagen müssten die Phasen spezifiziert werden, allerdings wird sich meist auf die späteren Phasen der Innovation, also Technikwahl oder Technikanwendung, bezogen. Laut Rammert ist es aber gerade die frühe Phase der Technikgenese, wo Vorentscheidungen darüber getroffen werden, welchen Charakter die später realisierten und immer wieder modifizierten Techniken annehmen. Zu diesem Zweck Orientierungskomplexe untersuchen, welche die weitere Entwicklung vorstrukturieren, die dann später wieder umgeformt werden kann. 
+
+In sozialer Hinsicht, da Mangel an sozialer Kontextualisierung - wo wird Technik determiniert? Und durch fehlenden Akteursbezug. Über welche Akteure vollzieht sich die Ausrichtung? 
+
+-> Technik durchläuft von Anfang bis Institutionalisierung nacheinander und nebeneinander mehrere Teilbereiche der Gesellschaft
+
+
+3. Wer steuert den technischen Fortschritt? 
+
+Akteure: Soziale Kollektive, die strategisch wirken können. Soziale Integration der Handlungen kann von unterschiedlicher Art sein formal (Organisationen), normativ (soziale Bewegungen), kognitiv (Wissenschaft)
+
+-> Vorstellung, dass ein einzelner Akteur steuert, scheidet aus. 
+
+Steuern: Abschwächung gegenüber Determinieren. Mit Kenntnis anderer beeinflussender Faktoren und der Interaktionsweisen einem System Vorgaben machen. 
+
+-> Wer steuert den technischen Fortschritt wird zu "Wie zentral sind einzelne Akteure gegenüber Anderen an der Orientierung technischer Entwicklung beteiligt?"
+
+
+3.1 Der Staat:
+
+- Lenkt durch Vergabe von Geldern, technologiepolitischer Entscheidungen, rechtliche Normierung
+- Fördermaßnahmen sind jedoch nur Katalysator anderer Entwicklungspfade
+- Normierung durch Ausschüsse berühren die spätere Phase einer Technik, wenn sie massenhaft angewandt werden soll, hier muss sich der Staat vom Stand der Technik und von Interessen der Professionen lösen, um Innovationen anzuregen oder Tendenzen umzulenken 
+- Staat ist durch viele Gremien beeinflusst und ist auf technische Experten angewiesen 
+
+
+3.2 Soziale Bewegungen: 
+
+- werden häufig unterschätzt
+- korrigierend und kompensierend
+- Einfluss schlägt sich in staatlichen Normierungen, bspw. zu Datenschutz, Umweltschutz nieder
+- Kritiker und Warner, die Entwicklungen hemmen und das Risiko im Auge haben, indem sie Legitimation entziehen 
+- Sie sind aber auch fördernd und richtungsweisend - ihre Utopien und Visionen wirken sich auf konzeptuelle Umorieniterung von Technikprojekten aus
+- greifen ebenfalls auf Wissenschaft zurück
+
+
+3.3 Wirtschaftsunternehmen:
+
+- Als Hersteller und Nachfrage üben sie Einfluss auf
+- weiterhin über Einrichtung eigener Forschungslabors und durch Finanzierung von Entwicklungsprojekten 
+- dieses Gewicht gilt nicht für die frühen Phasen der Technikgenese
+- Unternehmen investieren eher in kleine Verbesserungen oder das Einhalten von Standards
+- Da wo offensiv geforscht wird, gelten nicht mehr klassische ökonomische Prinzipien 
+- Ökonomische Vorteile wurden von großen Konzernen oft erst spät aufgegriffen 
+
+
+3.4 Wissenschaft: 
+
+- Technisierung der Wissenschaft erzeugt Nachfrage nach Hochleistungstechnologien, die sich erst von praktischen Bedürfnissen entfernen und später zurücktransformiert werden für die Anwendbarkeit 
+- Wissenschaftliche Erkenntnis wird mit Technischer Entwicklung verkoppelt, wissenschaftlicher Fortschritt bedingt technologischen Durchbruch und umgekehrt, bspw. in der Computerentwicklung
+- wissenschaftliche Konzepte zeichnen zunehmend die Pfade weiterer technischer Entwicklungen (ohne Garantie der Anwendbarkeit, bspw. im Falle der Gentechnologie)
+
+
+-> Es gibt also weder eine dominante Strukturlogik, noch einen dominanten Akteur. 
+
+These: An der Prägung der technischen Entwicklungspfade sind jeweils verschiedene soziale Akteure in wechselnden Konfigurationen beteiligt. Sie unterscheiden sich durch ihre Beziehung zu den Codes des ausdifferenzierten Teilsystens, durch strategische Steuerunsmittel, über die sie verfügen und durch ihre Konzepte und Visionen der Technisierung. 
+
+
+
+4. Vorschlag für einen theoretischen Rahmen und für eine Antwort auf die Frage
+
+Wer oder was steuert nun den technischen Fortschritt? Wird zu
+
+1. Welche Steuerungsvorgaben werden einzelnen technischen Entwicklungen von welchen ausdifferenzierten Teilsystem der Gesellschaft mit ihren jeweiligen Orientierungskomplexen gemacht? 
+
+Technischer Fortschritt -> viele einzelne Entwicklung
+Strukturlogiken -> funktional ausdifferenzierte Teilsystem (wirtschaft, Politik, Wissenschaft)
+Technik -> ein dem Sozialen äußeren Medium, in dem sich die Formen der Teilsysteme einprägen 
+
+Projekte der Technisierung, Formen technischer System und Umgangsweisen mit Technik sind Gegenstand soziologischer Analyse 
+
+In Organisationen werden die jeweiligen Codes zur Geltung gebracht. Gleiche Elemente werden in unterschiedlichen Organisationskontexten - bspw. wissenschaftich oder militärisch - unterschiedlich reorganisiert. Bspw. Entwicklung ziviler Atomtechniken als Umcodierung vorhandener wissenschaftlicher konzepte
+
+2. Welche Akteure setzen sich in welchen Phasen der technischen Entwicklung und mit welchen Technisierungsvisionen in Konkurrenz oder Koalition mit anderen Akteuren durch 
+
+
+- Einzelne Techniken sind das Ergebnis eines Widerstreits verschiedener Projekte und einer gelungenen Schließung einer Debatte um alternative Pfade
+- Idee des rationalen Akteurs wird ersetzt durch "Leitorientierungen situativ handelnder Agenten, welche sich mit ihren Technikprojekten in den gesellschaftlichen Arenen des ökonomischen Wettbewerbs, der politischen Aushandlung und des kulturellen Kampfes um Sinngebund bewähren und durchsetzen müssen"
+
+
+Gespaltenheit zwischen Technik außer Kontrolle zu sehen und andererseits auf die Kontrolle von Technologie zu setzen, spiegelt sich in den Theorien wieder: Strukturlogiken unterstreichen die ZWangsläufigkeit von Technologie, soziale Akteure werden auf die Rolle der Vollzugsorgane oder Opfer des technischen Fortschritt zurückgedrängt. In der technischen Entwicklung wird eine Eigendynamik gesehen, die nicht aufzuhalten ist. 
+Auf der Mezo- und Mikroebene werden den Akteuren rationale Gewähltheit und soziale Konstruiertheit der Techniken hervorgehoben. Soziale Zwänge werden von Akteuren außer Kraft gesetzt.
+
+Aber: Technischer Wandelt folgt weder einer Strukturlogik, die außer Reihweiter der Akteure liegt, noch bietet er sich für die Steuerungsintentionen der Akteure an. Die Analyse bedarf eines theoretischen Rahmens, mit der technische Wandel zwischen Steuerung und Evolution konzipiert wird: Verbindung zwischen Evolutionstheorie (Luhmann) mit Technikgenese (Pinch/Bijker) 
+
+Evolutionstheorie [Alles folgende bis Teil III recht wirr, da auch unvollständig von Rammert dargestellt]
+
+- geht nicht von einer Gerichtetheit der Entwicklung aus - sie setzt nur eine Beboachtbarkeit der Maschninen voraus, die aus Kombination und Kontinuität technsicher Entwicklung heraus entstehen, nicht aus einer Logik der Bedürfnisse oder Notwendigkeit. 
+Es können sich Funktionen von Technologien durchsetzen, die sich durch keine Strukturlogik erklären lassen (bspw. Juke Box als verwendung des Phonographen statt des von Geldgebern favorisierten Diktiergeräts) sondern durch mehrfache Selektion durch wechselnde Faktoren zu unterschiedlichen Zeiten. 
+- Es kann berücksichtigt werden, dass es oft unbeabsichtigte Nebenfolgen sind, die zu innovation führen, da intentionale Handlungstheorie da zu kurz greift
+- es geht eher darum, herauszufinden, wie Selektionsprozesse passieren 
+- Kann Probleme der Makro- und Mikrosoziologie überwinden. Makro kann oft elementare soziale Prozesse nicht erfassen, bspw. wie Subjektivität möglich ist, wenn die Akteure programmiert sind durch bspw. Kultur, gleiches gilt für rational-choice Ansätze auf der Mikroebene, wenn die Akteure strategischen Kalkülen zu folgen haben 
+
+Verbindung von Evolutionstheorie und Sozialkonstruktivistischer Theorie:
+- Verkopplung von genetischen Erklärungen der Variation mit evolutionstheoretischen Erklärungen der Selektion 
+- Erzeugung von Varianten (Von Forschungsideen, Erfindungsideen, ...) lässt sich dann als Kopier- und Kombinationstätigkeit in Konfigurationen von Akteuren und als Kreuzung unterschiedlicher Milieus rekonstruieren
+
+Wie kann eine Evolutionstheorie bei einem sachlichen Artefakt greifen? Indem Technik vom sachlichen Artefakt gelöst wird. Sie ist ein soziales Projekt in welchem mit bestimmten sachlichen Artefaken auf eine bestimmte Art und Weise umgegangen wird. Ähnliche Artefakte werden mit unterschiedlicher Bedeutung aufgeladen. 
+
+Technischer Wandel kann unter dieser evolutionären Perspektive als mehrstufiger Prozess konzipiert werden. Umfasst Generierung, Konstruktion, Implementation, Institutionalisierung - diese eint aber kein geradliniges band, wie das Phasenmodell es sufferiert, jedes Mal handelt es sich um eine neue Kombination der Elemente und Rgeln, wobei die Umgebungen und Codes jedes Mal wechseln. 
+
+Anhand dieser Theorie kann nach den dominanten Akteuren für zeitliche Phasen gefragt werden oder nach dem funktionalen Primat eines gesellschaftlichen Teilsystems. 
+
+
+Wer oder was steuert technische Entwicklung? 
+Antwort: Vorherrschende Thesen von der Dominanz der Wirtschaft und des Militärs müssen eingeschränkt werden, da sie eher für spätere Phasen der Innovation gelten und auch dort kulturellen und politischen Einflüssen ausgesetzt sind. Genau genommen treffen Militär und Wirtschaft immer auf vorgeformte Technikenvarianten, an deren Entstehung sie keinen Anteil hatten. 
+
+Den zentralen Ort vermutet Rammert in der Forschung - dort entstehen neue Projekte, aus wissenschafltichem Forschen (Erkenntnisgewinn) und technisches Forschungshandeln (Nützlichkeit, Effizienz) Aktuelle neu auftretende Technologien entstehen aus der Kreuzung von Wissenschafts- und Ingenieurskulturen. 
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+TEIL 3 Die verschlungenen Bande zwischen Technik und Alltagsleben
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 9: Technik und Alltagsleben - Sozialer Wandel durch Mechanisierung und technische Medien 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+1. Der Wandel alltäglicher Lebensformen unter dem Eindruck neuer Techniken 
+
+Oft wird die Veränderung der betrieblichen Arbeit erfährt weitaus mehr Beachtung als alltägliche Umwälzungen, bspw. das WC, Herd, Waschmaschine, Motorisierung, Elektrifizierung der Kommunikation, auch diese werden teilweise als Revolution begriffen, aber Giedion spricht von "anonymer Geschichte", wenn es um den grundlegenden Wandel der alltäglichen Lebensformen geht. 
+
+Alltagsleben: Soziales leben außerhalb der Erwerbsarbeit, Haushalt, Freizeit, Familie - hat sich über Jahrhundert kaum verändert, aber in den letzten 150 jahren rasant: Ofentypen, Fortbewegung, Reisen, Distanzen, die zurückgelegt werden, Zeiterfahrung. 
+
+Mit der Veränderung von Raum- und Zeitstrukturen ändern sich auch soziale Praktiken und Verhältnisse, es wird bspw. eine telfonische Anmeldung vor einem Besuch erwartet.
+
+Theoretische Deutungsnagbeote rund um die Technisierung und den Wandel des Alltagslebens: Rationalisierung, Modernisierung, Kultivierung und postmoderne Pluralisierung
+
+Modernisierungstheorie: Arbeits- und Kostenersparnis, Freisetzung von Ressourcen
+Industriekritische Perspektive: Neue Standards brauchen die Ressourcenersparnis auf, universelle Standards zersetzen die Eigenheiten des Alltags
+
+-> Dabei werden industrielle Arbeitswelten auf den Haushalt übertragen 
+
+Postmoderne: Geht vom Eigensinn und Vielfalt kultureller Wirklichkeiten aus, als Gegenwelt zur einheitlichen Moderne
+- Optimistisch: Kulturen bringen Techniken hervor, die sie zur Überwindung ihrer Schranken brauchen, Techniken werden durch die vielfältigen Milieus und Alltagswelten mit Bedeutung versehen
+- Pessimistisch: Moderne schlägt ins Irrationale um und der Technik sind keine Grenzen gesetzt
+
+-> Teilen die Ansicht, dass das Alltagsleben an der Entstehung und Aneignung Anteil hat, im Unterschied zur Moderen, die or allem ökonomische formt und den Alltag beeinflusst, stehen hier partikulare Kulturen im Blick, Praktiken des Alltags formen Technik 
+
+
+Begriff der Technik: Sachliche Erscheinungsformen, auch das technische Abwassernetz, im größeren Verband, als Systeme, in denen Elemente verknüpft sind 
+- Auch Sexualtechniken oder der Planung -> Technisierung des Denkens und Handelns 
+
+Begriff der Technisierung: Sozialer Prozess, Handlungsabläufe zu schematisieren, zu zerlegen und neu zu kombinieren und fixieren, damit sie dauerhaft zu einem Zweck funktionieren - sachliche Artefakte können Teil davon sein. 
+
+Intention Rammerts: Zusammenhand/Interdependenzen zwischen technischem und soziokulturellem Wandel hervortreten lassen, anhand des Haushalts und der Kommunikation
+
+
+
+
+2. Mechanisierung der Tätigkeiten im häuslichen Alltag 
+
+Mechanisierung: Übersetzung von bewegungen in eine künstliche Vorrichtung, auch durch Veränderung der Handlungsabläufe
+
+Geschichte reicht weit zurück und war nicht immer auf Nützlichkeit abgerichtet, sondern auch auf Wunderbares und Verzauberung statt Rationalisierung. Im 19. Jhd Siegeszug der Nützlichkeit in der Textilbranche, führte zur industriellen Revolution, infolge dessen wandelten sich die materiellen Bedingungen im Alltag. 
+
+- trennung von Arbeit und Haushalt führte zur Verstädterung
+- arbeitsfreie zeit wurde unterschieden und schaffte Hobbys 
+- neues Versorgungsmodell entstand, aus Einkommen und Massenpridutkion, weniger Eigenproduktion und mehr Konsum 
+
+-> Das waren die strukturellen Voraussetzungen für die Umwälzung des Alltags, aber die Mechanisierung von Haushalten erfolgte später, durch drei bedingungen: 
+
+1. Haushalte mussten an technische Infrastruktursysteme angeschlossen sein 
+2. Mussten bei Ingenieuren Ideen entstehen, wie diese im Haushalt nutzbar waren
+3. Mussten ökonomische Voraussetzungen stimmen - Einkommen der Massen mussten steigen, Preise mussten fallen 
+4. Kulturelle Modelle, die das Empfinden, Denken und Begehren im Alltagsleben orientieren mussten sich wandeln, bspw. American Way of Life und veränderte Sichtweisen auf Frauen in Haushalten 
+
+Die meisten Geräte dienten der Zeitersparnig, aber ob sie zu weniger Arbeit beitrugen entschied die Verwendung - so stiegen Hygienestandards und das Auto führte dazu, dass größere Wege in Kauf genommen und vorausgesetzt wurden 
+
+-> Unterschied der Mechanisierung des Haushalts zur Arbeitswelt: Mit den Haushaltsarbeiten soll kein Einkommene rzielt werden, sie unterliegen keiner ökonomischer Bewertung 
+
+Eine Maschinisierung der Tätigkeiten im Haushalt kann daher nicht systematisch betrieben werden, Interaktionen können nur umverteilt werden. Technik ist eher Unterstützung als Ersatz der Tätigkeiten. 
+
+-> Es fand keine Industrialisierung statt, eher eine Familiarisierung Feminisierung, Aufgaben wurden externalisiert, die Haushälte wurden kleiner und intimer und den Frauen wurden die Haushaltstätigkeiten zugeordnet, geschlechtsspezifische Arbeitsteilung
+
+Es war keine Entlastung, sondern Umverteilung der Lasten:
+Freisetzung von Reinigungsarbeiten -> gewissenhafterer Einsatz und erhöhte Sauberkeitsstandards
+Erleichterung des Kochens -> anspruchsvollere Küche
+Verminderung der Hausarbeiten -> Verschönerung des Heims 
+
+Keine Befreiung von ungleichheiten, die Haushaltstechnisierung passt sich den jeweiligen sozialstrukturellen und kulturellen Gegenheiten an 
+
+
+Individualisierung: Mit Arbeitsplatzspezialisierung, Wohlstand und Eigenheimbau rückten private und individuelle Werte in den Vordergrund, was zu einem neuen Typen von Technik führte, der individuelle Freiheit steigern sollte: Individualverkehr, eigener Waschautomat, durch Emganzipierung Zweitwagen etc.
+
+Technik wurde irgendwann auch Ausdruck des individuellen Lebensstils - demonstrativer Konsum, technische Differenziertheit wurde Material für persönlichen Ausdruck 
+
+
+
+3. Die Mediatisierung der Kommunikation im privaten und öffentlichen Alltagsleben 
+
+[kurzer historischer Abriss über Schrift und Druck]
+- elektronische Medien im 20. Jhrd erreichen das Alltagsleben der Masse
+- Sprache hat die natürlichen Ausdrucksmöglichkeiten gesteigert (über Gestik, Rufe hinaus)
+- Verschriftlichung der Kommunikation löst sie vom usprünglichen sozialen Kontext, macht sie eindeutig und dauerhaft und kritisierbar
+- technische Verbreitung lässt die Räume anwachsen, in die Kommunikation diffundiert
+- Gleichzeitigkeit der Kommunikation lässt Räume schrumpfen und Zeit sich verdichten (global village, nach McLuhan), Verkleinerung der Welt 
+
+Wie wirkt sich das auf die Alltagskommunikation aus und wie wird Kommunikation durch Alltagspraktiken selbst beeinlusst? 
+
+Eigenschaften der Meden stellen nur eine erste Dimension dar, in der räumliche und zeitliche Welten der Kommunikation vorstrukturiert werden. Wie andere technscihe Erfindungen unterliegen Medien auch Prozessen der gesellschaftlichen Institutionalisierung und ihrer Kultivierung im Alltagsleben
+
+Das Telefon beispielsweise hatte lange mit sozialen Hindernissen zu hadern ehe es sich verbreitete, viktorianische Etikette, wilhelminische Autorität... erst mit der Modernisierung des Alltagslebens nahm es an Fahrt auf und änderte auch die Kommunikationskulturen
+
+Kultivierung: 
+- eine technische Neuerung muss erst angeeignet werden, in die Praktiekn des Alltagsleben als selbstverständlich eingebaut werden, um sich in der Gesellschaft erfolgreich zu verbreiten (so wie das Fahrrad)
+- Aneignung geschieht nicht nach einem festen Muster, neue Geräte werden zu unterschiedlichen Zwecken und Weisen in den Alltag integriert (beispiel Computer: Für einige Bastelobjekt, andere lernen damit programmieren, andere sehen es als schicken Einrichtungsgegenstand)
+
+-> Jeweilige kulturelle Rahmung eines technischen Medium im Alltagsleben hädt es mitunterschiedlichen Beduetungen auf, woraus sich Praktiken und Stile des Umgang ergeben 
+
+Die technischen Medien beeinflussen wiederum das alltägliche Leben, durch Informationsdichte, verändertem Kommunikationsverhalten,  etc.
+
+
+
+4. Krisen der Veralltäglichung - Erneuerung technsicher Leitorientierungen 
+
+generell scheinen Technisierungen im Alltagsleben reibungsloser zu sein als in der Industrie, wo soziale Konflikte und ökonomische Krisen mit verbunden sind, aber auch hier gibt es Problem, diese sind aber eher "kulturell Konflikte". 
+	- Akzeptanzkrise: Die einen betonen die Verluste, die anderen sehen Fortschritt und Emanzipation. 
+	- Krise durch Veralltäglichung: Wenn eine Technik etabliert ist und dann unvorhergesehen Nebenfolgen erzeugt, beruht häufig auf Masseneffekten, wie Umweltbeeinflussung
+
+-> Stellen das gesamte Modell der industriellen Modernisierung des Alltagsleben infrage, aber eine Umorientierung ist unwahrscheinlich, da Techniken im Alltag mit Infrstruktursystemen verzahnt sind, wie Schienen oder Wasser, und somit mit Geldmitteln und Gruppeninteresse (siehe nachgerüsteter Automobilverkehr statt Abschaffen des Individualverkehrs)
+
+Nur vereinzelt gibt es Bereiche in denen alternative, sparsamere und intelligentere technische Praktiken erprobt werden, bspw. im Solaranlagenbau ec. 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 10: Der nicht zu vernachlässigende Anteil des Alltagslebens selbst an seiner Technisierung
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Auch in der Technisierung des Alltagslebens gibt es keine einzelne Kraft, die in eine Richtung weist, weder Werbung noch Angebotsmacht der Produzenten kann die Entscheidungssouveränität der Konsumenten grundsätzlich überspielen
+
+Es war nicht der industrielle Kapitalismus selbst, der unmittelbar zu einer Modernisierung der Lebensweise führte. Es war ein Wandel des Alltagslebens selbst: Die Umorientierung auf ein neues Modell der Lebensführung (American Way of Life)
+
+-> konsumeristisches Paradigma 
+
+- massenhafte Abkehr von traditionaler Versorgungsweise hin zur modernen Versorgungsweise, welch die Bedürfnisse am Erwerb und Verfügung industriell gefertigter Verbrauchsgüter dynamisiert (anstelle selber produzierter Eier etc.)
+- Industrielle Massenproduktion und Pool an technischen Erfindungen mussten erst auf einen modern eingestellten Haushalt treffen 
+
+Im Alltagsleben gab es eine starke Hinwendung vom Öffentlichen zum Privaten, damit wurde der Weg geebnet für die Waschmaschine (statt der Wäscherei)
+
+-> Herrschaft der Mechanisierung wurde dem Alltag nicht oktroyiert, sondern durch den kulturellen Paradigmenwechsel im eigenen Bereich vorbereitet 
+
+
+Technisierung im ökonomischen System folgt einer einsinnigen Rationalität, im Alltagsleben wird die Wahl der Technik durch eigensinnige Mischungen von Rationalitätsstandards bestimmt. In der Alltagspraxis gelebte Modelle ergeben die Auswirkungen, von Technik-Freaks bishin zum demonstrativen Luxuskonsumenten. 
+
+Rückkoppelung/Wirkung auf die Industriegesellschaft:
+Neue Techniken verlieren schnell ihre Aura als Droh- oder Heilmittel, wenn sie einmal angeeignet sind, daraus entsteht eine generelle Akzeptanz und damit Trägheit des Alltagslebens, die weitere Innovationen angesichts sozial und ökologisch unverträglicher Masseneffekte zu blockieren
+
+Auch aus dem Alltagsleben heraus entstehen Impulse und Druck auf industrielle Kernsysteme - Remoralisierung technischer Fragen bspw., Entfaltung anderer Bedürfnisdynamik
+
+-> Das Alltagsleben ist nich das ANhängsel der industriellen Kernsysteme, sondern eine eigenständige und kulturell orientierende und politisch bewegende KRaft neben der ökonomischen und technisch-wissenschaftlichen
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 11: Machenisierung und Modernisierung des privaten Haushalts - Grenzen ökonomischer Rationalisierung und Tendenzen sozialer Innovation
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+1. Technische Innovation und Rationalisierung im Haushalt: Wege aus der wirtschaftlichen Stagnation oder Wege in die Modernisierungsfalle? 
+
+Fragestellung des Kapitels: Lassen sich Technisierung und Rationalisierung im Haushalt analog zur industriellen Rationalisierung betrachten? Und unter welchen ökonomischer, technologischen und soziokulturellen Bedingungen schafft ein innovationsschub in neuen Haushaltstechniken Arbeitsplätze & Aufschwung? 
+
+Bewältigung von krisenlagen durch Rationalisierung des Haushalts steht den steigenden Kosten des technsichen Fortschschritts entgegen. Ein ökonomiekritischer und soziologischer Blick sieht die steigenden Kosten und sozialen Nebenwirkungen. Schlussendlich soll das industriell-konsumeristische Paradigma infrage gestellt und Alternativen aufgezeigt werden. 
+
+
+2. Neue Techniken in den Haushalten und wirtschaftlicher Aufschwung
+
+Die "mirkoelektronische Revolution" wird von vielen als eine impulsgebende Basisinnovation (Bezug auf Kondratieff-Zyklus) gesehen. Bestrebungen, die Haushaltstechnik mikroelektronische zu erneuern gewinnt damit an bedeutung als Katalysator für wirtschaftlichen Aufschwung. 
+
+Gershuny: Ausdehnung der Dienstleistungen wird durch private Anschaffungen ersetzt. Steigende Preise für Dienstleistungen, sinkende Preise für Geräte und steigende Netto-Einkommen führen zu einer Expansion des Marktes. Außerdem haben auch haushalte sich wandelnde Versorgungsweise (soziale Innovation)
+
+-> Führte zu einem Aufschwung in den 50/60er Jahren (Wirtschaftswunder) mit dem Wechsel von der traditionellen zur modernen Versorgungsweise: Erwerb und Konsum vorgefertigter Waren und der Erwerb technischer Geräte zur Rationalisierung der traditionellen und zur Eigneerstellung neuer Leistungsfunktionen (Radio)
+
+Führte zu einem Wirtschaftlichen Aufschwung - ist das gleiche auch für einen Innovationsschub in den Haushalten zu erwarten? 
+
+Ökonomisch: Nein, die Potentiale sind fast erschöpft und es wird strukturelle mehrkosten da (höhere Werbekosten, Wefall der verwandtschaftlichteten Versorgung)
+Technologisch: Nein, Mikroprozessor ist nur eine neue Basisinnovation, Geräte können dadurch verfeinert oder vernetzt werden 
+Soziokulturell: Nein, denn alternative Paradigmen der Versorgungsweise haben bisher noch nicht viel Akzeptanz 
+
+
+3. Das Paradigma der industriell-konsumeristischen Rationalisierung und seine Grenzen 
+
+Behandelt wird die Modernisierungsfalle: Es ist der Erfolg des industriell-konsumeristischen paradigmas, das es an seine Grenzen bringt
+
+Modernisierung des privaten Haushalts: 
+
+Organisierung: rationelle Nutzung der menschlichen Arbeitskraft, Mitglieder des Haushalts gehen als Arbeitskräfte auf den Arbeitsmarkt
+Technisierung: Stetig fortschreitender grat der Mechanisierung und Elektrifizierung der Tätigkeiten, nehmen Arbeit ab, stellen aber auch neue Aufgaben und stellen Zwänge auf
+Verwissenschaftlichung: Erfahrungswissen wird ersetzt durch Expertenwissen -  insbesondere bei Funktionsstörungen oder bei der Auswahl 
+Kapitalisierung: Haushalte verfügen über hohes vergegenständlichtes Kapital - Geräte, Autos, etc. 
+
+Das industriell-konsumeristische Paradigma der Rationalisierung hatte eine hohe Durchsetzungs- und Überzeugungskraft. Es versprach Entlastung, private Wohlfahrt, Autonomie und Komfort, hinzu kommen aber neue Risiken und Abhänigkeiten und Verluste
+
+Welche Folgen gibt es?
+- Haushalte sind von Erwerbseinkommen abhängig, da Subsistenz aufgegeben wurde
+- geschlechtliche Arbeitsteilung wurde erheblich verschärft, Frauen sind weiterhin mit der gering geschätzten Hausarbeit belastet, auf dem Arbeitsmarkt warten prekärere Arbeitsverhältnisse 
+- deutliche Entlastung wich einer erhöhten Sauberkeitsnorm, neue Aufgaben der Wartung und Pflege 
+- Ökologische Faktoren, Umweltzerstörung 
+- Wissen über Erzeugung und Qualität von Nahrungsmitteln ist verloren gegangen
+- OFt ist das eigene Waschen/Kochen ineffizient und Kapital wird in Haushalten nicht effizient genutzt 
+- kommunikative Funktionen werden in den Hintergrund gerückt 
+
+Das Problem daran ist das ökonomisch verengte Paradigma, das einen bestimmten Stil der Haushaltsführung zum universell effektiven und rationalen Modell erhebt und andere Versorgungsweisen missachtet. Traditionelle Versorgungsstrukturen werden leichtfertig verdrängt, Modernisierung zerstärt sozaile Netzwerke
+
+--> Problematisch ist nicht die Modernisierung des privaten Haushalts mit organisatorischen, technischen und wissenschaftlichen Mitteln, sondernn ihre endenz zur Monokultur und zur Kolonialisierung kultureller Lebensformen und kommunikativer Praxis 
+
+
+4. Kulturelle Gegenbewegungen als soziales Experimentierfeld für eine post-konsumeristische Versorgungsweise?
+
+Von einer eng geführten Modernisierung hin zu einer offenen Modernisierung, neue soziale Bewegungen liefenr Ansätze: 
+
+Alternativunternehmen und gemeinschaftlich wirtschaftendes Haus: Formen des gemeinsamen Arbeitens und Lebens werden erprobet, woe Trennung zwischen betrieb und Haushalt überwunden werden soll, starke Arbeitsteilung und die einseitige Belastung der Frau mit Haushalts- und Psychologieaufgaben wird aufgebrochen 
+
+Eine neue Mischung von zunehmend individualisierter lebensstil, kollektiv organisierte Versorgungsweise - stammt ebenfalls aus dem Druck, den die Frauenbewegung auf herkömmliche Rollen ausübt 
+
+Offener Zugang zu technischen Infrastrukturen, selbstbestimmte Nutzung und Kontrolle der technischen Geräte und kollektrive Nutzung technischer Anlagen
+in technsichen Communities und biologisch-dynamischen Landwirtschaftsbetrieben
+
+Ökologiebewegung - bewusstere Lebensweise, Verringerung des Fleischkonsums, Verringerung von Verpackungen... 
+
+Gensossenschaften senken den einzeln aufzubringenden Kapitalanteil, Wohngemeinschaften schmälern die Gründungskosten eines Haushalts, es können effektivere Geräte angeschafft werden. 
+
+
+-> Nicht die Suche nach neuen Technologien oder nach zusätzlichen Anwendungsgebieten führen aus der Modernisierungsfalle heraus, sondern das Entwerfen und Erproben neuer Lebens- und Versorgungsweisen, die der Individualisierung der Lebensstile größeren Spielraum geben und die kollektive Versorung reorganisieren. Die soziale Innovation musss in diesem existentiellen Bereich der technischen Innovation vorausgehen und ihr den Weg weisen. 
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 12: Der Anteil der Kultur an der Genese einer Technik: Das Beispiel des Telefons 
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+1. Kulturelle Orientierung der technischen Entwicklung: Eine unterschätzte Forschungsperspektive
+
+
+Oft werden ökonomische Orientierungskomplexe privilegiert und die kulturelle Perspektive wird vernachlässigt. Laut rammert, da die Technikgenese als Phase kaum beachtet wurde und weil Techniken aus dem Produktionsbereich zu schnell auf Informations- und Kommunikationstechniken übertragen wurden. 
+
+Kulturelle Orientierungskomplexe: religiöse Haltungen, moralische Normen, ästhetische Ideale, paradigmatische Orientierungen
+
+Soziale Dynamik der technischen Entwicklung: Mehrere Orientierungskomplexe existieren nebeneinander in unterschiedlichen Konfigurationen
+
+-> Frage: Ob und in welchen Phasen die kulturelle Orientierung die Führungsrolle übernimmt 
+
+
+Als Beispiel wird das Telefon gewählt, das nicht nur materielles Artefakt (mit einer linearen und bruchlosen Fortschrittsgeschichte) ist sondern auch ein kulturelles Artefakt (dessen technische und materiale Formgebung sich ständig verändert) und Teil eines umfassenderen technischen Komplexes. 
+
+Genese des Telefons geschah nicht in einem einzelnen Schritt, es ist ein mehrstufiger Prozess der Generierung und Selektion von Problemen und Lösungen im Wissenschafts-, Erifindungs-, und Anwendungskontext. 
+
+-> Das Telefon ist keine Materialisierung einer einzelnen Idee, wir fahnden nach den kulturellen Wurzeln und Varianten und kulturellen Konzepten von Kommunikation, die in der Technikgenese zu den onstruktionen des Geräts und des technischen Systems geführt haben. 
+
+
+
+2. Der Technikgenese erster Teil: Die kulturellen Wurzeln des physikalischen Apparats in den Praktiken und Idealen der Naturforscher. 
+
+Die entscheidenden Erfindungsideen wurzelten nicht in einem konkreten Bedürfnis der Wirtschaft, des öffentlichen Lebens oder der Politik, die kulturellen Wurzeln sind in den Idealen und experimentellen Praktiken der Naturforscher zu suchen. Die wechselseitige Bezugnahme der naturwissenschaftlichen Forscherkultur hatte eine beschleunigende Wirkung auf die Technikgenese. 
+
+3. Der Technikgenese zweiter Teil: Die soziokulturelle Innovation der Telefonkommunikation.
+
+Entwicklung des Telefons ist das historische Resultat der Herausbildung verschiedener Kommunikationskonzepte - vor der Selektion und Institutionalisierung gab es ein breites Spektrum von Nutzungskonzepten:
+
+Transportkonzept: Einseitige Nachrichtenübermittlung in Codes (kein Zusammenspiel von Sprechen und Zurücksprechen)
+Radiokonzept: Übermittlung von Sendungen an viele gleichzeitig
+Verständigungskonzept: Direktes Gespräch zwischen Personen bei örtlicher Abwesenheit, Gleichzeitig, Wechselseitigkeit, freie Wahl des Kommunikationspartners
+
+Das Verständigungskonzept leitete die weitere technische Entwicklung in Richtung des Ausbaus von Netzen und Vermittlungsstellen 
+
+-> Mit der Erfindung eines Apparates ist eine Technik noch nicht im Alltag angelangt, unterschiedliche Nutzungsvisionen werden in unterschiedlichen Milieus entworfen und erprobt - die dahinterstehenden kulturellen Konzepte prägen die Konzepte. 
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 13: Telefon und Kommunikationskultur - Akzeptanz und Diffusion einer Technik im Vier-Länder-Vergleich
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+1. Das Problem 
+
+Durchsetzung des Telefons verlief sehr unterschiedlich in USA, GB, Deutschland und Frankreich, obwohl die gleichen Ressourcen vorhanden waren. Diffusionstheorien können diesen Verlauf nicht erklären, da es um die soziale Projektierung eines künftigen Technikumgangs und die kulturelle Aneignung einer neuen technischen Praxis geht. Für den Wandel von Werten und Lebensstilen fehlt hier ein theoretisches Sensorium. 
+
+2. Diffusion technischer Neuerungen: Soziologisch betrachtet 
+
+Ökonomische und statistische Blickwinkel betrachten oftmals nur die Phase der Reifung einer Technologie und ihrer Verbreitung. Stärker ökonomisch orientierte Theorien betrachten Angebots- und Nachfragestrukturen, um Diffusion zu erklären: Angebotsorientierte Ansätze setzen bei Gewinnerwartungen der Unternehmer an. Erfolgreiches Investitionsverhalten durch andere Unternehmen beschleunigt die Diffusion. Nachfrageorientierte Ansätze betrachten die Entscheidungen der Verbraucher, Preise und verfügbare Einkommen. 
+
+Problematisch: 
+- Ansätze gehen davon aus, dass es bei der Reifung und Diffusion stets um die gleiche Technik geht, die Techniken entscheiden sich aber teilweise erheblich voneinander (vgl das Telefon). 
+- Reduktion auf physische Produktion und ökonomisch-rationale Bewertung vernachlässgt, dass zuerst Nutzungskonzepte entworfen und durchgesetzt werden müssen und mit den Praktiken und Werten in Einklang gebracht werden (über Kosten-Nutzen-Kalkül hinaus)
+- Es wird oft von einem sachlichen Artefakt ausgegangen, es geht aber um die Ausdehnung eines technischen Systems in einer sozialen Umwelt 
+- Es ist eine Kette von sozialen Projekten verschiedener sozialer Akteure, Abläufe zu technisieren, mit Dingen umzugehen und sie zu institutionalisieren
+- Trennung von Artefakt und Umgangsweise, Diffusion ist die Institutionalisierung eines Mediums und der gemäßen technischen Praxis
+
+Vergesellschaftung der Technik: Unterschidliche Nutzungsvisionen als Projekte unterschiedlicher Akteure - dafür muss eine Arena insitutionalisiert werden, in der diese Akteure ein einheitliches System aushandeln und sich daran orientieren können
+
+Kultivierung einer Technik: Umgangsformen werden in das Wissens- und Verhaltensrepertoire alltäglichen handelns eingebaut und gegenüber gegenwärtigen Techniken durchgesetzt. Der Übergang von Expertentechnik zur Laientechnik muss verschiedene Hürdne nehmen, oft sind Pionierkulturen oder soziale Bewegungen dafür entscheidend. 
+
+
+3. Instituionalisierte Arenen und Diskurse der sozialen Akteure zur Diffusion des Telefons 
+
+Es ist weder anhand der Volumina an Kapital, des Wissens oder der Konzentration politischer Macht allein die Diffusion des Telefons zu erklären. Es bedarf der Abstimmung zwischen den Orientierungen des Systems und die Übersetzung der Nutzungspotentiale für die Nutzungspraktiken von laien in ihren Alltagswelten. In Großbritannien gab es eine mangelnde Akkordierung der Interessen, in Frankreich fehlte es an kultueller Legitimation, in Deutschland wurden nicht alle relevanten Akteure in die Arena miteinbezogen. In den USA gab es eine diskursiv abgestimmte Vision der zukünftigen Nutzung und es gab eine erhöhte soziale Akzeptanz.
+
+
+4. Kulturen der Kommunikation und Technikakzeptanz 
+
+Technikakzeptanz: Bereitschaft von gesellschaftlichen Gruppen, neue technsiche Praktiken in die bestehende Alltagspraxis aufzunehmen und zu erproben. 
+
+Die Verbreitung einer Praxis steht im Konflikt mit anderen Technikkulturen. Es bedarf eines kulturellen Wandels, durch den sich Werte und Handlungsstile ändern. 
+
+In Frankreich lag eine monologische Kommunikationsorientierung vor, Zwei-Weg-Kommunikation widersprach dem gängigen hierharchie- und kontrollorientierten Habutus. In Deutschland herrschte ein autoritäter stil, in Großbritannien wurde viel Wert auf Habitus und feine unterschiede, also das Auftreten der Menschen gelegt. In den USA hingegen gab es offene Grenzen für Einwanderer und eine offene und pragmatische Kommunikationskultur, die viel auf mündlicher Form basierte. Diese Informalität öffnete dem Telefon das Tor zur allgemeinen Verbreitung. 
+
+
+5. Anregungen zur Einschätzung der gegenwärtigen Akzeptanzdebatten 
+
+Entscheidend für die Beurteilung der Akzeptanz ist nicht der technische Körper, sondern seine kulturelle Rahmung und Integration in die alltägliche Praxis. Erst die soziale Innovation des Umgangs mit einer Sache vollendet die kulturelle Aneignung einer technischen Innovation. Im Verlauf ihrer Genese durchläuft Technik unterschiedliche Instanzen, die Nutzungsvisionen entwerfen. Diese abweichenden Interessen müssen in einer Verhandlungsarena miteinander konfrontiert und akkordiert werden, damit der Ausbau eines technischen Systems und die Diffusion glücken kann. 
+
+Damit ist eine Technikdebatte keine Krise, sondern die Chance zur kulturellen Rahmung und sozialen Gestaltung einer Technik.
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 14: Paradoxien der Informatisierung - Bedroht die Computertechnik die Kommunikation im Alltagsleben?
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+1. Problemstellung: Computertechnik und sozialer Wandel des Alltagslebens
+
+Wandel von der Industrie- zur Informationsgesellschaft - was unterscheidet den Computer von anderen Maschinen? 
+Die konkrete Maschine verliert an Bedeutung, gegenüber der abstrakten Maschine, die darüber entscheiden, wie die Hardware genutzt wird -> Funktionsoffenheit. Computer ist außerdem ein integrierendes Element in komplexen technischen Systemen.
+
+Wandel des Alltagslebens: 1. Technisierung der sozialen Räume, mit weiteren materiellen Artefakten und der Kopplung an Systeme und 2. die Methodisierung der Kommunikation, durch die Umformung in formale Aussagen, die eindeutig und automatisch verarbeitet werden können. 
+
+Folgen sind umstritten und werden kritisch betrachtet, wie die Volkszählung, auf der anderen Seite entstehen selbstorganisierte Netzwerke und kleine Verlage, etc. - es gibt positive und negative Folgen, die genaue Ausgestaltung der Effekte ist aufgrund der Flexibilität der Verwendungen nur schwer vorherzusehen. Beide Sichtweisen folgen aber zwei Fehlschlüssen, zum Einen wird eine Analogie zur maschinisierung der Industrie und Arbeitsabläufen gezogen, zum Anderen werden Krisentheoreme der Ökonomisierung auf das kulturelle Alltagsleben angewandt. 
+
+Situationen des Alltagslebens sind geprägt durch spontane Interaktion, wechselseitige Einbindung, sie formen die soziale Identität des Einzelnen gegenüber der Gesellschaft, in deutenden Gesprächen wird die Kultur weitergegeben und erneuert. Sozialisation, kulturelle Reproduktion bleiben immer auf verständigungsorientierte Kommunikation angewiesen. Eine Krise der Kommunikation liegt vor, wenn:
+
+- Vielfalt der Kommunikation durch ein Orientierungsmodell monopolisiert wird
+- Wechselrede durch formalisierte Verfahren ersetzt würde
+- wenn Funktionssysteme die bunte Mischung konkreter Lebensformen überlagern (?)
+
+
+2. Visionen der Informatisierung des Alltags 
+
+Positive Blickwinkel prophezeien einen gesteigerten Komfort und die Freisetzung von Ressourcen für das Individuum. Negative Blickwinkel befürchten eine Unterordnung des Privaten und Familären unter industriell-ökonomische Logiken. Rationalisierung des Alltagslebens, Kommunikation wird in vorprogrammierte Bahnen gelenkt und durch Medien vermittelt und erfahren. Bildung wird auf Computer ausgerichtet, Kreativität untergraben. Insgesamt wird prophezeit, dass das Alltagshandeln und -denken den Imperativen der Wirtschaft und zentralstaatlichen Kontrolle unterworfen. Kapitalistische Ökonomie verzehre die kommunikativen und motivationalen Ressourcne, die für das Funktionieren uneigennütziger Tätigkeiten wie Erziehung und Pflege benötigt werden. 
+
+3. Technische Entwicklung, Alltagsleben und die Paradoxie der Rationalisierung
+
+Rammerts Kritik: Entspricht nicht den gegenwärtigen Diskussionen zur technischen Entwicklung und Alltagsleben
+
+
+3.1 Soziale Dynamik der technischen Entwicklung
+
+Oft wird die umgekehrte Wirkungsweise von Gesellschaft auf Technologie nicht berücksichtigt, oder ein technologischer Determinismus wird durch eine ökonomischen Determinismus ersetzt. Rammert plädiert daher für das Konzept einer sozialen Dynamik der technischen Entwicklung, das sowohl die gesellschaftlichen Entstehungsbedinungen als auch die Folgen technischer projekte für die Gesellschaft umfasst. So können wechselnde Einflüsse von Akteuren berücksichtigt werden und unterschiedliche Interessen die sich niederschlagen. Ergebnis ist aber immer auf das Zusammenspiel von Bedingungen genüpft und nie an einen einzelnen Akteur. 
+
+
+3.2 Ein interaktionistisches Konzept des Alltagslebens 
+
+Rammert sieht eine Schwäche im unterdefinierten Begriff des Alltagslebens und plädiert für eine interaktionistische Sichtweise. Alltagsleben bezeichnet die sozialen Situationen, in denen der Anschluss der einen an die andere Handlung eher über Sprache vermittelt wird und weniger präformiert ist. Wo sich Biographien bilden und gemeinschaftliche und öffentliche Lebensformen entwickeln und entfalten. Dafür bleibt die Kommunikation unersetzbare Grundlage. 
+
+[finde ich nicht sehr stichhaltig als Definition des Alltagslebens, wo bleibt die Betonung von kulturellen Muster, gesellschaftlichem kollektiven Wissen, etc.?]
+
+
+3.3 Krisen des Alltagslebens und die Paradoxie der Rationalisierung
+ 
+ Welche Bedeutung hat das interaktionistische Muster für die Krisentheorie des Alltagslebens?
+
+ - Es kann nicht davon ausgegangen werden, dass Handlungen und Kommunikation im Alltagsleben grenzenlos technisiert werden können ohne kritische Folgen
+ - Welches Maß an Technisierung verträgt also die Kommunikation?
+ - Weber: Rationalisierung des Alltagslebens führt dazu, dass die kulturellen Wertsphären von Wissenschaft, Kunst und Moral sich voneinander trennen und verselbstständigen und können so nicht mehr grundlegend Orientierung geben 
+ - Technisierung des Handelns führt dazu, dass es von der Verständigung entlastet wird, es gehe darum, die Berechnbarkeit von handeln sichtzustellen und nach Leistung zu steigern
+ - der technische Fortschritt wird von moralischen Bindungen entfesselt, aber die Gesellschaft wird dadurch beherrschbar... 
+
+[verstehe ich nicht]
+
+- Gleichzeitiger Gewinn und Verlust von Handlungsoptionen 
+- Aber die Entfaltung der Wertsphären (Wahrheit, gerechtigkeit, Geschmack) führt an sich noch nicht zu Krisen, sie können meist noch geregelt werden
+- Krisen entstehen dann, wenn eine Verselbstständigung einer Lebenssphäre auf Kosten aller anderen erfolgt, bspw. verständigungsorientierte Kommunikation wird von der wirtschaftlichen Sphäre überlagert
+
+- neue soziale Bewegungen sprechen nicht mehr in erster Linie ökonomische Widersprüche an, sondern auch kulturelle Paradoxien, bspw. wenn es um genetische Identität des menschen geht 
+
+- Die Computertechnik ist aber nicht alleinig dafür verantwortlich zu machen, im Gegenteil - im Konzept der sozialen Dynamik muss davon ausgegangen werden, dass auch gesellschaftliche Umwelten die technische Entwicklung prägen
+
+-> Es sind die sozialen Organisationsprinzipien eines technischen Systems und die Umgangsstile mit dem Computer in verschiedenen soziokulturellen Mileus, die eine entscheidende Rolle für krisenhafte Folgen der Informatisierung spielen. 
+
+
+4. Informatisierung und Wandel der Kommunikationsformen im Alltagsleben 
+
+Krisen in der Industrie lassen sich durch Störungen beobachten, im Alltagsleben ist das eher schwierig. Störungen lassen sich häufig nur auf der Eben der lebsnformen und ihrer impliziten Normalitätsauffassung feststellen. Kommunikation ist elastisch und innovativ, Normen wandeln sich, es gibt daher keine harten Grenzen und kritischen Punkte.
+
+-> Lösung: Durch die ausgemachte Differenz zwischen sozialer Integration (auf Sprache und wechselseitige Verständigung angewiesen) und Systemintegration (kann auf symbolisch generalisierte oder technische Medien umgestellt werden) können Bedingungen für kritische Tendenzen und Grenzen der Informatisierung benannt werden. 
+
+
+4.1 Krise der Identität? 
+
+Es wird einerseits befürchtet, dass der Computer einen maschinellen und autistischen Charakter fördert oder verstärkt, Menschen würden sich der binären Logik und Denkweise anpassen. Optimisten wenden ein, dass mit jedem neuen Artefakt auch der Raum der Selbsterfahrung erweitert wird. Allerdings abstrahiert das zu sehr von den sozialen Bedingungen, den Strukturen der Vernetzung und den Kulturen der Nutzung. Wenn die medienvermittelte Form der Wahrnehmung gegenüber anderen Formen monopolisiert, dann wäre eine Verarmung der Kultur zu befürchten. 
+
+4.2 Krise der Gesellschaft
+
+Gemeinschaften bilden sich duch geteilte Umgangsweisen mit Dingen, Menschen, Symbolen oder durch eine gemeinsame Anschauung und entstehen aus wechselseitigen Verschränkungen von Perspektiven und verständnis. Sie setzen unmittelbare Kommunikation und Verständigung voraus Das ist eher bei losen Handlungsgeflechten des Alltagslebens zu verorten als in formalen Organisationen. 
+
+Der Computer gefährde laut der Kritiker die soziale Vereinsamung und der Umgang begünstige die Schematisierung der Kommunikation im Alltagsleben auf vorgegebene Muster und es entstehen soziale UNgleichheiten. Computeranalphabeten fänden sich am Rande des sozialen Lebens wieder. Optimisten sehen eine Chance, Kontakte zu intensivieren und zu vereinfachen, überregionale Gemeinschaften werden ermöglicht und marginalisierte Personen können sich leichter eingliedern, da Aussehen, Einkommen etc. keine Rolle spiele. 
+
+Beide Auffassungen verfehlen die Probleme sozialer Gemeinschaftsbildung: Eine Einheit hat es auch vorher nicht gegeben, soziale Integration wird dann gefährdet, wenn die Kommunikation und ihre Vielfals durch generalisierte und technische Medien monopolisiert bzw. wenn die Kreation neuer handlungs- und Wahrnehmungsformen dadurch behindert würde. 
+
+Umgekehrt kann das technische Netz der Kommunikation auch nicht die Lücken sozialer Verflechtungen schließen, er kann zwar das kommunikative Handeln von Gruppen verstärken, aber nicht erschaffen. 
+
+
+
+4.3 Krise der Öffentlichkeit und der politischen Kultur? 
+
+Öffentlichkeit: Sphäre sozialen Lebens, in der sich über Diskurse Meinungen bilden, Parteiungen formieren und kulturelle bewegungen in Gang setzen, wo Kultur nicht nur reproduziert, sondern auch weiterentwickelt und verändert wird. 
+
+Befürchtung der Kritiker: Das Erzeugen und Übertragen von informationen wird immer kunstvoller, aber auch stärker zentral und vertikal organisiert. Modernisierungstheoretisch erlösen uns die elektronischen Medien eher von der Abstraktheit und ermöglichen eine Kommunikation im global village und kritische Geschehen können im Nu weltweit wahrgenommen werden. 
+
+Dabei wird unterschlagen, unter welchen sozialen Bedingungen Informationen transformiert werden. Der Prozess der Erzeugung und Interpretation von Bedeutung kann nicht auf allen Ebenen durch technische Informations- und Kommunikationssysteme ersetzt werden, ohne einen Substanzverlust an politischer Kultur auszulösen. Die Wahrnehmung von BIldern und das Verknüpfen von Daten ist auf Intepretation und gemeinsame Erörterung angewiesen. Diese Kommunikationsformen stellen den Kontext her, der den Daten den Sinn gibt. 
+
+Kritisch wird es, wenn 
+1. Medien so organisiert werden, dass sie die isolierte häusliche Privatssphäre gegenüber öffentlichen Diskussionen privilegieren
+2. der individuelle Aufwand, Daten zu Sammeln, Sichten und zu Verwalten so groß wird, dass die Zeit für das Argumentieren entzogen wird
+3. voranging die technischen, okonomischen und beruflichen Umgangsweisen mit dem Computer erlernt werden (statt kreative und soziale Umgangsformen)
+4. die kulturelle Vielfalt der Kommunikationsformen durch Eindimensionalität des industriellen Paradigmas homogenisiert und monopolisiert würde 
+
+
+5. Paradoxien der Informatisierung der Kommunikation im Alltagsleben: Ein Resümee 
+
+Die Krisen des Alltagslebens sind nicht allein in der Informatisierung oder Zunahme von sachlichen Artefakten zu erklären, die Bedingungen für krisenhafte Entwicklungen sind in den Weisen zu suchen, wie mit den Paradoxien der Informatisierung der Kommunikation umgegangen wird:
+
+1. Paradoxie der Differenz von technischer Datenbewegung und sprachlicher Verständigung: Die Lasten der Interpretation, Gewichtung und Kontrolle der Ergebnisse von technisierter Kommunikation werden verschoben auf vor- und nachgelagerte Bereiche. Es steigt der Aufwand, sich darüber zu verständigen, was informatisiert werden soll, rückzuübersetzen, und die Einsicht in die Funktionsweise zu vermitteln. Es steigt der Bedarf an Kommunikation, wo eigentlich entlastet werden soll. 
+2. Paradoxie der Differenz von Systemintegration und sozialer Integration: Mit der Technisierung von Kommunikationsprozessen steigen die Ansprüche an soziale Bindungskräfte - sozialen Gruppen musst Raum und Autonomie gegeben werden, eigene Erfahrungen zu sammeln und das Ausmaß und Art der informationstechnischen Systemgestaltung nach ihren Interessen zu verhandeln 
+3. Paradoxie der Differenz von formaler und materialer Rationalisierung: je mehr sich technologische Rationalität ausbreitet, desto stärker belastet sie das Alltagsleben mit Nebenkosten und Folgerisiken. Die Remoralisierung technischer Fragen ist Ausdruck einer Krise des Modernitätsparadigmas
+
+-> nicht die technischen Eigenarten des Computers, sondern die sozialen Bedingungen seines Einsatzes erzeugen potentielle Krisen
+-> Weder der Imperialismus der Ökonomie noch Imperialismus technischer Vernungt sind verantwortlich, sonder die Weise des Umgangs mit den Paradoxien
+- Krisenhaftigkeit und Sozialverträglichkeit der Computernutzung im Alltag hängt davon ob, ob der Computer als Instrument oder ob er als Substitut von Kommunikationsprozessen verwendet wird. 
+
+Denn die Kommunikation im Alltagsleben muss notwendigerweise eng mit den normativen und emotionalen Kontexten der Verständigung verbunden bleiben, wenn sie in Prozessen der Sozialisation, sozialen Integration und kulturellen Reproduktion ihre spezifisch bindende und bildende Kraft entfalten soll. 
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Kapitel 15: Materiell - Immateriell - Medial: Die verschlungenen Bande zwischen Technik und Alltagsleben
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+1. Einleitung 
+
+Materialistische Ansätze sehen eine geradlinige Verbindung zwischen materiellen Artefakten und den sozialen Verhaltensweisen. Technik wurde oft als fertiges Produkt angenommen, es ist aber fraglich, ob sich aus der stofflichen Gestalt allein ein sozialer Charakter erschließen lässt. 
+
+Ansatz: Das soziale Wesen der Technik erschließt sich weniger aus dem Produkt, als aus dem Prozess und die immateriellen Schemata der Technisierung. Das Material speichert den Entwurf für eine Technisierung, der technische Entwurf verleiht dem Material seine zweckmäßige und zweckhafte Form. 
+
+Damit wird Technisierung für verschiedenen Materialitäten geöffnet, für Sachen, Handlungen und Symbolde die zu technischen Gebilden verkoppelt werden. Die Beziehung zwischen diesem Technikbegriff und Alltagsleben sind vielfältiger und verschlungener. Im Umgang mit Technik kreuzen sich Sinngebungen, es gibt rivalisierende Technikentwürfe, und einige Techniken haben ihre Wurzeln im Alltagsleben und nicht in den Maschinen. 
+
+Materialistische Auffassungen betonen die Abhängigkeiten, kulturalistische Auffassungen neigen zur Akzentuierung der Aneignungsmöglichkeiten während es keine grenzenlose soziale Gestaltbarkeit gibt. 
+
+Wie kann man dem materiellen Charakter von Technik gerecht werden und gleichzeitig für verschiedene kulturelle Ausdrucksformen offen bleiben?
+
+-> Medientheoretische Technikauffassung
+
+
+2. Technik als sachliches Artefakt: Die materiellen Bande zwischen Technik und Alltagsleben 
+
+beziehung zwischen Technik und Alltagsleben wird analog zum Zusammenhang von Technik und Produktionssystem konzipiert:
+
+1. Alltagsleben wird durch strukturelle Vorgaben der Produktionstechnik berührt
+2. Produktionstechniken verändern Konsum und Subsistenzweise der Haushalte
+3. Massenrpoduktion langelebiger Konsumgüter (Waschmaschine, mikrowelle) wirken sich auf Arbeitsteilung und Eigenproduktion aus
+4. Anschluss an technische Netze schaffen eine Abhängigkeit des Einzelnen von der Infrastruktur 
+
+Daraus wird oft auf eine determiniserende Beziehung von Technik auf das Alltagsleben geschlossen. Oder Technik ist das Vehikel anderer Prinzipien wie der Ökonomisierung. Es werden durch Sachen Zwänge vermittelt. 
+
+Kritik daran: 
+- Der Zwang der von Sachen ausgeht wird überschätzt. Erst durch zusätzliche Symbole oder Anweisungen erfüllen Sachen ihre soziale Funktion. 
+- Es wird auch die Differenz zwischen formal organisiserten Handlungssystemen der Arbeitswelt und den Beziehungsgeflechten der Alltagswelt übersehen. Zwänge im Büro sind viel größer als in den außerberuflichen Lebensbereichen. 
+- Sachzwänge sind oft weniger von Sachen ausgehend, als von Gewohnheiten, mit einer Sache unhinterfragt umzugehen 
+
+-> Der Anteil des Alltagslebens selbst an seiner eigenen Technisierung und an der Kulturivierung der technischen Artefakte sollte nicht vernachlässigt werden.
+
+
+3. Technik als kulturelles Artefakt: Der Geist der Technisierung oder die Entbindung der Technik aus der Kultur. 
+
+Sozialer Charakter einer Technik entbirgt sich hinter den Prozessen des Hervorbringens. Technisierung zielt auf die Konstruktion von funktionierenden Wirkungszusammenhängen ab. Sie bedient sich dabei der Schmeatisierung von natürlichen und sozialen Prozessen und kombiniert die Einheiten zu Sequenzen der Problemabarbeitung. Das Konstruktionsschema - ist der Geist, der die Materie beseelt (Algorithmen, Architektur,...)
+
+Wie verhält sich das zum Alltagsleben? 
+
+Es gibt Ansätze, die eine gegenseitige Verstärkung von Technik und Alltagsleben sehen, so werden bspw. menschliche Beziehungen maschinisiert. Andere sehen eine symbolische Funktion, die auf das Alltagsleben ienwirkt, indem sie Modelle und Metaphern bereitstellt, und die Wirklichkeit in neuer Weise sozial konstruiert: Defining Technologies. 
+
+Das ist fast ein symbolischer Determinismus
+
+Die Leitsemantiken ändern sich jedoch mit den sozio-kulturellen Milieus auf die der Computer trifft, für einige ist es intellektuelle Herausforderunge, für andere Designobjekt, für andere Hobby-Basteln-Objekt...
+
+Erst der Umgang mit der Sache macht Technik zu einem relevanten sozialen Faktor. Weder das materielle Substrat noch die ursprüngliche Idee wirkt sich unmittelbar auf das Alltagsleben aus, es ist eine interaktionistische Verbindune: Geräte und Ideen sind Angebote die von verschiedenen Alltagskulturen aufgegriffen umgedeuteut und im Umgang neu kreiert werden. 
+
+Es entstehen keine fertigen Techniken, die Erzeugung einer Technik ist als als Kette von Technisierungsprojekten und Nutzungsvisionen verschiedener Akteure zu rekonstruieren, die sie ständig neu aushandeln
+
+
+
+4. Technik als Medium: Technik und menschliche Sinne - sozialer Sinn und Technisierung 
+
+
+Anforderung: Auf der einen Seite Unterschiede in Materialität berücksichtigen, auf der anderen Seiten offenheit für die Vielfalt sozio-kultureller Ausdrucksformen. Es geht um die Relationierung von Technik und Sinn. 
+
+Anthropologischer Ansatz: Techniken als verstärkung und Verlängerung menschlicher Sinne, und diese Sinne sind Medien der Wahrnehmung und Kommunikation. Medien haben eine strukturierende Wirkung auf die Sinne des Menschen, auch unabhängig vom Akteur oder Inhalten. 
+Dieser these fehlt aber die Analyse der Überformung der sinnlichen Erfahrungen (Einfluss des Sozialen)
+
+Einer soziologischen Theorien mangelt es an Interesse an der Materialität der Medien, aber stellt die technische Funktionalität von Medien für die soziale Organisation von modernen Gesellschaften heraus. Sie stellen sicher, dass Kommunikation gelint innerhalb der Funktionssysteme, bspw. indem Sprache das Verständnis ermöglicht, Schrift den Adressatenkreis vergrößert, etc. Es geht dabei um die Technisierung der Kommunikation, also die Schematisierung
+Grenze: Verweigert sich derÜberlegung zur differentiellen Wirkung von Materialitäten - Materialität wird in die Umwelt verweisen 
+
+-> Kombination dieser Ansätze: Technik als Ergebnis einer mehrstufigen Selektion: 
+
+1. Stufe: Technisierung wird als ein Schema des Wahrnehmens oder Operierens von anderen Haltungen und Handlungsweisen abgegrenzt. Eine technische Herangehensweise liegt im Gegensatz zur moralischen oder äasthetischen immer dann vor, wess es um das problemlose Funktionieren und Fixieren von Abläufen geht, zum Zwecke einer angestrebten Wirkung. Damit ist Technik immer schon Bestandteil des Alltagslebens gewesen. 
+
+2. Stufe: Selektion zwischen verschiedenen Medien, in denen die Technisierung als Form fixiert wird. Mit Medien werden neue materiale Umwelten und neue Sinneswelten konstituiert. 
+
+3. Stufe - hier wird zwischen verschiedenen Formen der Vergesellschaftung und Kultivierung gewählt, wir haben es mit jeweils instituionalisierten Techniken und den unterschiedlichen Formen des Umgangs 
+
+- so werden Fallstricke des materialistischen und symbolischen Determinismus vermieden
+- Technisierung nicht als einlinig in eine Richtung laufend sehen - Alltagsleben ist ein Lieferant von Technisiserungsschmeata, die in den Pool der technischen Möglichkeiten eingehen 
+- differenzierte Untersuchung komplexer technischer und sozialer Systeme
+
+und kann schlussendlich zum besseren Verständnis der Unterschiede zwischen Diskursen der Technologie, der Soziologie und des Alltags beitragen 
 
 
 
@@ -375,6 +1358,4 @@ Kapitel 5: Akteure und Technologieentwicklung - wie ließe sich Touraines Aussag
 
 
 
-
-.
 
