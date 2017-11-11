@@ -103,7 +103,8 @@ Constructing Gender; Constructing Color
 
 The same applies to ethnicity and technology but this hasn't been explored as much, it did shape the way photography and film technology developed. 
 
-
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 
 Langdon Winner: Do artifacts have politics? 
 
@@ -115,13 +116,79 @@ Langdon offers a general conclusion: The things we call technologies are ways of
 
 Inherently political technologies: 
 
-The belief that technologies are political entails the view that the adoption of a technical system brings with it conditions for human relationships that have a political cast, like decentralization. 
+The belief that technologies are political entails the view that the adoption of a technical system brings with it conditions for human relationships that have a political cast, like decentralization. Most technologies are relatively flexible in their design, arrangement and effects. Certain kinds aren't and chosing them means chosing a particular form of political life. [contrary to legislative technology that has a cast, some technologies will have an apriori set of consequences that requires and forms society]
+
+Two ways how technologies are inherently political: 
+1. The adoption of a technical system requires the creation and maintenacne of social conditions as operating environment 
+2. A technology doesn't require but it's strongly compatible with social and political relationships, like solar energy as a distributed system is more compatible with a democratic egalitarian society (though it doesn't require democracy)
+
+So the resulting question is: Are the social conditions predicted required or compatible with a technical system? Are these conditions internal or external? Discussions about this enter into an important sphere of analysis: The arguments stand apart from more common quantifiable claims about economic costs and benefist. The issue raised is about the ways in which choices about technology have consequences on human associations. 
+
+When devices are linked to specific ways of organizing power and authority - does this derive from a social repsonse to the things' properties or is it a pattern imposed by a governing body to further it's purposes? E.g. the social system of an atom bomb must be authoritarian, the construction of the American railway required an administrative organization at last, with managers and levels, compared to traditional family sized businesses. 
+
+If these systems are to work effectively and efficiently, quickly and safely, certain requirements of internal social organization have to be fulfilled.
+Evidence seems to show, that large technical systems are highly compatible with centralized hierarchical managerial control. But is it right to say that these systems require this control?
+
+To answer this questions, one has to examine how moral claims of practical neccessity are played out against moral claims of other sorts. In societies, based on large technological systems, it is common that moral claims other than of practical necessity are being seen as obsolete and idealistic and are eclipsed by the technical imperative. 
+
+Politics of the entire community cannot be easily separted from politics of technology. The operational requirements of the usage of plutonium raises the prospect that extraordinary measures would be necessary to prevent it from theft, e.g. high security checks. 
+
+-> Once a course of action is underway, reasonings to justify the adaption of social life pop up as spontaeously as flowers in the spring. And those that cannot accept the hard requirements are dismissed as dreamers and fools. 
+
+
+Summary: 
+
+1. devices and systems can provide a convenient means of establishing patterns of power and authority in a given setting - these technologies have a range of flexibility in their material form. For this flexibility it is important to understand their consequences, in order to direct them. 
+
+2. other devices and systems are strongly, perhaps unavoidably linked to patterns of power and authority. The decision is whether or not to adopt, since there are no alternative physical deisng or arrangements, and no possibilites for creative internvention by social systems - the consequences are inherent. 
+
+These two understanding can intersect and overlap. 
+
+
+--> In our times people are often willing to make drastic changes in the way the live to accord with technological innovation at the same time they would resist similar kinds of changes justified on political grounds. For that reasons it is important to achieve a clearer view of these matters. 
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+
+Donna J. Haraway: Modest Witness @ Second Millennium 
+
+Haraway wants to make explicit the "tropic quality" of all material-semiotic processes, especially in technoscience. Small objects like chips or genes are simultaneously literal and figurative, the map universes of knowledge, pracitce and power. Technoscience is the globalization of this. 
+Hypercapitalist markets, biosphere programs, entertainment events produce cyborgs. Cyborgs are cybernetic organisms, a fusion of the organic and the technical forged in particular historical cultural practices. They are not about human and machine, (if these terms ever existed as such) but about specific "historical machines" and poeple in interaction This is often counterintuitive for analysts, since the term cyborg originally was coined to describe an enhanced man. 
+
+Haraway adopts the view of rodents, tools and research material, to look back at her "fellow mammals"
+
+The distinction between nature and culture is sacred in western traditions. The human place in nature seems to be at stake now. But it's - according to haraway - a mistake to forget, that anxiety about lineages is at the origin of racist and sexist discourse in Europe. The limits between divine creation and human engineering made way for molecular genetics and biotechnology. Couplings across taxonomies are happening daily in genetic laboratories. 
+
+On the one hand biotechnology is oppsed by those, who fear commercialization and expropritation of animal or plant genetics. But this collapsing of genetics, profit and exploitation is just as much a mistake as the right reduction of biological complexitiy. 
+
+[What follows is an analogy of stem cells as universal and potentially everything and certain technoscientific achievements, but I'm lost here, as always and I cannot be bothered to follow Haraway]
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Thomas P. Hughes: Edison and electric light
+
+[Description of the holistic approach to invention and innovation, applied by Edison, not relevant to my interests]
 
 
 
 
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Paul Ceruzzi: Inventin Personal Computing 
+
+[Description of the beginnings of the computer "revolution" and an assesment whether it can be titled this way. Spoiler: Yes.]
 
 
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Eda Kranakis: Constructing a Bridge 
+
+James Finley, an american inventor of the 18th century, had economic considerations in mind when developing a suspension bridge. His concept had to be relative to other inventions and applicable. 
 
 
 
