@@ -188,7 +188,34 @@ Paul Ceruzzi: Inventin Personal Computing
 
 Eda Kranakis: Constructing a Bridge 
 
-James Finley, an american inventor of the 18th century, had economic considerations in mind when developing a suspension bridge. His concept had to be relative to other inventions and applicable. 
+This article describes how two architects applied different strategies to successfully innovate suspension bridges.
+
+James Finley, an american inventor of the 18th century, had economic considerations in mind when developing a suspension bridge. His concept involved a patent and mass compatibility. His design was supposed to uncomplicated to build, didn't need highly skilled workers, no excess materials and a step by step guide for the craftsmen. Finley used an inductive reasoning approach and emphazised the use of experimentation and observation. 
+
+Claus-Louis-Marie-Henri Navier's approach was fundamentally different (about 30 years later). He was a salaried employee in the Corps des Ponts et Chausées, and he had dual ties to the engineering and mathematical communities. Navier didn't attempt to patent a design or conduct experiments, he created mathematical descriptions of the curves and movements of supsension bridges. 
+
+Navier's design was socially shaped in the sense that he ecployed a set of mathematical tools and techniques which were taugt and developed at his own institutional environment. 
+
+-> People most readliy use the tools that are available and accepted and relevant in their own environment.
+
+What Navier's theory ignored and what it analyzed reflected goals and priorities stemming from or rooting in his environment. It wasn't only dictated by the technology but it was also a question of who he wanted to impress [or had to?] and what mathematical issues were currently of concern in the scientific community. 
+
+Navier's bridge was intended to serve as a monument, in accordance to the buildings in the vicinity, contrary to Finley's approach. 
+
+-> The technical features of the designs embodied their knowlege, their goals and their ideas about how the structures would be built. 
+-> The environments shaped the strategies of the two individuals - the environments aren't all-knowable or one-dimensional, and there is a host of factors, but they do limit the range of strategies that can be chosen to succeed
+
+Three dimensions:
+
+intellectual dimension: Finley adopted an empirico-inductive research methodology and helped to ensure that his findings would be understood. Navier followed a theoretico-deductive methodology that was respected amid his community, ensuring that his research would be considered valuable. 
+
+economic dimension: Finley had to sell many bridges to earn a reasonable profit through royalites. Navier was salaried and didn't have to compete on the market at all, he was striking chords by presenting his bridge as a sophisticated application of theory. 
+
+Organizational dimension: They were built within different organizational structures and networks. 
+Finley made use of the patent system. Navier was employed by the Corps des Ponts et Chausées. Finley adapted his design to this organizational context by creating a generic design and a guide. He maximized ease of contruction and minimized the need for technical expertise. 
+Navier had to accept design changes by his superiors, but he had strict technical control over the building process. He adapted his design by presupposing highly skilled labor and the ability of control. 
+
+-> Both Navier and Finley innovated, but their innovative work wasn't a transcendent quest for novelty, it was fundamentally structured by teir respective environments. 
 
 
 
@@ -197,14 +224,10 @@ James Finley, an american inventor of the 18th century, had economic considerati
 
 
 
-
-
-
-
-
-
-
-
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+ 
+ W. Brian Arthur: Competing technologies and economic prediction 
 
 
 
