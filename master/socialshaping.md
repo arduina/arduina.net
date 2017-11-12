@@ -1,3 +1,16 @@
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+###PART ONE: INTRODUCTORY ESSAY AND GENERAL ISSUES
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+
+
+
 Introductory Essay
 
 
@@ -215,7 +228,7 @@ Organizational dimension: They were built within different organizational struct
 Finley made use of the patent system. Navier was employed by the Corps des Ponts et Chausées. Finley adapted his design to this organizational context by creating a generic design and a guide. He maximized ease of contruction and minimized the need for technical expertise. 
 Navier had to accept design changes by his superiors, but he had strict technical control over the building process. He adapted his design by presupposing highly skilled labor and the ability of control. 
 
--> Both Navier and Finley innovated, but their innovative work wasn't a transcendent quest for novelty, it was fundamentally structured by teir respective environments. 
+-> Both Navier and Finley innovated, but their innovative work wasn't a transcendent quest for novelty, it was fundamentally structured by their respective environments. 
 
 
 
@@ -229,7 +242,137 @@ Navier had to accept design changes by his superiors, but he had strict technica
  
  W. Brian Arthur: Competing technologies and economic prediction 
 
+End of the 19th century, there were three way to power automobiles: Steam, eletricity and gasoline, while gasoline was the inferior technology. Arthur explains this with a theory of increasing return to adoption. The more a technology is adopted, the more it is improved and the more attractive it becomes, eventually having all groups of customers switching to and chosing this technology. 
 
+
+Four key features:
+
+1. The technology that "wins" a market does not necessarily have to be the best or most efficient
+2. An industry can get locked in to a technologcal path, and it's difficult to get away from, the other technologies get frozen our and often disappear
+3. Even with hindsight, reasons for an adoption are difficult to pinpoint 
+4. Even if we know all the preferences of the market, the outcome is almost impossible to foresee which technology will dominate 
+
+
+Implications:
+
+If this mechanism is valid, history would have a fossil record of technologies that could have been as good or might have been better. Today, we would see technologies we are stuck with, like FORTRAN or the QWERTY keyboard (another standard couldn't be found in 1904 because typing teachers opposed change).
+The fittest technology may not survive, hence the government may need to step in and encourage and protect infant technologies. But this is hard, as there is an obvious cost to exploring large numbers of unknown technological paths. 
+
+
+-> We should be careful in interpreting economic history, we usually look for reasons why a predominant technology is superior, and how this led to adoption. 
+-> Superiority becomes a function of adoption or use
+
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Ronald Kline and Trevor Pinch: The social construction of technology 
+
+SCOT - developed by Trevor Pinch and Wiebe Bijker, has several advantages in analyzing users as agents of technological change. 
+
+In the approach, relevant social groups are groups who share a meaning og the artifact. This particular meaning can be used to explain developmental paths. These groups might include engineers, consumers and so on, and they aren't static. Besides a shared meaning of an artifact, they may also share other traits, like women sharing their role on the family. 
+
+SCOT emphasized the interpretative flexibility of an artifact. Women saw bikes as dangerous, and rather a mean of transportation, men saw a bike as a sports tool, which could be embedded in the further developmental paths, making a bike even faster. Interpretative flexibility is ot indefinit, closure and stablozation occur, but rival technologies can exist side by side. This closure can also be dissolved by new problems emerging. 
+
+SCOT emphasizes artifacts as subject to different intepretations along social groups. 
+
+Weaknesses: 
+- SCOT deals mainly with the design stage
+- the notion of closure was too rigid, what's missing is a sensose of how and in what circumstances the black box can be reopened by different social groups  
+-it says little about social structure and power relations within which development takes place
+- neglect of the reciprocal relationship between artifacts and social groups, not only the technology is shaped, the identities of social gorups are reconstituted in the process as well 
+
+
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+
+Shirley Strum and Bruno Latour: Redefining the social link: From baboons to humans 
+
+[Not really relevant for my studies, but it opens up interesting dichotomies between complexity and complication in social structures. Society and it's rules, orders, hierarchies etc. are seen as performative, being performed by actions. Otherwise it wouldn't have to be renegotiated constantly. Modern industrial societies have stable complicated strutures, that are organized and mobilizes on a grand scale, with the help of artifacts and symbols.]
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Cynthia Cockburn: Caught in the Wheels: The high cost of being a femlae cog in the male machinery of engineering 
+
+Why do women chose not to become technicians and engineers? Do they even chose or are they pushed and what choice exactly are they offered?
+
+
+Equal Chances? 
+
+"Initiatives to date have been based on the philosophy that women must be given 'more confidence' [...] I would suggest that women know very well both where we are unwelcome and what we are rejecting. We are not failing. We are on strike" p. 127
+
+
+
+Technology: Neither neuter nor neutral
+
+The prevailing belief is that technology is neutral and equally available and relevant to us all. Women just have to reach out and grasp ist. But technology is far from neutral, it bears the marks and serves the purposes of the class that owns it. "Industrial, commercial, military technologies are masculine in a very historical and material sense. They cannot readily be used in a feminine, nor even a sexless, mode. Women are not merely failing to enter technology.  On the one hand we are being repelled, and on the other we are refusing." p. 127
+
+To this relates the male appropariation of work - model for the employer is a man, by men's design. Women's physiology is seen as defective, not as a norm. 
+
+
+
+All the Manly Virtues 
+
+The norm for the industrial woker in general is male, engineereing represents everything that is defined as manly: controlling nature, muscle, machine, dirt, grease, swarf... while any other kind of dirt is seen to be more bearable for women, lile blood or vomit. Technical work involves physical risk, masculine patterns of relationshsops, camaraderie and slander concerning women. Additionally it is embedded in a capitalis business world, it's competitive and about performance. 
+
+-> These values have "developed out of patriarchy, and on the other have developed to make patriarchy what it is in modern society. The relations surrounding technology continually renew and extend male hegemony over the rest of us. The growth of industrial technology has to be seen as part and parcel of the historical development of gender difference. It has been formative in thr growth of class relations. But is has also been part of what has made males into 'men' and females into 'girls'." p. 129
+
+
+Women's Values
+
+In women's work domain it seems as if the social purpose of work is more important, like nursing, teaching and social work. This difference is not immutable, it is the results of hundreds of years, society has constructed gender difference and continues to confrm and elaborate it every day. And much about the feminine gender is good - Cockburn opts for keeping up this concern for feelings and people, and not trading off in order to take on technology: "We don#t want to exchange the society of women for the society of men, to become a kind of de-sexed satellite of a male world" 
+
+
+Moving Forward
+
+Moving forward into the industrial field comes at a great individual cost and cost to the movement by a drain of strong women. And yet, power lies in the economic ownership of the technical forces of production - "we cannot continue to be the passive objects of some technologies (at the receiving end of medical and military technologies, for instance [...] we have to learn technical skills. if we are to learn, we have to get in there. It cannot be done at a distance."
+
+Cockburn relates the barriers between women and tech to other physical taboos, like getting dirty, spreading legs, exerting muscular force."
+
+
+On our Terms
+
+Women shouldn't deny their social values and turn to industrial sectors that seem to be more humanly useful and malleable.
+Self-organized collectives of women are already separating out the already difficult relations of technology from those of capitalist employment 
+
+
+organising Independece
+
+Cockburn asks for woman-only organisations and demands massive increase in resources by the state for women-run initiatives. To counter the ongoing marginalization (despite mutilation), we need to form women's groups to help each other. 
+
+
+Women-Led, can it work? 
+
+More revolutionary than autonomy itself is a situation with women in leadership and majority. Men's reluctance to participate on such terms would expose the orginal separatists. Such a strategy is impossible until more women participate and are trained and willing to enter these situations. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Richard Dyer: Making 'white' people white 
+
+Article on the development of film camera and photography technology, which always favored lighter skin. This is because they were made that way, not because they coudn't be different. Innovation in photographic media has generally taken a white face as the norm. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+###PART TWO: THE TECHNOLOGY OF PRODUCTION
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Introduction: Technological determinism and production
 
 
 
