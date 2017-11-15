@@ -374,6 +374,73 @@ Article on the development of film camera and photography technology, which alwa
 
 Introduction: Technological determinism and production
 
+This part reasserts the importance of production in the contemporary world. Production hasn't disappeared, but it appears in novel forms. 
+
+- In the West employment shifted from factory work to service industries and office work (which are yet still part of production)
+- the main theories about the changes Western societies are undergoing (Post-Fordism, information society, postmodernity) include claims about technological change and its impacts
+- there is a tendencty to adopt a technologically determinist stance
+- character of work is bein revolutionizes and personal identities/family/leisure are moulded under the pressure of technological change
+
+information society: Capital and labour are replaced as key sources of society by knowledge and information
+post fordism: identifies a new era in capitalist production, with flexible forms of work and customizes production replacing mass production
+postmodernity: aren't concerned with production, the issue is more about transofmration of aesthetics, language and culture
+
+They all share a view of technological change as an external force that overpowers pre-existing forms of social differentiation. This determinis view has important consequences for practical politics, as politicians insist, that we must embrace technological change in the name of progress and economic advance. 
+
+
+--> What if this technological determinism is wrong? What if the effects are in fact built into the design of workplace technology and this could be designed differently? Unemployment is seen as unfortunate by product of technological change, but the technology has been designed to eliminate human labour. 
+
+The technology of production is in many ways the result of our social realtions
+
+1. The advent of the water mill is a history of a struggle between different social groups who's place in social orders made them prefer different technologies
+
+2. Marx has been fundamental in writing on capitalist production. A technicist view presupposes that technology is the prime mover of Industrialization and social change. A different view acknowledgedes that Marx sag capotalist-worker relations as a major factor affecting the technology of production. On some pages of the "Kapital", Marx shows how capitalists shape technology. But the point is - class struggle shapes technology. There have been struggles and resistance of workers who did fully understand the changes to be imposed on them. Furthermore technical automation helped to change the organization of a company, by shifting control to the manager level, away from the shop floor, which was also met with resistance. 
+
+3. The focus on class conflict is not the whole story, there are also social relations that are critical, since there are also divisions within the working class, e.g. between men and women
+
+4. There are more ways how technology of production reflects male power. Tools have been designed to match male physical strenth, hence excluding women - the design of machinery is designed by men with men in mind. 
+
+5. Choosing between technologies is not simply a matter of rational, economic calculations, but also influenced by the personal ambitions of managers and engineers and their efforts to shape organizational context. And also among engineers there a huge differences.
+
+6. Gendered conceptions of users are fluid and subject to a variety of interpretations, techhnologies can be examined along their ideas of women. Technology and the potential users are mutually shaped. 
+
+7. There are different priorities that can change how technologies are created, e.g. with participatory design methods or by feminists who take a more active role. 
+
+-> Marxism has many blind spots, and it is rooted in the experience of masculinized industrial production  it is in many ways ill-equipped to tackle the problems of the new world. BBut it does offer a diagnosis of what neede changing and of the constraints upon the possibilities of change. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
