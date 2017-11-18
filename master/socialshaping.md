@@ -413,6 +413,93 @@ The technology of production is in many ways the result of our social realtions
 
 
 
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Marc Bloch: The watermill and feudal authority
+
+Bloch recounts the struggle between feudal authority and citizens, who repeatedly had to fight for their right to possess and use hand mills. Incidents were the destruction of hand mills by lord's officials, citizens demanding a charter that allowed them to domestic milling, or monks paving their parlours with broken hand mills and citizens seizing the monastery years later to bring the broken hand mills back into their homes. 
+
+
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+
+Karl Marx: The machine versus the worker
+
+"The instrument of labour strikes down the labourer."
+In this article, Marx stresses how the sole impact of technology is not only to replace workers, but there is also a power inimical. It is the most powerful weapon for repressing strikes, it is an antagonist of human power. [I understood it as: the capitalist becomes less dependent on workers?]
+Workers do not work themselves anymore, they just superintend the work of the machine. 
+
+-> The working class that depends exclusively on their skills is now donw away with. 
+
+[Yes, understood]
+
+-> the defences of workers are rendered useless by new mechanical tactics and they had to surrender at discretion
+
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+David F. Noble: Social choice in mahine design: The case of automatically controlled machine tools 
+
+Text about the ramifications of technical development in automatic machines. The paths were split along record playback and numerical control of machines. Record playback let the intelligence of production rest at the machinist, who made the tape by producing the first part. Numerical control was based upn a different philosophy of manufacturing. Specifications were broken down into mathematical representations, it circumvented the role of the machinist as the source of the intelligence of production. 
+
+Drive for automation is not always necessarily altogether rational, though profit usually is the driving force. The important ideology was of control: The distrist in human beings is paramount, but it is more of a reflection of something else: The reality of the capitalist mode of production, a distrust of labor. Elimination of human error means to minimalize the dependence on labor by increasing control over production. 
+
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Cynthia Cockburn: The material of male power 
+
+Cockburn analyzes the "Skilled craftsmen" as a fertile field for class and gender relations. It draws a the unskilled worker as inferior. Cockburn takes a deeper dive into the history of compositors. 
+
+
+Producing Class and Gender:
+
+Attempts of bringing class and gender together have been unsatisfying, Cockburn tries to solve this by looking at processes instead of static hierarchies. She sees struggels as both ordering people along class and gender simultaneously.
+
+Gender and class are being created in relation. Workers forge their class identity in the struggle with capitalists, at the same time men and women define their gender along their relation to the same technology and labor processses. By owning the means of production, the capitalis class hast he initiative, by securing access and capability to tech, the men have the initiative - each gains power by defining the other as inferior. 
+
+
+Components of Power /Physical effectivity is acquired 
+
+Cockburn assumes a underestimated role of the material for male power. An overtly economist view of gender differences saw women women as a distinct category of labor and capitalism producing an economic advantage of men over women. But there is also a material dimension to this, which comprises the socio-political and the physical (which are often neglected in marxist feminist work). 
+
+-> Out of fear of essentialism, physical power has often been let aside, but Cockburn sees it as corporal effectivity and technical effectivity, that is both important and doesn't have to immobilize feminist struggles 
+
+Neither biological nor technical strength do not belong to us by birth, it is a social product. Boys are taught to train muscle by activity, and even small physical differences in size and strength are amplified by technology. 
+
+The appropriation of muscle, capability, tools and machinery by men is an important source of women's subordination, indeed it is part of the process by which females are constituted as women. This is happening analogous to the appropriation of the means of production. 
+
+
+
+Appropriation of Technique:
+The Hand Compositor was heavy to lift an required stamina and strength. The compositors limited access of capitalists and society to their craft by setting up trade unions, differentiating themselves from other population groups, like young men or women (deemed not capable) or the unskilled worker. They took the initiative to construct their image and hence created class and gender divisions. Interesting though that there were women who opened up their own printing shops and were perfectly capable, but they adapted the shops' rules to their needs. 
+
+Approprioation of the Machine: 
+The Linotype replaced the printing machines, first rendering a lot of comps unemployed but then being leveled out by a rise in demand for comps. During this time the comps ensured that lower skilled employees wouldn't enter the composing room (but of one female shop in Edinborough). The monotype corporation though splitted tasks onto machines and opened up a window for unskilled men, resulting in a further exclusion of women, since now unskilled men formed an alliance with craftsmen. 
+
+Disruption of patterns: 
+The computer based printing process was introduced in the 1960ies and it was a means of smashing costly craft control, it was was more productive and required less manpower. Inputting needed little more than a good typing ability (often possessed by women) - it caused unemployment and triviliazed the tasks. The unions didn't reject the technology but fought for the right to the new equipment, by resisting direct input from outsiders. 
+
+Skills and Uses:
+The purposeful differentiation fo skilled workers against unskilled workers is also a construction of gender. Skill is a direct correlate to sexual power, by it's definition it underrates women's work and deprives it of virtue. There is also a material aspect to this, units of work are political in their design. A frame or printing doesn't HAVE to be heavy und requiring strength, it is made this way. Bodily differences are not illusory.They do not have to, but they are made to matter.
+
+
+Control of Technology:
+Either capitalists or workers (by improvement and usage) develop technology, so it's men, engines are hence manufactured in a way that it is too big or too heavy for women to use. There was always a way of lent, of capitalists towards men, and of men towards women. Now a technical new strate emerged in which designers and developers are male and dominating, and the worker is lent the machinerey by men, again. 
+
+Conclusion: Men's power and patriarchy: 
+Marxist theory so far has often made a distinction between the workplace as being the locus of capitalist exploitation and the family as the place for the disadvantage of women. It reads: Women fill in inferior places provided by capitalism as a result of their family life. Cockburn doubts, that sexual realtions at work can be fully explained by family relations, (and as many women are not in paternal relationship) - the gender hierachies are also created at work and cast their shadows on domestic life. 
+Perceiving private life as political was a breakthrough, but gender realtions of work are sexual politics, too. The prevailing use of patriarchy seems like a problem, it is too specific too describe the diffuse and changing forms of male domination and should be reserved to situations where older man, fathers and husbands have authority over women. 
+The class relations in printing are those of capitalism, the gender relations are those of a more pervasive male dominance system: Sex Gender System, in which men dominate women inside and outside family relations, is more andrachy than patriarchy.
+Seeing bodily strength and capability as being constructed can help in fighting for the right to skills and strengths or challenge existing kinds of power. Identifying the gendered character of technology enables to overcome feelings of inferiority and see it as the result of power-play. 
 
 
 
@@ -420,22 +507,27 @@ The technology of production is in many ways the result of our social realtions
 
 
 
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Robert J. Thomas: What machines can't do: politics and technology in the industrial enterprise 
 
 
+[skipped]
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Jeanette Hofmann: Writers, texts and writing acts: gendered user images in word processing software
+
+Hofmann wants to make word processing programs legible as reified interpretations and definitions of the genderes process of text production in the office. 
+
+The User Interface Design: Who commands what and in which way:
+Which considerations guide the design of user interfaces? To have a computer perform a task, it is not necessary to understand how it works, it is only necessary to know the semantics of commands. Although this metaphor suggests a power relation that doesn't fit the reality, where the user has to adapt to the computer when it fails, and the program's instructions permits the writers commands. A user interface is a conceptual guide to the way in which the program operates -> make the program's language compatible to what a system designer thinks is the average user's experience. For example a women in her late fifties, as a a secretary. The UI is hence designed accordingly.
+The user interface therefore mirrors the conceptions of the programmer on the user and the user's conceptions, it's a multiple reflection of imagined realities. The division of content generating and typing let developers assume female users, but this didn't necessarily match the reality. 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+Two answers to the question of what women are able to do: the writer in the passenger seat:
 
 
 
