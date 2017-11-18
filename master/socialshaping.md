@@ -527,7 +527,68 @@ Which considerations guide the design of user interfaces? To have a computer per
 The user interface therefore mirrors the conceptions of the programmer on the user and the user's conceptions, it's a multiple reflection of imagined realities. The division of content generating and typing let developers assume female users, but this didn't necessarily match the reality. 
 
 
+
+
 Two answers to the question of what women are able to do: the writer in the passenger seat:
+
+The antecedents of word processing software had cumbersome slow routines. In the ways, commands were executed reflected a certain distrust of the writer's instructions by taking an additional step to assure their correctness. The writer was under ongoing supervision and provided with lectures. All actions were guided to prevent errors. No matter how experienced women became, they had to follow the samse assisted path. Writers were not only treated as beginners, they were treated as if they would remain one forever. The writer's scope and access was limitied. 
+All this made typing slow, while it was supposed to increase productivity. Faced with the dilemma between protecting the system and text and optimizing productivity, the developers took the first option. This is how female users of word processing systems are perceived. 
+
+
+
+The writer in the driver's seat:
+
+Another type of writing programs was WordStar and WordPerfect - commercially succesful program for microcomputers - they did not come from the field of office machines, but hark back to program editors and programmers. The goal of high typing productivity was met different from those before: Typing and editing were modes of writing, and the user alternated between those by using a control/function key. this enabled the user to stay in touch with the keyboard and not interrupt the writing. The downfall was a huge variety of keys and meanings that had to be learnt. Dangerous operations were to be done with keys that were rather far away and there was also a dialogue for deleting tasks and an undo key. 
+The precautions thought tackled mistakes that could happen to any user by accident e.g. as a result of rapid typing. Otherwise a high competence and independence was ascribed to the user. This amount of learning was seen as acceptable - which reveals the developers perception of their target group. They expected secretaries to learn this, since typing was their main activity and they were professionals that could learn. 
+
+--> this shows, that technical artifacts can attribute different and opposing characteristics to the same target group 
+--> "technical objects and people are brought into being in a process of reciprocal definition in which objects are defined by subjects and subjects are defined by object" - Madeleine Akrich. While the power to define the other is distributed unevenly between the parties involved, like developers, artifacts and users
+
+Software developers create models of order by means of which reality is formed in order to let these formal models become reality itself. User images can be regarded as part of such ordering models. Their ascriptions participate in the process of defining gender. 
+
+
+
+The Rise of the Dilettante as the leading figure in software development:
+
+The Xerox star computer was the commercially unsuccesful cornerstone of the apple windows GUI. The functions were reduced to core functionalities, that were ascribed to the intended target group - which wasn't female secretaries. It was the first computer to make use of the mouse, graphical icons were used to simulate to office environment, to make the electronic world seem more familiar. There was an effort to oblige to the weak memories of people and reduce alienation. This had the downfall of a high sales price and reduced processing capability. The highly reduced functionality was seen as approriate though because of the taget group: managers and knowledge workers who neither have secretaries nor the time or desire to study operating systems. 
+Former word processing programs had a model in mind that didn't involve the process of composing texts, but just typing whatever was given to the secretary. The new approach originally had men in mind, but was then universalized and ungendered. This corresponds to the re-evaluation of the relation between composing and typing. Instead of the typing being something that women did for others, the medium itself is being reconceptualozed. 
+
+--> The meaning of gender and of artifacts are intertwined phenomena, and change of one has implications for the other.
+
+
+
+Productive artifacts, changeable gender concepts, insights about an unstable relationship 
+
+1. decisions concerning software design are related to ideas of gender
+2. this relationship is by no means static
+
+Programs addressed women or men, but the gender only played an indirect role, as occupations and tasks were the principal concern. Designers asked themselves: What kind of texts are they typing, what can they memorize, which precautions are necessary? The answers prescribed the users actions, in this way, the technologies are productive and contribute to the social behavior and competencies.
+
+--> Software development reproduces traditional socio-technical arrangements
+
+But users diverge from the course of action assumed by system designers
+
+The relationship btween gender and technology appears as a context-dependent matter consisting of mutual ascriptions to prosepctive users and programs. The meaning of gender varies depending on concrete cicrumstances
+
+The relationshop betwen gender and technology can be illuminated with how questions that ask from a procedural rather than from a structural point of view
+
+
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+
+James Fleck: Learning by trying: the implementation of configurational technology 
+
+
+[skipped]
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Lucy Suchman: Working relations of technology production and use 
+
 
 
 
