@@ -589,11 +589,205 @@ James Fleck: Learning by trying: the implementation of configurational technolog
 
 Lucy Suchman: Working relations of technology production and use 
 
+Suchman recalls Haraway's stance on feminist objectivity - which is about limited location and situated knowledge. It suggests that there is no transcendent unlocatable and so irresponsible knowledge, but accountability. According to Suchman the only route to objectivity is through collective knowledge of the specific locations of respective visions. 
+
+There is a considerable barrier between different fields of labor, like design and research. This leads to a real irresponsibility for the outcomes, but there should be a responsibility for the process of technology production. There is also a lack of understanding which is interpreted as shortcomings or reluctance. Suchman refers to a project she was involved in, in a law firm, where the litigation department was threatened to be closed down, mostly due to a lack of understanding of their work, which had strong implications and required far more interpretative and judgemental work than attorneys for example would see. By stressing these traits, the department wasn't closed down, instead the work was rendered more efficient and cost-cutting. 
+
+
+A transformation of technology design entails:
+--> recognizing various forms of visible and invisible work, locating ourselves in a web of connections and taking responsibility for our participation
+--> Understanding technology use as recontextualization of technologies, designed at greater or lesser distances in some local site of pracitce [???]
+--> acknowledge different powers of actors to control technology
+--> establishing new bases for technology integration
+--> valuing heterogenity achieved through practices of technology production and use, rather than dominance and homogeneity
+
+Tasks of a feminist view: 
+- Articulating feminist viewpoints,
+- thinking about how we are affected by these worlds
+- consider the ways in which how we think about them may be implicated in existing power relations
+- imagine ways in which these worlds ought to and can be transformed 
+
+--> Taking this as a description and directive for constructing alternative forms of technology production and use 
 
 
 
 
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
 
+###PART THREE: REPRODUCTIVE TECHNOLOGY
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Introduction
+
+Technological Determinism and Reproduction
+
+We seem to have unprecedented technological options to enhance our lives, homes and bodies. Reproductive technologies have held out particular promises for women, offering liberation from a previously ordained gender order. Reproduction: Biological reproduction and production and consumption that takes place in the home. The technical changes were accredited with a lot of positive developments and chances for women, to escape their subordination.
+
+-> A social shaping perspective helps us to understand why these technologies cannot be read simply as emancipatory
+
+
+Domestic Technology
+
+Domestic technology is of considerable economic significance. The conventional view of the industrial revolution's impact on households and families was challenged by Ruth Cowan. This view sees technology as absorbing much of the household's role, all that remains is consumption, emotional support and bringing up children, thereby freeing women to enter the labor force. This assumes that women have nothing left to do. Household work still accounts for a big part of working time and the hours spent remained constant between 30ies and 50ies. The promise of labour-saving technology has not been realized in the home. 
+Mechnanization gave rise to new tasks which were as time-consuming, like the car enabling shopping, while it was usual to order in the 19th century. The disappearance of domestic servants allocated the entire job to the housewife.
+
+
+Gender Specialization in household technology
+
+The social organization of the family has structured the technology, but technologies are also shaped by gender relations. Cockburn and Ormrod follow the trajectory of the microwave, that didn't include women in it's innovation process, even when they see themselves as kind of scientists. However they were designed by men.
+Brown and White technologies entail different views, while white goods are portrayed as serviceable and simple to use, brown goods are portrayed as complex, clever technologies that require skills in handling and are purchased by men who see it as an activity of self-expresssion. Marketing and retailing play a role in framing demand, there is an unclear line between representing, constructing and controlling the customer. Marketing and Retailing too are part of the social shaping of technology. 
+
+Gendered inscriptions are reflected in future projections, where an elimination of household labour is not intended. The core aim of smart housing, like controlling of heating, lighting, information, is the integration, so centralized control of functions. A labour-saving, self-cleaning house is not an objective. The men who produce prototypes of the intelligend house ignore the fact that the home is a place of work - for women. The smart house is a deeply masculine vision of a house. 
+
+
+Alternatives to individualized Housework
+
+We need to remind ourselves that things can be different, there were alternative approaches to housework. Victorian feminists sought to redesign homes, realizing that the exploitation of women was embodied in the design of houses. The solution was to socialize househould labour and childcare. Kitchenless houses were designed, with coooperative residential housekeeping centers. 
+
+
+The technologies of biological reproduction
+
+Biological reproduction technologies cause excitement and anxiety both. What this obscures is that our choices are highly constrained, we are selecting from a restriced range of technological options that are shaped by political and economic interests. 
+Professional interests, and the role of state or gender, class and race are shaping. The evolution of in vitro fertilization illustrated this, as actually being an unsuccesful technology. 
+
+
+The Sexual Relations of contraceptive technologies 
+
+The pill is credited both with enabling women to control their fertility and brought massive social changes for women. But birth control practices are as much dependent on a society's attitude to sex and women as on effective technologies. The use of birth control required a morality that permitted it. 
+Science was also playing a role in sustaining women's oppression, by naturalizing sex and gender. The modern deconstruction of gender allows to shift the analysis of Reproductive technologies: They contribute to the stabilization of meanings of the body. Modern bodies are made and remade through science and technology, they are too, technological artifacts. 
+The pill has constructed a universal female body, it actually made women the same. All pill users now have the same cycle length, it homogenized women's reproductive functions. 
+
+--> There is no pure nature to return to, though. In a world where sex, gender, bodies and sexuality can be altered, we need to engage with technology and argue for different kinds based on social justice. In highlighting the way technologies do not have to be the way they are, the social shaping approach provides scope for human agency and policitcal intervention in creating future technologies.
+
+
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+
+Ruth Schwarz Cowan: the industrial revolution in the home 
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+
+Ruth Schwarz Cowan: the industrial revolution in the home 
+
+Traditional narratives about technology and society usually put grand machines in the goreground, but an important technological revolution has happened at home and this industrialization and it's impacts are quite peculiar. 
+The basic tenets of traditional interpretations for the industrialization on modern families were: The family as a basic unit disappears, women will have way more time, the household is no longer the place for production, families become smaller. Modern women are in trouble, and the results are role anxieties, divorces, and so on. Many Americans believe this to be true, hence they try to regain family solidarity by learning crafts like baking bread or they dismiss the feminist movement. These reaction root in the sociological analysis of the technological change's impact on families. 
+
+Little evidence backs this theory, as families in England or France have been rather small and had routinely employed domestic servants and there's doubt whether preindustrial housewives had more pressure on them than today's women. And it's hard to compare rural families of 18th century with higher class families of the 20th century. Middle class women of 19th century hardly had to do any chores, in 1950 they bore the weight all by themselves. 
+
+Cowan focuses on middle class American women. They were defined as actual or potential readers of several magazines and their non fiction articles and ads were used as sources. Based on these magazines, the most drastic changes occured between end of 1st world war and the depression, when ironing was replaced with electric ironing, the washing machine was introduced and bathrooms were standardized. Many homes were provided with hot water heating, central heating and wood or coal stoves were replaced. Canned foods and more refrigerated varieties of food were introduced and people increasingly ate outside the home. 
+These were enormous technical changes, no less profound than the change from the hand loom to the power loom. But it feels odd to speak of industrial revolution connected with housework. Though seeing it this way allows for certain questions we readily ask about textile workers - did structual changes occir, were new jobs created? And the answer is yes:
+
+- new jobs were created for which new skills were necessary, they weren't physically burdensome, but still they took up as much time. New ideologies were created, with reinforced new behavioral patters
+- the disappearance of servants and unpaid labor was a structual change and left the entire job on the housewive, while they used to be the ones who were served. This structural change is witnessed in ads, articles, the design of kitchens or the architecture - houses were being designed without maid's rooms and the kitchen wasn't a seperate room anymore 
+- The servants disappeared, the number of tasks increased. This is particularly evident in child care - women had less children, but they had to take up new tasks, like sterilizing bottles, learning about recipes and nutritions etc. - besides, women had to learn to deal with a bigger variety of goods and spend money wisely, hence become an informed consumer 
+- the fetishizing concern about cleanliness led to a higher amount and frequency of washing 
+
+
+--> Household work, like so many other types of work, expands to fill the time available
+
+The ideologies changed as well, housework was no longer a chore, but an emotional trip. Laundering meant loving your child, feeding was about loyalty and affection, and cleaning was about protective maternal instincts. If these weren't met, a woman felt guilty or embarrased. Guilt used to be fealt, when a woman abandoned her child, now she felt guilty for sending her son to school with scuffed shoes. 
+
+The predicitons about divorces didn't roll out, there was a negative correlation: The more income a man had, the less likely for a woman to be working. Women in the higher social classes should actually have fewer functions and be more likely to seek paid employment or divorce, but the contrary was true.
+
+What is the link between technical and social changes? According to Cowan these are advertisers. (hypothesis)
+
+This teaches us general lessons:
+
+--> the standard model of the impact of modern technology on families needs a revision, the changes were not the ones the model predicted, the functions of the mother have increased and the dissolution of families didn't occured 
+
+--> Our standard notions about the changes of work forces under presse from technological change also need revision: 
+We expect structures to become more highly differentiated - instead, the worker became less specialized, with the American housewife having to fulfill different tasks), 
+We expect managerial functions to increase - but the woman was idealized as both the manager and worker, while she was a manager before
+We expect the emotional context to disappear - while the work of women has been emotionalized 
+
+
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+
+Anne-Jorunn Berg: A gendered socio-technical construction: the smart home
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+
+This study focuses on the home of tomorrow, the smart home and the importance of gender in the innovation process. The questions are: 
+
+1. What material appliances are actually in the making today? 
+2. What kind of household activities are the new artefacts meant for? Is Housework taken into consideration? 
+3. Who are the consumers and how do they see their taget group?
+
+The aim is to analyze how innovation can be said to be a gendered processses and the smart house can be seen to be a gendered sociiotechnical construction. 
+
+Focus of research are the 
+
+- Honeywell House: Looks pretty much like an ordinary house. The technologies are focused on the concept of integration. The effort is directed towards a control and regulation system and it's applied to light, heat and security
+- NAHB Smart house system resembles more a caravan than a house, with the main focus on communication networks. It doesn't entail new technologies as such, familiar technologies now communicate and interact with each other.
+- Xanadu has an appearance that is unique, symbols the novel thinking. It encompasses a wider range of activities, which are all prototypes. 
+
+All these concepts do not mention or include or address housework. They all do not differ radically from technologies alreay in existence, all that is new is the integration itself and linking different appliances. 
+
+
+Housework: Out of Sight, out of mind
+
+For Honeywell, the smart home does more things the way you'd like to have them, which is directed at the owner of the house. The advantages are comfort, security, convenience, energy saving and entertainment. The job the smart home does, does not refer to any real job in the house. 
+NAHB is quite similar in it's approach, the smart home makes it comfortable and easier to live in, but housework again is invisible. 
+Xanadu does encompass some hints ar housework, by increasing comfort and giving families the opprtunity to spend more time together, but this is ambiguous. Housewifes are considered important, but we are left unclear as to whether their work is meant when they claim, they'll reduce drudgery. 
+
+For the interviews, Berg conducted, it was explicitly mentioned, that the focus would lie on housework, and yet this issue wasn't adressed and the interviewed were rather suprised about this angle. At honeywell they considered the automatic light switch to be a relief for women with wet laundry on their arms, xanadu claimed the robot who could serve drinks (while they still jad to be poured by someone and serving drinks is hardly housework) or a robot would suggest a menu, which still had to be cooked. 
+
+-> The designers and engineers knew little about a women's work
+
+
+Woman as a social group: relevant but absent 
+
+So who is the target group? A relevant social group according to Pinch and Bijker are groups of individuals for whom an artifact has a shared set of meaning. Consumers or customers should be included in this definition. 
+
+Women are a relevant social group in the development of the smart house: They possess skills and knowledge about the home that should be a resource in the design process. Women could be an important target in the marketing of the house. 
+
+However, women are hardly included, instead a technically interested male is seen as consumer. The designers have failed to visualize in any way the user/consumer of their innovation. In so far as they have one in mind, it is someon in their own image. They have ignored the fact that the home is a place of work and overlook women, who's domain they are effectively altering. 
+
+
+Gendered innovation process, gendered technology 
+
+There is an absence of women in the innovation process and this sociotechnical construction is not intended to change gender inequality. Technology though is a process, open to interpretation. However, to observe the gendering in the early stages allows to understand what happens subsequently. 
+In this case we witness a technology push, rather than a consumer pull, its inspiration lies not in the practices of everyday life but within a fascination for technology. The gender implications are clear: technology is a masculine domain and an interest in technology is seen as constituitive of masculinity. When technological possibilities lead, the result is a highly masculine concept. 
+
+-> The smart home is unlikely to substitute any time in housework. The construct reflects a male idea of the home and responds to male activities. It is gendered in what it leaves out - its lack of support for changes in the domestic sexual division of labour. 
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+
+Moyra Doorly: A woman's place: Dolores Hayden on the 'grand domestic revolution'
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+
+In the last half of the 19th century and beginning of the 20th, there was a remarkable school of feminists thought that tied together architecture and economics in a cogent social theory. These 'material feminists' demanded a grand domestic revolution. They wanted wages for housework and set up new kinds of neighborhood orgnaizations, such as housewive's cooperatives and they explored radical new types of buildings. The central object was the socialization of domestic work. All household labour and child care was to become social labour, in neighbourhoods. 
+
+One idea by Melusina Fay Peirce and Charlotte Perkins Gilman proposed groups of 12-50 women, who would organize cooperative associations to perform all domestic work collectively and charge their husbands for these services. By membership fees they would purchase a building to serve as headquarter and furnish it with mechanical equipment for cooking, laundry, etc. and eventually people with skills would be hired. The private houses were kitchenless. 
+
+Alice Austin described in 1916 a feminist social city that farmers and urban workers planned for the suburban sprawl of Los Angeles. Austin developed plans for kitchenless houses, ashs he criticised the waste of time of individual cooking. In her plans, a network of underground tunnels linked the houses and provided the infrastructure for dirty dishes to be washed and returned, laundra and more. 
+
+These ideas never came into practice, Dolores Hayden describes its ideas as part of a lost feminist tradition that stems from a time of packed urban populations. More paid work for women meant less servants for middle class housewives. While the society seemed to be moving forward, housewives were increasingly isolated in suburbs, while their kids went to school and their husbands to work. Small gadget were cheap enough to be purchased and cemented the housework to be located in the private household and done by women. 
+
+The average household was soon equipped with enough equipment to service a primitive village, and today architecture is still a man's world. Much could be learnt from Victorian architects. 
 
 
 
