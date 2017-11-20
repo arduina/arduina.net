@@ -3,7 +3,7 @@
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
 
-###PART ONE: INTRODUCTORY ESSAY AND GENERAL ISSUES
+### PART ONE: INTRODUCTORY ESSAY AND GENERAL ISSUES
 
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
@@ -367,7 +367,7 @@ Article on the development of film camera and photography technology, which alwa
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
 
-###PART TWO: THE TECHNOLOGY OF PRODUCTION
+### PART TWO: THE TECHNOLOGY OF PRODUCTION
 
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
@@ -615,7 +615,7 @@ Tasks of a feminist view:
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
 
-###PART THREE: REPRODUCTIVE TECHNOLOGY
+### PART THREE: REPRODUCTIVE TECHNOLOGY
 
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
@@ -671,13 +671,6 @@ The pill has constructed a universal female body, it actually made women the sam
 
 Ruth Schwarz Cowan: the industrial revolution in the home 
 
-
---------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------
-
-
-Ruth Schwarz Cowan: the industrial revolution in the home 
-
 Traditional narratives about technology and society usually put grand machines in the goreground, but an important technological revolution has happened at home and this industrialization and it's impacts are quite peculiar. 
 The basic tenets of traditional interpretations for the industrialization on modern families were: The family as a basic unit disappears, women will have way more time, the household is no longer the place for production, families become smaller. Modern women are in trouble, and the results are role anxieties, divorces, and so on. Many Americans believe this to be true, hence they try to regain family solidarity by learning crafts like baking bread or they dismiss the feminist movement. These reaction root in the sociological analysis of the technological change's impact on families. 
 
@@ -717,10 +710,6 @@ We expect the emotional context to disappear - while the work of women has been 
 
 
 Anne-Jorunn Berg: A gendered socio-technical construction: the smart home
-
-
---------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------
 
 
 This study focuses on the home of tomorrow, the smart home and the importance of gender in the innovation process. The questions are: 
@@ -775,10 +764,6 @@ In this case we witness a technology push, rather than a consumer pull, its insp
 Moyra Doorly: A woman's place: Dolores Hayden on the 'grand domestic revolution'
 
 
---------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------
-
-
 In the last half of the 19th century and beginning of the 20th, there was a remarkable school of feminists thought that tied together architecture and economics in a cogent social theory. These 'material feminists' demanded a grand domestic revolution. They wanted wages for housework and set up new kinds of neighborhood orgnaizations, such as housewive's cooperatives and they explored radical new types of buildings. The central object was the socialization of domestic work. All household labour and child care was to become social labour, in neighbourhoods. 
 
 One idea by Melusina Fay Peirce and Charlotte Perkins Gilman proposed groups of 12-50 women, who would organize cooperative associations to perform all domestic work collectively and charge their husbands for these services. By membership fees they would purchase a building to serve as headquarter and furnish it with mechanical equipment for cooking, laundry, etc. and eventually people with skills would be hired. The private houses were kitchenless. 
@@ -795,9 +780,6 @@ The average household was soon equipped with enough equipment to service a primi
 
 
 Anni Dugdale: inserting Gräfenberg's IUD into the sex reform movement
-
---------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------
 
 
 In 1929 the Grafenberg rinf, the first intrauterine device (IUD) was introduced at the Sex Reform Congress. The women active in the sex reform movement naturalized a new corporeality for all women through the contraceptive technolgigies they took up and distributed. The ring was promoted by the women and won their support because it configured the bodies of its users in a way that manufactured the new women's body - as imagined by the sex reformers. 
@@ -819,8 +801,6 @@ The interplay of the new ideology of consumption - that replaced social rankings
 
 Nelly Oudshoorn: The decline of the one-size-fits-all paradigm, or, how reproductive scientists try to cope with postmodernity 
 
---------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------
 
 The dominance of gyneacology over andrology is an example for the institutional and discursive processes of othering in biomedical sciences. A profound change emerged in the subject-object dichotomy in a specific area: Reproductive Sciences. It roots in the othering of the woman and therefore universalization. 
 
@@ -854,6 +834,67 @@ Control or Choice?
 so how do the cafeteria approach (that emphasizes diversity) and the one size fits it all approach fit together? There are some contiuities, for example how global problems are being linked to personal problems. Furthermore the ambuguity of the cafeteria approach is replacing individual choice and control with the control of the state or the health worker (who has to remove a transplant). It also making a difference between those, that can chose and those that are deemed to be controlled with a stricter fertility control. 
 
 The cafeteria approach has disrupted the subject object positions but it has been replaced with a focus on a difference between categories of men and women who are more or less considered to be responsible. This remains a critical issue. 
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+### PART FOUR: MILITARY TECHNOLOGY
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Introduction: 
+
+Military technology has contributed centrally to the shaping of our world, one if it's central features, the dominance of the countries of the north over those of the south, is in part the legacy of innovations in military technology in Europe, like the gun-carrying ships. Military concerns also influence civilian technologies, as the Internet stems from the concepts of the ARPANET. 
+Of all spheres of technology, none is more stereotypically masculine than military technoligy, which is also materialized in the artifacts of war, like a jet cockpit. 
+There is a huge and often discussed involvement of the industry, which is often discussed in the terms of a "military industrial complex" which exaggerates some aspects, but there's little doubt, that the nature of technology is profoundly affected by the institutions in which it is prouduced and by those in which it is used. 
+
+The fourth part closes with a political remark which underlines the authors' intention to no remain purely academic in pursuits, but also maintain a critical edge. 
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Janet Abbate: Cold war and white heat: the origins and meanings of packet switching
+
+Abbate's take on packet switching - it is often considered as a technology with obvious advantages, but the success was not automatic, it had to be socially constructed. It was never adopted because of purely technical criteria, but always because of it fitted into a broader socio-technical understanding of how data networks could and should be used. 
+
+The success of the Arpanet depended on packet switching, but the success of packet switching also relied upon the Arpanet.
+
+[Very very very reduced summary, not really relevant to my studies]
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Rachel N. Weber: Manufacturing gender in military cockpit design 
+
+Military as an institution has had a historical claim to masculinity, but the inherent masculinity is socially constructed. The bias against women is built in the constuction and engineering of design guidelines. The height of the seat and the way handles and operational tools were to be reached physically excluded women. The decision to change the ergonomics was highly disputed from different sides, as it entailed further costs and delay the purchase of Training Systems. In the end, a bill was passed, that had the precondition of a seating suitable for female combat roles, for further purchase. 
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Donald MacKenzie: Theories of technology and the abolition of nuclear weapons 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
