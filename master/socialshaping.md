@@ -790,6 +790,76 @@ These ideas never came into practice, Dolores Hayden describes its ideas as part
 The average household was soon equipped with enough equipment to service a primitive village, and today architecture is still a man's world. Much could be learnt from Victorian architects. 
 
 
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+
+Anni Dugdale: inserting Gräfenberg's IUD into the sex reform movement
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+
+In 1929 the Grafenberg rinf, the first intrauterine device (IUD) was introduced at the Sex Reform Congress. The women active in the sex reform movement naturalized a new corporeality for all women through the contraceptive technolgigies they took up and distributed. The ring was promoted by the women and won their support because it configured the bodies of its users in a way that manufactured the new women's body - as imagined by the sex reformers. 
+
+Gräfenberg's design was derived from the stem pessary, along with some other doctors that also contributed to the design with their own findings and inventions. There were several doctors, that were seeking to alleviate the misery of working people through liberalization and improvement of contraception and abortion. 
+
+Gräfenberg tinkered with the different devices and the outcome is based on a series of contested decisions (as social shaping studies suggest). Social constructivist locate the process of design in the social contexts where they occur, but there is hardly documents available. The analysis perspective lies upon how the Grafenberg ring inscribed the new women's bodies and desires and thereby constituted the ring as a a contraceptive that could bear the goals of the sex reformers. The new woman's body was materialized. This stands against a technical determinist vision, but rather sees technologies, bodies and new patterns of sociality as made together. 
+
+The interplay of the new ideology of consumption - that replaced social rankings and incorporated the notion that everyone could access pleasure and services - and the dismantling of the patriarchial order and discovery of female sexuality and choice lay the gorundwork for an ideology that would absorb the technology in it sexual politics. Gräfenberg positioning his device as both new and scientific and along other contraceptives (which didn't label the ring as ideal, it was more a matter of personal taste) associated a set of characteristics that could be coupled with the sex reform movement. 
+
+--> Gräfenberg thus partipated in the materialization of a new corporeal order. The new woman's body was just as much a fabrication. 
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+Nelly Oudshoorn: The decline of the one-size-fits-all paradigm, or, how reproductive scientists try to cope with postmodernity 
+
+--------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------
+
+The dominance of gyneacology over andrology is an example for the institutional and discursive processes of othering in biomedical sciences. A profound change emerged in the subject-object dichotomy in a specific area: Reproductive Sciences. It roots in the othering of the woman and therefore universalization. 
+
+
+The institutionalization of woman as the other
+
+The process of othering is surprisingly recent. Medicine saw male and female bodies as similar, whereas the female body was understood as a lesser version. Only in the 18th century, differences were identified and focused on, like the skeleton and later muscles and veins, cells or brain. There was a clear shift from similarities to differences. It was accompanied by new notions of women and men being not the same, but complementary opposites. The femlae body became the medical object par excellence and scientists tried to find the ultimate cause of otherness, e.g. the uterus. This eventually led to setting apart women's bodies in specialism: Gyneacology, followed up by clinics, journals, etc. This was not paralleled by a male scpecialism. 
+The female body was transformed into an easily accessible guinea pig for tests and research. Sex endocrinology integrated the model of the female body as reproductive in their studies and intervened in menstural cycle and the menopause, including natural features in the domain of medical intervention. 
+
+
+One Size Fits All
+
+As a result, the first means of contraception focused on women. The development was fostered by a feminist who convinced a doctor to develop a pill that would be unversal, could be used by women of all races, classes and genders. The One Size Fits All approach relied upon the groudnwork of othering, which directed the focus on similarities among women. Women as individual test groups, were replaced with cycles as representation. These discourses constructed women's bodies as universal. 
+
+The cycle of four weeks was a rather arbitrary decision by Pincus, who noted that women would be distressed if their period disappeared. The medication was tested in Puerto Rico, where some pregnancies happened. The fail was accredited to the users, not to the technology. 
+
+-> The concept of similarity functions as the cornerstone for the development of universal technolgies, the underlying theoretical assumption is that technologies can be made to work everywhere because scientific knowledge is universal. 
+
+The pill though, was not adopted worldwide, but by middle- and upper class women in the Western world. It is made for people that can take medication regularly, do not have to hide contraceptives and have access to health control. 
+
+
+The Cafeteria Discourse
+
+In the 70ies, along with critique, a new stance on diversity was developed. Locality and individuality became central concerns in Western culture. Family planning programs were pushed to finding diverse methods, to have the technology adapt to the people and not people adapt to technology. It was thought of as a cafteria model where people are encouraged to use control, according to their own preferences. This eventually also led the R&Ds to include a new group: men. While contraceptives were so far considered as something women were repsonsible for - this is now challenged by feminists. Them and governments alike are calling out for contraceptives that are male.
+
+The paradigm, in which men possessed the subject position and women were the taget, is changing, with men testing contraceptives on their own sex and women adopting the subject position and being in decision-making position. 
+
+
+Control or Choice?
+
+so how do the cafeteria approach (that emphasizes diversity) and the one size fits it all approach fit together? There are some contiuities, for example how global problems are being linked to personal problems. Furthermore the ambuguity of the cafeteria approach is replacing individual choice and control with the control of the state or the health worker (who has to remove a transplant). It also making a difference between those, that can chose and those that are deemed to be controlled with a stricter fertility control. 
+
+The cafeteria approach has disrupted the subject object positions but it has been replaced with a focus on a difference between categories of men and women who are more or less considered to be responsible. This remains a critical issue. 
+
+
+
+
+
+
 
 
 
