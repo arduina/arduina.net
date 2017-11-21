@@ -1,5 +1,7 @@
 
-
+---
+header: The Social Shaping of Technology
+---
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
 
@@ -872,7 +874,7 @@ The success of the Arpanet depended on packet switching, but the success of pack
 
 Rachel N. Weber: Manufacturing gender in military cockpit design 
 
-Military as an institution has had a historical claim to masculinity, but the inherent masculinity is socially constructed. The bias against women is built in the constuction and engineering of design guidelines. The height of the seat and the way handles and operational tools were to be reached physically excluded women. The decision to change the ergonomics was highly disputed from different sides, as it entailed further costs and delay the purchase of Training Systems. In the end, a bill was passed, that had the precondition of a seating suitable for female combat roles, for further purchase. 
+Military as an institution has had a historical claim to masculinity, but the inherent masculinity is socially constructed. The bias against women is built in the constuction and engineering of design guidelines. The height of the seat and the way handles and operational tools were to be reached, physically excluded women. The decision to change the ergonomics was highly disputed from different sides, as it entailed further costs and delay the purchase of Training Systems. In the end, a bill for further purchase was passed, that had the precondition of a seating suitable for female combat roles.
 
 
 --------------------------------------------------------------------------------------------
@@ -880,17 +882,49 @@ Military as an institution has had a historical claim to masculinity, but the in
 
 Donald MacKenzie: Theories of technology and the abolition of nuclear weapons 
 
+MacKenzie here conducts a thought experiment, using theories to answer the question, how society could get rid of nuclear weapons. The applied theories are "techological systems theory", "cognitive perspectives, with tacit knowledge", "Strucutral Sociology, including modernization theory, patriarchy theory and Marxism" and "Actor-Network-Theory". 
+
+The dominant risk of the endeavour is obviously the secret circumvention of a state by hiding away weapons. 
+
+Assumptions: The process would take 20-30 years, the agreement would include acceptance of monitoring and inspections and it would include a ban on missiles. Also assuming that there is human intelligence and surveilannce and a breakout would lead to military action. 
+
+
+Nuclear Weapons from a Systems Perspective:
+
+Systems perspective implies that technologies cannot be understood in isolation, but only in their systemic context. Seeing Nuclear weapons as the products of technological systems poses the question, whether they could be made useless if they were unplugged from a system. Making a nuclear weapon requires quantities of material. The chief problem is the existence of large poorly or not documented stockpiles of these materials. They are subject to decay though and hence of limited value over time. The materials like Tritium are themselves part of technical systems. The cut-off of their production could render weapons useless. 
+Furthermore, weapons would have to be directed towards a target, either by a missile or aircraft. Aircrafts can be intercepted, missiles pose a serious challenge to engineering, for the trade-off between weight, payload and range. Miniaturization places considerable demands on designers. 
 
 
 
+Nuclear Weapons and tacit, local knowledge
+
+Technical knowledge is seldom fully explicit, even in the most advanced modern science, tacit knowledge is largely a local phenomenon. This challenges the notion, that knowledge about building a nuclear weapon cannot be eliminated. Human knowledge can be lost as a consequence of a prolonged hiatus. Nuclear weapons would have to be reinvented. The spread of nuclear weapons skills didn't have characteristics of tacit knowledge spread (people moving, face-to-face-learning...) and yet it rather had the character of reinvention, than copying. All took longer than the original innovation, involving hundreds or thousands of staff and knowledge about prior projects did not ease the effort. Also spies knowledge (that was only conveyed in text) couldn't solve all problems. 
 
 
 
+The Social preconditions of Nuclear Weapons
+
+Nuclear weapons are not self-evidently necessary, but under certain social conditions they appear so. It appears the risk of major war between industrialized countries is the precondition that needs to be eliminated. Political scientists point out that the rarity of world war since 1945 is due to the existence of nuclear weapons and the high costs which outweigh benefits, but it's not the vulnerability of the states alone. There are mutual benefits that make war unlikely, like former foes are experiencing in the European Union. 
+The optimist view would suggest that modernization leads to a spread of democracy and trade and warlike influences diminish. A feminist twist suggest that warlike tendencies and male power are associated and hence a weakening of patriarchy implies a weakening of war tendencies too. 
+The role of capitalism is ambiguous though, it is seen both as a force for war and for peace, a perhaps better reasons sees democracies as decisive. Electorates can be in favor of war too, hence democracy is not a guarantee but plausibly a force for peace. 
 
 
 
+Actor-Network Theory 
+
+The theoretical flaw in previous perspectives is the notion of social structures as stable. There is rather an open-ended interaction between a multitude of actors and a social structure is a precarious social and technical outcome. 
+The development of weapons is a heterogenous engineering, both constructing and maintaining technical artifacts and relationships to human actors. The ANT hence suggests extreme caution, as everything is uncertain and reversible. Also, the properties of all actors are relational, the very act of nuclear disarmament might change the way states behave. ANT can also suggest creating counter-networks that give the disarmament some stability. And the theory is also open towards technical innocations changing social possibilities. 
+There is no technical fix but the potential of technical verification shouldn't be underestimated, as the radioactive materials leave traces. Verification is also a socio-technical process, whistleblowers could play a critical role as societal verifications. 
+
+[The discussion part is basically a summary of the good and bad thoughts based on the theories]
 
 
+
+Conclusion:
+
+The risk of circumvention of the agreement by secret development of large arsenals thus seems to be limited. The development of small arsenals of crude nuclear weapons is not negligible. So it seems we have to approach the abolition of nuclear weapons as a process: We do not know and shouldn't pretend to know the solution of all the problems it may throw up. This is not a reason for delay of the start, actions taken now can provide great ease of later stages of the process (e.g. control tritium production). 
+All this ultimately is based on trust, which can be build up or destroyed via interactions. It might become feasible though if we see it as a process. An agreement of this magnitude could be a remarkable declaration of trust and the very process might bring upon some of the social preconditions, like the alleviation of regional tensions or stable democratic governments.
+Complete elimination until 2005 [sic!] seems unrealistic, but major steps may be possible by then. 
 
 
 
