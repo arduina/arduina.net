@@ -257,10 +257,34 @@ To further our understanding of these issues we need more qualitative research o
 
 5. The Built Environment: Women's Place, Gendered Space
 
+Argument: The built environment reflects and reinforces a domestic ideal which emphasizes the importance of the home as a woman's place and a man's haven. Sexual divisions are literally built into houses and the whole urban system's structure.
+The physical form of buildings is seen as a result of technological and engineering advances, however the design of the buildt environment is stamped with wider social and economic relations. 
 
+The Ideal Home: 
 
+Victorian ideals lay the groundwork for the modern domestic ideal, with the separation of home and workplace and the identification of the home as a private place. While the home was subdivided in public and private places too and the women confined to the latter. The rooms reflected the stratified relationships within the home and was characterized by the subordination of servants to the familiy, family to wife and wife to husband. 
+Efficiency rather than beauty became the organizing principle of the home in the 20th century and the kitchen became the core of the house. This change reflected the growth of a middle class without servants and the mechanization of the home. Large-Scale state intervention in the housing market played a key role in favoring the single family household. 
+In the 50ies and 60ies women were increasingly pushed back into the home, with new socio-psychological coneptions of familial relations (good communication, intimacy, safety, leisure). The open kitchen enabled women to observe children while cooking, now that all tasks rested upon her. 
+Less privacy was offered to adults, especially women, they had the kitchen as a domain. Houses became more rural looking again and important for the self-image. 
+Along this development, families became a private entity as well, being separated from each other, especially in suburbs. This movement fostered isolation and boredom in housewife's lifes. The Zoning of work and home settled women further in the neighborhoods and distanced them from economy. 
+Studies on space, segregation and power haf often neglected the perspective on gender besides class and race. 
 
+Feminist Alternatives:
 
+The feminist designers' collective "Matrix" comented: Women play almost no part in making decisions about or in creating the environment. Is is a man-made environment. (Matrix 1984, p. 3, reference: Wajcman p. 120). Feminists have drawn attention the the sexual politics of space, with domestic architecture often disregarding the quality of women's lives. Women experience space differently from men (reference to the multi-storey residential block) and some claim that women design differently. However common education and financial restrictions unify the general premises in architecture. Waijcman recalls the victorian model developed by Pierce and Gilman, that aimed at socializing household work and favored kitchenless apartments. Howeber: The liberation of the middle class women involved exploting women of a lower economic class. This failure demonstrates the impossibility of divorcing gender from class and other relations of inequality. Egalitarian architectural forms cannot be superimposed on a preexisting social order and be transformative in themselves. 
+
+Automobiles: Technology in Motion
+
+Women's and men's daily lives trace very different patterns of time, space and movement, and the modern city is predicated on a mode of transport that reflects and is organizes around men's interests, activities and desires, to the detriment of women. The automobile industry is the largest in the world and addresses needs like privacy, convenience and mobility. However, rush hour lets people travel as slowly as a horse in 1900. 
+The state as well as the automotive and petroleum industries were the force that prevented a ecologically sound, diversified and balanced system of mass transportation. 
+These developments in transport policy have affected women and men differently. Women have less licenses and less access to the family car. And yet, their travel needs are expanding, for the disappearance of home-delivery services, which were replaced by car-oriented supermarket complexes, resulting in an increase of the time women had to spend on consumption activities. 
+Women are furthermore restricted in their choice of jobs due to mobility constraints and tasks. Effectively they might be restricted to part time jobs, nearer to the home, which allows them to pick up children. 
+Yet public transport is still designed around the needs of full-time workers, wheres women's journes are more complex and multi-purposed. The dominance of the car has also made the city alienating for women and pedestrians, with dark underground passages or motorways polluting thei air. Women often do not travel at night, especially women of color for the potential risk of harassment and violence. 
+Langdon Winner's article emphasized the politics of artifacts and 
+
+--> even seemingly innocuous technological forms such as roads and bridges seemingly reinforce power relations. What is so significant about these vast technological projects is that they endure, such that for generations after Moses [the architect of low bridges] has gone, the highways and bridges he built [...] continue to give New York much of is present form. Many of his monumental structures of concrete and steel embody a systematic social inequality, a way of engineering relationships among people that, after a time, becomes just another part of the landscape.
+
+Cars are also culturall charged with masculinity, class, lifestyle and more powerful messsages. 
 
 
 
